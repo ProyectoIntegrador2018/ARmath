@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: afd40f80f6095aa45b90b96d40d1343f
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: anillo1
+    100004: anillo10
+    100006: anillo11
+    100008: anillo12
+    100010: anillo13
+    100012: anillo14
+    100014: anillo15
+    100016: anillo16
+    100018: anillo17
+    100020: anillo18
+    100022: anillo19
+    100024: anillo2
+    100026: anillo20
+    100028: anillo21
+    100030: anillo22
+    100032: anillo23
+    100034: anillo24
+    100036: anillo25
+    100038: anillo26
+    100040: anillo27
+    100042: anillo28
+    100044: anillo29
+    100046: anillo3
+    100048: anillo30
+    100050: anillo31
+    100052: anillo32
+    100054: anillo4
+    100056: anillo5
+    100058: anillo6
+    100060: anillo7
+    100062: anillo8
+    100064: anillo9
+    100066: brep_1
+    100068: disco1
+    100070: disco10
+    100072: disco11
+    100074: disco12
+    100076: disco13
+    100078: disco14
+    100080: disco15
+    100082: disco16
+    100084: disco17
+    100086: disco18
+    100088: disco19
+    100090: disco2
+    100092: disco20
+    100094: disco21
+    100096: disco22
+    100098: disco23
+    100100: disco24
+    100102: disco25
+    100104: disco26
+    100106: disco27
+    100108: disco28
+    100110: disco29
+    100112: disco3
+    100114: disco30
+    100116: disco31
+    100118: disco32
+    100120: disco4
+    100122: disco5
+    100124: disco6
+    100126: disco7
+    100128: disco8
+    100130: disco9
+    100132: expresi__n_dv:polySurface23
+    100134: flecha:polySurface16
+    100136: group1
+    100138: polySurface16
+    100140: polySurface17
+    100142: polySurface18
+    100144: polySurface19
+    100146: polySurface20
+    100148: Trim_Char_d_1_1
+    100150: Trim_Char_d_2_1
+    100152: Trim_Char_V_1_1
+    100154: Trim_Char_x_1_1
+    100156: Trim_Text_dV_1_1
+    100158: Trim_Text_dx_1_1
+    100160: y_4_x__anillos1:brep_1
+    100162: y_4_x__anillos1:brep_10
+    100164: y_4_x__anillos1:brep_11
+    100166: y_4_x__anillos1:brep_12
+    100168: y_4_x__anillos1:brep_13
+    100170: y_4_x__anillos1:brep_14
+    100172: y_4_x__anillos1:brep_15
+    100174: y_4_x__anillos1:brep_16
+    100176: y_4_x__anillos1:brep_17
+    100178: y_4_x__anillos1:brep_18
+    100180: y_4_x__anillos1:brep_19
+    100182: y_4_x__anillos1:brep_2
+    100184: y_4_x__anillos1:brep_20
+    100186: y_4_x__anillos1:brep_21
+    100188: y_4_x__anillos1:brep_22
+    100190: y_4_x__anillos1:brep_23
+    100192: y_4_x__anillos1:brep_24
+    100194: y_4_x__anillos1:brep_25
+    100196: y_4_x__anillos1:brep_26
+    100198: y_4_x__anillos1:brep_27
+    100200: y_4_x__anillos1:brep_28
+    100202: y_4_x__anillos1:brep_29
+    100204: y_4_x__anillos1:brep_3
+    100206: y_4_x__anillos1:brep_30
+    100208: y_4_x__anillos1:brep_31
+    100210: y_4_x__anillos1:brep_32
+    100212: y_4_x__anillos1:brep_4
+    100214: y_4_x__anillos1:brep_5
+    100216: y_4_x__anillos1:brep_6
+    100218: y_4_x__anillos1:brep_7
+    100220: y_4_x__anillos1:brep_8
+    100222: y_4_x__anillos1:brep_9
+    100224: "expresi\xF3n_dv:polySurface23"
+    400000: //RootNode
+    400002: anillo1
+    400004: anillo10
+    400006: anillo11
+    400008: anillo12
+    400010: anillo13
+    400012: anillo14
+    400014: anillo15
+    400016: anillo16
+    400018: anillo17
+    400020: anillo18
+    400022: anillo19
+    400024: anillo2
+    400026: anillo20
+    400028: anillo21
+    400030: anillo22
+    400032: anillo23
+    400034: anillo24
+    400036: anillo25
+    400038: anillo26
+    400040: anillo27
+    400042: anillo28
+    400044: anillo29
+    400046: anillo3
+    400048: anillo30
+    400050: anillo31
+    400052: anillo32
+    400054: anillo4
+    400056: anillo5
+    400058: anillo6
+    400060: anillo7
+    400062: anillo8
+    400064: anillo9
+    400066: brep_1
+    400068: disco1
+    400070: disco10
+    400072: disco11
+    400074: disco12
+    400076: disco13
+    400078: disco14
+    400080: disco15
+    400082: disco16
+    400084: disco17
+    400086: disco18
+    400088: disco19
+    400090: disco2
+    400092: disco20
+    400094: disco21
+    400096: disco22
+    400098: disco23
+    400100: disco24
+    400102: disco25
+    400104: disco26
+    400106: disco27
+    400108: disco28
+    400110: disco29
+    400112: disco3
+    400114: disco30
+    400116: disco31
+    400118: disco32
+    400120: disco4
+    400122: disco5
+    400124: disco6
+    400126: disco7
+    400128: disco8
+    400130: disco9
+    400132: expresi__n_dv:polySurface23
+    400134: flecha:polySurface16
+    400136: group1
+    400138: polySurface16
+    400140: polySurface17
+    400142: polySurface18
+    400144: polySurface19
+    400146: polySurface20
+    400148: Trim_Char_d_1_1
+    400150: Trim_Char_d_2_1
+    400152: Trim_Char_V_1_1
+    400154: Trim_Char_x_1_1
+    400156: Trim_Text_dV_1_1
+    400158: Trim_Text_dx_1_1
+    400160: y_4_x__anillos1:brep_1
+    400162: y_4_x__anillos1:brep_10
+    400164: y_4_x__anillos1:brep_11
+    400166: y_4_x__anillos1:brep_12
+    400168: y_4_x__anillos1:brep_13
+    400170: y_4_x__anillos1:brep_14
+    400172: y_4_x__anillos1:brep_15
+    400174: y_4_x__anillos1:brep_16
+    400176: y_4_x__anillos1:brep_17
+    400178: y_4_x__anillos1:brep_18
+    400180: y_4_x__anillos1:brep_19
+    400182: y_4_x__anillos1:brep_2
+    400184: y_4_x__anillos1:brep_20
+    400186: y_4_x__anillos1:brep_21
+    400188: y_4_x__anillos1:brep_22
+    400190: y_4_x__anillos1:brep_23
+    400192: y_4_x__anillos1:brep_24
+    400194: y_4_x__anillos1:brep_25
+    400196: y_4_x__anillos1:brep_26
+    400198: y_4_x__anillos1:brep_27
+    400200: y_4_x__anillos1:brep_28
+    400202: y_4_x__anillos1:brep_29
+    400204: y_4_x__anillos1:brep_3
+    400206: y_4_x__anillos1:brep_30
+    400208: y_4_x__anillos1:brep_31
+    400210: y_4_x__anillos1:brep_32
+    400212: y_4_x__anillos1:brep_4
+    400214: y_4_x__anillos1:brep_5
+    400216: y_4_x__anillos1:brep_6
+    400218: y_4_x__anillos1:brep_7
+    400220: y_4_x__anillos1:brep_8
+    400222: y_4_x__anillos1:brep_9
+    400224: "expresi\xF3n_dv:polySurface23"
+    2300000: anillo1
+    2300002: anillo10
+    2300004: anillo11
+    2300006: anillo12
+    2300008: anillo13
+    2300010: anillo14
+    2300012: anillo15
+    2300014: anillo16
+    2300016: anillo17
+    2300018: anillo18
+    2300020: anillo19
+    2300022: anillo2
+    2300024: anillo20
+    2300026: anillo21
+    2300028: anillo22
+    2300030: anillo23
+    2300032: anillo24
+    2300034: anillo25
+    2300036: anillo26
+    2300038: anillo27
+    2300040: anillo28
+    2300042: anillo29
+    2300044: anillo3
+    2300046: anillo30
+    2300048: anillo31
+    2300050: anillo32
+    2300052: anillo4
+    2300054: anillo5
+    2300056: anillo6
+    2300058: anillo7
+    2300060: anillo8
+    2300062: anillo9
+    2300064: brep_1
+    2300066: disco1
+    2300068: disco10
+    2300070: disco11
+    2300072: disco12
+    2300074: disco13
+    2300076: disco14
+    2300078: disco15
+    2300080: disco16
+    2300082: disco17
+    2300084: disco18
+    2300086: disco19
+    2300088: disco2
+    2300090: disco20
+    2300092: disco21
+    2300094: disco22
+    2300096: disco23
+    2300098: disco24
+    2300100: disco25
+    2300102: disco26
+    2300104: disco27
+    2300106: disco28
+    2300108: disco29
+    2300110: disco3
+    2300112: disco30
+    2300114: disco31
+    2300116: disco32
+    2300118: disco4
+    2300120: disco5
+    2300122: disco6
+    2300124: disco7
+    2300126: disco8
+    2300128: disco9
+    2300130: expresi__n_dv:polySurface23
+    2300132: flecha:polySurface16
+    2300134: polySurface16
+    2300136: polySurface17
+    2300138: polySurface18
+    2300140: polySurface19
+    2300142: polySurface20
+    2300144: Trim_Char_d_1_1
+    2300146: Trim_Char_d_2_1
+    2300148: Trim_Char_V_1_1
+    2300150: Trim_Char_x_1_1
+    2300152: y_4_x__anillos1:brep_1
+    2300154: y_4_x__anillos1:brep_10
+    2300156: y_4_x__anillos1:brep_11
+    2300158: y_4_x__anillos1:brep_12
+    2300160: y_4_x__anillos1:brep_13
+    2300162: y_4_x__anillos1:brep_14
+    2300164: y_4_x__anillos1:brep_15
+    2300166: y_4_x__anillos1:brep_16
+    2300168: y_4_x__anillos1:brep_17
+    2300170: y_4_x__anillos1:brep_18
+    2300172: y_4_x__anillos1:brep_19
+    2300174: y_4_x__anillos1:brep_2
+    2300176: y_4_x__anillos1:brep_20
+    2300178: y_4_x__anillos1:brep_21
+    2300180: y_4_x__anillos1:brep_22
+    2300182: y_4_x__anillos1:brep_23
+    2300184: y_4_x__anillos1:brep_24
+    2300186: y_4_x__anillos1:brep_25
+    2300188: y_4_x__anillos1:brep_26
+    2300190: y_4_x__anillos1:brep_27
+    2300192: y_4_x__anillos1:brep_28
+    2300194: y_4_x__anillos1:brep_29
+    2300196: y_4_x__anillos1:brep_3
+    2300198: y_4_x__anillos1:brep_30
+    2300200: y_4_x__anillos1:brep_31
+    2300202: y_4_x__anillos1:brep_32
+    2300204: y_4_x__anillos1:brep_4
+    2300206: y_4_x__anillos1:brep_5
+    2300208: y_4_x__anillos1:brep_6
+    2300210: y_4_x__anillos1:brep_7
+    2300212: y_4_x__anillos1:brep_8
+    2300214: y_4_x__anillos1:brep_9
+    2300216: "expresi\xF3n_dv:polySurface23"
+    3300000: anillo1
+    3300002: anillo10
+    3300004: anillo11
+    3300006: anillo12
+    3300008: anillo13
+    3300010: anillo14
+    3300012: anillo15
+    3300014: anillo16
+    3300016: anillo17
+    3300018: anillo18
+    3300020: anillo19
+    3300022: anillo2
+    3300024: anillo20
+    3300026: anillo21
+    3300028: anillo22
+    3300030: anillo23
+    3300032: anillo24
+    3300034: anillo25
+    3300036: anillo26
+    3300038: anillo27
+    3300040: anillo28
+    3300042: anillo29
+    3300044: anillo3
+    3300046: anillo30
+    3300048: anillo31
+    3300050: anillo32
+    3300052: anillo4
+    3300054: anillo5
+    3300056: anillo6
+    3300058: anillo7
+    3300060: anillo8
+    3300062: anillo9
+    3300064: brep_1
+    3300066: disco1
+    3300068: disco10
+    3300070: disco11
+    3300072: disco12
+    3300074: disco13
+    3300076: disco14
+    3300078: disco15
+    3300080: disco16
+    3300082: disco17
+    3300084: disco18
+    3300086: disco19
+    3300088: disco2
+    3300090: disco20
+    3300092: disco21
+    3300094: disco22
+    3300096: disco23
+    3300098: disco24
+    3300100: disco25
+    3300102: disco26
+    3300104: disco27
+    3300106: disco28
+    3300108: disco29
+    3300110: disco3
+    3300112: disco30
+    3300114: disco31
+    3300116: disco32
+    3300118: disco4
+    3300120: disco5
+    3300122: disco6
+    3300124: disco7
+    3300126: disco8
+    3300128: disco9
+    3300130: expresi__n_dv:polySurface23
+    3300132: flecha:polySurface16
+    3300134: polySurface16
+    3300136: polySurface17
+    3300138: polySurface18
+    3300140: polySurface19
+    3300142: polySurface20
+    3300144: Trim_Char_d_1_1
+    3300146: Trim_Char_d_2_1
+    3300148: Trim_Char_V_1_1
+    3300150: Trim_Char_x_1_1
+    3300152: y_4_x__anillos1:brep_1
+    3300154: y_4_x__anillos1:brep_10
+    3300156: y_4_x__anillos1:brep_11
+    3300158: y_4_x__anillos1:brep_12
+    3300160: y_4_x__anillos1:brep_13
+    3300162: y_4_x__anillos1:brep_14
+    3300164: y_4_x__anillos1:brep_15
+    3300166: y_4_x__anillos1:brep_16
+    3300168: y_4_x__anillos1:brep_17
+    3300170: y_4_x__anillos1:brep_18
+    3300172: y_4_x__anillos1:brep_19
+    3300174: y_4_x__anillos1:brep_2
+    3300176: y_4_x__anillos1:brep_20
+    3300178: y_4_x__anillos1:brep_21
+    3300180: y_4_x__anillos1:brep_22
+    3300182: y_4_x__anillos1:brep_23
+    3300184: y_4_x__anillos1:brep_24
+    3300186: y_4_x__anillos1:brep_25
+    3300188: y_4_x__anillos1:brep_26
+    3300190: y_4_x__anillos1:brep_27
+    3300192: y_4_x__anillos1:brep_28
+    3300194: y_4_x__anillos1:brep_29
+    3300196: y_4_x__anillos1:brep_3
+    3300198: y_4_x__anillos1:brep_30
+    3300200: y_4_x__anillos1:brep_31
+    3300202: y_4_x__anillos1:brep_32
+    3300204: y_4_x__anillos1:brep_4
+    3300206: y_4_x__anillos1:brep_5
+    3300208: y_4_x__anillos1:brep_6
+    3300210: y_4_x__anillos1:brep_7
+    3300212: y_4_x__anillos1:brep_8
+    3300214: y_4_x__anillos1:brep_9
+    3300216: "expresi\xF3n_dv:polySurface23"
+    4300000: brep_1
+    4300002: disco32
+    4300004: disco31
+    4300006: disco30
+    4300008: disco29
+    4300010: disco28
+    4300012: disco27
+    4300014: disco26
+    4300016: disco25
+    4300018: disco24
+    4300020: disco23
+    4300022: disco22
+    4300024: disco21
+    4300026: disco20
+    4300028: disco19
+    4300030: disco18
+    4300032: disco17
+    4300034: disco16
+    4300036: disco15
+    4300038: disco14
+    4300040: disco13
+    4300042: disco12
+    4300044: disco11
+    4300046: disco10
+    4300048: disco9
+    4300050: disco8
+    4300052: disco7
+    4300054: disco6
+    4300056: disco5
+    4300058: disco4
+    4300060: disco3
+    4300062: disco2
+    4300064: disco1
+    4300066: anillo32
+    4300068: anillo31
+    4300070: anillo30
+    4300072: anillo29
+    4300074: anillo28
+    4300076: anillo27
+    4300078: anillo26
+    4300080: anillo25
+    4300082: anillo24
+    4300084: anillo23
+    4300086: anillo22
+    4300088: anillo21
+    4300090: anillo20
+    4300092: anillo19
+    4300094: anillo18
+    4300096: anillo17
+    4300098: anillo16
+    4300100: anillo15
+    4300102: anillo14
+    4300104: anillo13
+    4300106: anillo12
+    4300108: anillo11
+    4300110: anillo10
+    4300112: anillo9
+    4300114: anillo8
+    4300116: anillo7
+    4300118: anillo6
+    4300120: anillo5
+    4300122: anillo4
+    4300124: anillo3
+    4300126: anillo2
+    4300128: anillo1
+    4300130: Trim_Char_d_1_1
+    4300132: Trim_Char_x_1_1
+    4300134: flecha:polySurface16
+    4300136: polySurface16
+    4300138: polySurface17
+    4300140: polySurface18
+    4300142: Trim_Char_d_2_1
+    4300144: Trim_Char_V_1_1
+    4300146: y_4_x__anillos1:brep_32
+    4300148: y_4_x__anillos1:brep_31
+    4300150: y_4_x__anillos1:brep_30
+    4300152: y_4_x__anillos1:brep_29
+    4300154: y_4_x__anillos1:brep_28
+    4300156: y_4_x__anillos1:brep_27
+    4300158: y_4_x__anillos1:brep_26
+    4300160: y_4_x__anillos1:brep_25
+    4300162: y_4_x__anillos1:brep_24
+    4300164: y_4_x__anillos1:brep_23
+    4300166: y_4_x__anillos1:brep_22
+    4300168: y_4_x__anillos1:brep_21
+    4300170: y_4_x__anillos1:brep_20
+    4300172: y_4_x__anillos1:brep_19
+    4300174: y_4_x__anillos1:brep_18
+    4300176: y_4_x__anillos1:brep_17
+    4300178: y_4_x__anillos1:brep_16
+    4300180: y_4_x__anillos1:brep_15
+    4300182: y_4_x__anillos1:brep_14
+    4300184: y_4_x__anillos1:brep_13
+    4300186: y_4_x__anillos1:brep_12
+    4300188: y_4_x__anillos1:brep_11
+    4300190: y_4_x__anillos1:brep_10
+    4300192: y_4_x__anillos1:brep_9
+    4300194: y_4_x__anillos1:brep_8
+    4300196: y_4_x__anillos1:brep_7
+    4300198: y_4_x__anillos1:brep_6
+    4300200: y_4_x__anillos1:brep_5
+    4300202: y_4_x__anillos1:brep_4
+    4300204: y_4_x__anillos1:brep_3
+    4300206: y_4_x__anillos1:brep_2
+    4300208: y_4_x__anillos1:brep_1
+    4300210: polySurface19
+    4300212: expresi__n_dv:polySurface23
+    4300214: polySurface20
+    4300216: "expresi\xF3n_dv:polySurface23"
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anillo1
+        weight: 1
+      - path: anillo2
+        weight: 1
+      - path: anillo3
+        weight: 1
+      - path: anillo4
+        weight: 1
+      - path: anillo5
+        weight: 1
+      - path: anillo6
+        weight: 1
+      - path: anillo7
+        weight: 1
+      - path: anillo8
+        weight: 1
+      - path: anillo9
+        weight: 1
+      - path: anillo10
+        weight: 1
+      - path: anillo11
+        weight: 1
+      - path: anillo12
+        weight: 1
+      - path: anillo13
+        weight: 1
+      - path: anillo14
+        weight: 1
+      - path: anillo15
+        weight: 1
+      - path: anillo16
+        weight: 1
+      - path: anillo17
+        weight: 1
+      - path: anillo18
+        weight: 1
+      - path: anillo19
+        weight: 1
+      - path: anillo20
+        weight: 1
+      - path: anillo21
+        weight: 1
+      - path: anillo22
+        weight: 1
+      - path: anillo23
+        weight: 1
+      - path: anillo24
+        weight: 1
+      - path: anillo25
+        weight: 1
+      - path: anillo26
+        weight: 1
+      - path: anillo27
+        weight: 1
+      - path: anillo28
+        weight: 1
+      - path: anillo29
+        weight: 1
+      - path: anillo30
+        weight: 1
+      - path: anillo31
+        weight: 1
+      - path: anillo32
+        weight: 1
+      - path: disco1
+        weight: 1
+      - path: disco2
+        weight: 1
+      - path: disco3
+        weight: 1
+      - path: disco4
+        weight: 1
+      - path: disco5
+        weight: 1
+      - path: disco6
+        weight: 1
+      - path: disco7
+        weight: 1
+      - path: disco8
+        weight: 1
+      - path: disco9
+        weight: 1
+      - path: disco10
+        weight: 1
+      - path: disco11
+        weight: 1
+      - path: disco12
+        weight: 1
+      - path: disco13
+        weight: 1
+      - path: disco14
+        weight: 1
+      - path: disco15
+        weight: 1
+      - path: disco16
+        weight: 1
+      - path: disco17
+        weight: 1
+      - path: disco18
+        weight: 1
+      - path: disco19
+        weight: 1
+      - path: disco20
+        weight: 1
+      - path: disco21
+        weight: 1
+      - path: disco22
+        weight: 1
+      - path: disco23
+        weight: 1
+      - path: disco24
+        weight: 1
+      - path: disco25
+        weight: 1
+      - path: disco26
+        weight: 1
+      - path: disco27
+        weight: 1
+      - path: disco28
+        weight: 1
+      - path: disco29
+        weight: 1
+      - path: disco30
+        weight: 1
+      - path: disco31
+        weight: 1
+      - path: disco32
+        weight: 1
+      - path: expresi__n_dv:polySurface23
+        weight: 1
+      - path: flecha:polySurface16
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/brep_1
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: Trim_Text_dV_1_1
+        weight: 1
+      - path: Trim_Text_dV_1_1/Trim_Char_d_2_1
+        weight: 1
+      - path: Trim_Text_dV_1_1/Trim_Char_V_1_1
+        weight: 1
+      - path: Trim_Text_dx_1_1
+        weight: 1
+      - path: Trim_Text_dx_1_1/Trim_Char_d_1_1
+        weight: 1
+      - path: Trim_Text_dx_1_1/Trim_Char_x_1_1
+        weight: 1
+      - path: y_4_x__anillos1:brep_1
+        weight: 1
+      - path: y_4_x__anillos1:brep_2
+        weight: 1
+      - path: y_4_x__anillos1:brep_3
+        weight: 1
+      - path: y_4_x__anillos1:brep_4
+        weight: 1
+      - path: y_4_x__anillos1:brep_5
+        weight: 1
+      - path: y_4_x__anillos1:brep_6
+        weight: 1
+      - path: y_4_x__anillos1:brep_7
+        weight: 1
+      - path: y_4_x__anillos1:brep_8
+        weight: 1
+      - path: y_4_x__anillos1:brep_9
+        weight: 1
+      - path: y_4_x__anillos1:brep_10
+        weight: 1
+      - path: y_4_x__anillos1:brep_11
+        weight: 1
+      - path: y_4_x__anillos1:brep_12
+        weight: 1
+      - path: y_4_x__anillos1:brep_13
+        weight: 1
+      - path: y_4_x__anillos1:brep_14
+        weight: 1
+      - path: y_4_x__anillos1:brep_15
+        weight: 1
+      - path: y_4_x__anillos1:brep_16
+        weight: 1
+      - path: y_4_x__anillos1:brep_17
+        weight: 1
+      - path: y_4_x__anillos1:brep_18
+        weight: 1
+      - path: y_4_x__anillos1:brep_19
+        weight: 1
+      - path: y_4_x__anillos1:brep_20
+        weight: 1
+      - path: y_4_x__anillos1:brep_21
+        weight: 1
+      - path: y_4_x__anillos1:brep_22
+        weight: 1
+      - path: y_4_x__anillos1:brep_23
+        weight: 1
+      - path: y_4_x__anillos1:brep_24
+        weight: 1
+      - path: y_4_x__anillos1:brep_25
+        weight: 1
+      - path: y_4_x__anillos1:brep_26
+        weight: 1
+      - path: y_4_x__anillos1:brep_27
+        weight: 1
+      - path: y_4_x__anillos1:brep_28
+        weight: 1
+      - path: y_4_x__anillos1:brep_29
+        weight: 1
+      - path: y_4_x__anillos1:brep_30
+        weight: 1
+      - path: y_4_x__anillos1:brep_31
+        weight: 1
+      - path: y_4_x__anillos1:brep_32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

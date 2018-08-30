@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: f127865916f6e4649a59842f3449bff3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group3
+    100002: //RootNode
+    100004: object_37
+    100006: object_38
+    100008: object_39
+    100010: object_40
+    100012: object_41
+    100014: object_42
+    100016: object_43
+    100018: object_44
+    100020: object_45
+    100022: object_46
+    100024: object_47
+    100026: object_58
+    100028: object_59
+    100030: object_60
+    100032: object_61
+    100034: object_62
+    100036: object_63
+    100038: object_64
+    100040: object_65
+    100042: object_66
+    100044: object_67
+    400000: group3
+    400002: //RootNode
+    400004: object_37
+    400006: object_38
+    400008: object_39
+    400010: object_40
+    400012: object_41
+    400014: object_42
+    400016: object_43
+    400018: object_44
+    400020: object_45
+    400022: object_46
+    400024: object_47
+    400026: object_58
+    400028: object_59
+    400030: object_60
+    400032: object_61
+    400034: object_62
+    400036: object_63
+    400038: object_64
+    400040: object_65
+    400042: object_66
+    400044: object_67
+    2300000: object_37
+    2300002: object_38
+    2300004: object_39
+    2300006: object_40
+    2300008: object_41
+    2300010: object_42
+    2300012: object_43
+    2300014: object_44
+    2300016: object_45
+    2300018: object_46
+    2300020: object_47
+    2300022: object_58
+    2300024: object_59
+    2300026: object_60
+    2300028: object_61
+    2300030: object_62
+    2300032: object_63
+    2300034: object_64
+    2300036: object_65
+    2300038: object_66
+    2300040: object_67
+    3300000: object_37
+    3300002: object_38
+    3300004: object_39
+    3300006: object_40
+    3300008: object_41
+    3300010: object_42
+    3300012: object_43
+    3300014: object_44
+    3300016: object_45
+    3300018: object_46
+    3300020: object_47
+    3300022: object_58
+    3300024: object_59
+    3300026: object_60
+    3300028: object_61
+    3300030: object_62
+    3300032: object_63
+    3300034: object_64
+    3300036: object_65
+    3300038: object_66
+    3300040: object_67
+    4300000: object_37
+    4300002: object_38
+    4300004: object_39
+    4300006: object_40
+    4300008: object_41
+    4300010: object_42
+    4300012: object_43
+    4300014: object_44
+    4300016: object_45
+    4300018: object_46
+    4300020: object_47
+    4300022: object_58
+    4300024: object_59
+    4300026: object_60
+    4300028: object_61
+    4300030: object_62
+    4300032: object_63
+    4300034: object_64
+    4300036: object_65
+    4300038: object_66
+    4300040: object_67
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 178
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: group3/object_58
+        weight: 1
+      - path: group3/object_59
+        weight: 1
+      - path: group3/object_60
+        weight: 1
+      - path: group3/object_61
+        weight: 1
+      - path: group3/object_62
+        weight: 1
+      - path: group3/object_63
+        weight: 1
+      - path: group3/object_64
+        weight: 1
+      - path: group3/object_65
+        weight: 1
+      - path: group3/object_66
+        weight: 1
+      - path: group3/object_67
+        weight: 1
+      - path: object_37
+        weight: 1
+      - path: object_38
+        weight: 1
+      - path: object_39
+        weight: 1
+      - path: object_40
+        weight: 1
+      - path: object_41
+        weight: 1
+      - path: object_42
+        weight: 1
+      - path: object_43
+        weight: 1
+      - path: object_44
+        weight: 1
+      - path: object_45
+        weight: 1
+      - path: object_46
+        weight: 1
+      - path: object_47
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

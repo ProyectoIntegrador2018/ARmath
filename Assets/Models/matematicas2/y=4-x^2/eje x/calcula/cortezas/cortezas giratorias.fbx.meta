@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: f64174ae1f1baa14697dbcf70d416a20
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cort1
+    100002: cort10
+    100004: cort11
+    100006: cort12
+    100008: cort13
+    100010: cort14
+    100012: cort15
+    100014: cort16
+    100016: cort17
+    100018: cort18
+    100020: cort19
+    100022: cort2
+    100024: cort20
+    100026: cort21
+    100028: cort22
+    100030: cort23
+    100032: cort24
+    100034: cort25
+    100036: cort26
+    100038: cort27
+    100040: cort28
+    100042: cort29
+    100044: cort3
+    100046: cort30
+    100048: cort31
+    100050: cort32
+    100052: cort4
+    100054: cort5
+    100056: cort6
+    100058: cort7
+    100060: cort8
+    100062: cort9
+    100064: corteza1
+    100066: corteza10
+    100068: corteza11
+    100070: corteza12
+    100072: corteza13
+    100074: corteza14
+    100076: corteza15
+    100078: corteza16
+    100080: corteza17
+    100082: corteza18
+    100084: corteza19
+    100086: corteza2
+    100088: corteza20
+    100090: corteza21
+    100092: corteza22
+    100094: corteza23
+    100096: corteza24
+    100098: corteza25
+    100100: corteza26
+    100102: corteza27
+    100104: corteza28
+    100106: corteza29
+    100108: corteza3
+    100110: corteza30
+    100112: corteza31
+    100114: corteza32
+    100116: corteza4
+    100118: corteza5
+    100120: corteza6
+    100122: corteza7
+    100124: corteza8
+    100126: corteza9
+    100128: //RootNode
+    100130: seg_corteza1
+    100132: seg_corteza10
+    100134: seg_corteza11
+    100136: seg_corteza12
+    100138: seg_corteza13
+    100140: seg_corteza14
+    100142: seg_corteza15
+    100144: seg_corteza16
+    100146: seg_corteza17
+    100148: seg_corteza18
+    100150: seg_corteza19
+    100152: seg_corteza2
+    100154: seg_corteza20
+    100156: seg_corteza21
+    100158: seg_corteza22
+    100160: seg_corteza23
+    100162: seg_corteza24
+    100164: seg_corteza25
+    100166: seg_corteza26
+    100168: seg_corteza27
+    100170: seg_corteza28
+    100172: seg_corteza29
+    100174: seg_corteza3
+    100176: seg_corteza30
+    100178: seg_corteza31
+    100180: seg_corteza32
+    100182: seg_corteza4
+    100184: seg_corteza5
+    100186: seg_corteza6
+    100188: seg_corteza7
+    100190: seg_corteza8
+    100192: seg_corteza9
+    400000: cort1
+    400002: cort10
+    400004: cort11
+    400006: cort12
+    400008: cort13
+    400010: cort14
+    400012: cort15
+    400014: cort16
+    400016: cort17
+    400018: cort18
+    400020: cort19
+    400022: cort2
+    400024: cort20
+    400026: cort21
+    400028: cort22
+    400030: cort23
+    400032: cort24
+    400034: cort25
+    400036: cort26
+    400038: cort27
+    400040: cort28
+    400042: cort29
+    400044: cort3
+    400046: cort30
+    400048: cort31
+    400050: cort32
+    400052: cort4
+    400054: cort5
+    400056: cort6
+    400058: cort7
+    400060: cort8
+    400062: cort9
+    400064: corteza1
+    400066: corteza10
+    400068: corteza11
+    400070: corteza12
+    400072: corteza13
+    400074: corteza14
+    400076: corteza15
+    400078: corteza16
+    400080: corteza17
+    400082: corteza18
+    400084: corteza19
+    400086: corteza2
+    400088: corteza20
+    400090: corteza21
+    400092: corteza22
+    400094: corteza23
+    400096: corteza24
+    400098: corteza25
+    400100: corteza26
+    400102: corteza27
+    400104: corteza28
+    400106: corteza29
+    400108: corteza3
+    400110: corteza30
+    400112: corteza31
+    400114: corteza32
+    400116: corteza4
+    400118: corteza5
+    400120: corteza6
+    400122: corteza7
+    400124: corteza8
+    400126: corteza9
+    400128: //RootNode
+    400130: seg_corteza1
+    400132: seg_corteza10
+    400134: seg_corteza11
+    400136: seg_corteza12
+    400138: seg_corteza13
+    400140: seg_corteza14
+    400142: seg_corteza15
+    400144: seg_corteza16
+    400146: seg_corteza17
+    400148: seg_corteza18
+    400150: seg_corteza19
+    400152: seg_corteza2
+    400154: seg_corteza20
+    400156: seg_corteza21
+    400158: seg_corteza22
+    400160: seg_corteza23
+    400162: seg_corteza24
+    400164: seg_corteza25
+    400166: seg_corteza26
+    400168: seg_corteza27
+    400170: seg_corteza28
+    400172: seg_corteza29
+    400174: seg_corteza3
+    400176: seg_corteza30
+    400178: seg_corteza31
+    400180: seg_corteza32
+    400182: seg_corteza4
+    400184: seg_corteza5
+    400186: seg_corteza6
+    400188: seg_corteza7
+    400190: seg_corteza8
+    400192: seg_corteza9
+    2300000: cort1
+    2300002: cort10
+    2300004: cort11
+    2300006: cort12
+    2300008: cort13
+    2300010: cort14
+    2300012: cort15
+    2300014: cort16
+    2300016: cort17
+    2300018: cort18
+    2300020: cort19
+    2300022: cort2
+    2300024: cort20
+    2300026: cort21
+    2300028: cort22
+    2300030: cort23
+    2300032: cort24
+    2300034: cort25
+    2300036: cort26
+    2300038: cort27
+    2300040: cort28
+    2300042: cort29
+    2300044: cort3
+    2300046: cort30
+    2300048: cort31
+    2300050: cort32
+    2300052: cort4
+    2300054: cort5
+    2300056: cort6
+    2300058: cort7
+    2300060: cort8
+    2300062: cort9
+    2300064: corteza1
+    2300066: corteza10
+    2300068: corteza11
+    2300070: corteza12
+    2300072: corteza13
+    2300074: corteza14
+    2300076: corteza15
+    2300078: corteza16
+    2300080: corteza17
+    2300082: corteza18
+    2300084: corteza19
+    2300086: corteza2
+    2300088: corteza20
+    2300090: corteza21
+    2300092: corteza22
+    2300094: corteza23
+    2300096: corteza24
+    2300098: corteza25
+    2300100: corteza26
+    2300102: corteza27
+    2300104: corteza28
+    2300106: corteza29
+    2300108: corteza3
+    2300110: corteza30
+    2300112: corteza31
+    2300114: corteza32
+    2300116: corteza4
+    2300118: corteza5
+    2300120: corteza6
+    2300122: corteza7
+    2300124: corteza8
+    2300126: corteza9
+    2300128: seg_corteza1
+    2300130: seg_corteza10
+    2300132: seg_corteza11
+    2300134: seg_corteza12
+    2300136: seg_corteza13
+    2300138: seg_corteza14
+    2300140: seg_corteza15
+    2300142: seg_corteza16
+    2300144: seg_corteza17
+    2300146: seg_corteza18
+    2300148: seg_corteza19
+    2300150: seg_corteza2
+    2300152: seg_corteza20
+    2300154: seg_corteza21
+    2300156: seg_corteza22
+    2300158: seg_corteza23
+    2300160: seg_corteza24
+    2300162: seg_corteza25
+    2300164: seg_corteza26
+    2300166: seg_corteza27
+    2300168: seg_corteza28
+    2300170: seg_corteza29
+    2300172: seg_corteza3
+    2300174: seg_corteza30
+    2300176: seg_corteza31
+    2300178: seg_corteza32
+    2300180: seg_corteza4
+    2300182: seg_corteza5
+    2300184: seg_corteza6
+    2300186: seg_corteza7
+    2300188: seg_corteza8
+    2300190: seg_corteza9
+    3300000: cort1
+    3300002: cort10
+    3300004: cort11
+    3300006: cort12
+    3300008: cort13
+    3300010: cort14
+    3300012: cort15
+    3300014: cort16
+    3300016: cort17
+    3300018: cort18
+    3300020: cort19
+    3300022: cort2
+    3300024: cort20
+    3300026: cort21
+    3300028: cort22
+    3300030: cort23
+    3300032: cort24
+    3300034: cort25
+    3300036: cort26
+    3300038: cort27
+    3300040: cort28
+    3300042: cort29
+    3300044: cort3
+    3300046: cort30
+    3300048: cort31
+    3300050: cort32
+    3300052: cort4
+    3300054: cort5
+    3300056: cort6
+    3300058: cort7
+    3300060: cort8
+    3300062: cort9
+    3300064: corteza1
+    3300066: corteza10
+    3300068: corteza11
+    3300070: corteza12
+    3300072: corteza13
+    3300074: corteza14
+    3300076: corteza15
+    3300078: corteza16
+    3300080: corteza17
+    3300082: corteza18
+    3300084: corteza19
+    3300086: corteza2
+    3300088: corteza20
+    3300090: corteza21
+    3300092: corteza22
+    3300094: corteza23
+    3300096: corteza24
+    3300098: corteza25
+    3300100: corteza26
+    3300102: corteza27
+    3300104: corteza28
+    3300106: corteza29
+    3300108: corteza3
+    3300110: corteza30
+    3300112: corteza31
+    3300114: corteza32
+    3300116: corteza4
+    3300118: corteza5
+    3300120: corteza6
+    3300122: corteza7
+    3300124: corteza8
+    3300126: corteza9
+    3300128: seg_corteza1
+    3300130: seg_corteza10
+    3300132: seg_corteza11
+    3300134: seg_corteza12
+    3300136: seg_corteza13
+    3300138: seg_corteza14
+    3300140: seg_corteza15
+    3300142: seg_corteza16
+    3300144: seg_corteza17
+    3300146: seg_corteza18
+    3300148: seg_corteza19
+    3300150: seg_corteza2
+    3300152: seg_corteza20
+    3300154: seg_corteza21
+    3300156: seg_corteza22
+    3300158: seg_corteza23
+    3300160: seg_corteza24
+    3300162: seg_corteza25
+    3300164: seg_corteza26
+    3300166: seg_corteza27
+    3300168: seg_corteza28
+    3300170: seg_corteza29
+    3300172: seg_corteza3
+    3300174: seg_corteza30
+    3300176: seg_corteza31
+    3300178: seg_corteza32
+    3300180: seg_corteza4
+    3300182: seg_corteza5
+    3300184: seg_corteza6
+    3300186: seg_corteza7
+    3300188: seg_corteza8
+    3300190: seg_corteza9
+    4300000: cort32
+    4300002: cort31
+    4300004: cort30
+    4300006: cort29
+    4300008: cort28
+    4300010: cort27
+    4300012: cort26
+    4300014: cort25
+    4300016: cort24
+    4300018: cort23
+    4300020: cort22
+    4300022: cort21
+    4300024: cort20
+    4300026: cort19
+    4300028: cort18
+    4300030: cort17
+    4300032: cort16
+    4300034: cort15
+    4300036: cort14
+    4300038: cort13
+    4300040: cort12
+    4300042: cort11
+    4300044: cort10
+    4300046: cort9
+    4300048: cort8
+    4300050: cort7
+    4300052: cort6
+    4300054: cort5
+    4300056: cort4
+    4300058: cort3
+    4300060: cort2
+    4300062: cort1
+    4300064: seg_corteza32
+    4300066: seg_corteza31
+    4300068: seg_corteza30
+    4300070: seg_corteza29
+    4300072: seg_corteza28
+    4300074: seg_corteza27
+    4300076: seg_corteza26
+    4300078: seg_corteza25
+    4300080: seg_corteza24
+    4300082: seg_corteza23
+    4300084: seg_corteza22
+    4300086: seg_corteza21
+    4300088: seg_corteza20
+    4300090: seg_corteza19
+    4300092: seg_corteza18
+    4300094: seg_corteza17
+    4300096: seg_corteza16
+    4300098: seg_corteza15
+    4300100: seg_corteza14
+    4300102: seg_corteza13
+    4300104: seg_corteza12
+    4300106: seg_corteza11
+    4300108: seg_corteza10
+    4300110: seg_corteza9
+    4300112: seg_corteza8
+    4300114: seg_corteza7
+    4300116: seg_corteza6
+    4300118: seg_corteza5
+    4300120: seg_corteza4
+    4300122: seg_corteza3
+    4300124: seg_corteza2
+    4300126: seg_corteza1
+    4300128: corteza1
+    4300130: corteza2
+    4300132: corteza3
+    4300134: corteza4
+    4300136: corteza5
+    4300138: corteza6
+    4300140: corteza7
+    4300142: corteza8
+    4300144: corteza9
+    4300146: corteza10
+    4300148: corteza11
+    4300150: corteza12
+    4300152: corteza13
+    4300154: corteza14
+    4300156: corteza15
+    4300158: corteza16
+    4300160: corteza17
+    4300162: corteza18
+    4300164: corteza19
+    4300166: corteza20
+    4300168: corteza21
+    4300170: corteza22
+    4300172: corteza23
+    4300174: corteza24
+    4300176: corteza25
+    4300178: corteza26
+    4300180: corteza27
+    4300182: corteza28
+    4300184: corteza29
+    4300186: corteza30
+    4300188: corteza31
+    4300190: corteza32
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 464
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cort1
+        weight: 1
+      - path: cort2
+        weight: 1
+      - path: cort3
+        weight: 1
+      - path: cort4
+        weight: 1
+      - path: cort5
+        weight: 1
+      - path: cort6
+        weight: 1
+      - path: cort7
+        weight: 1
+      - path: cort8
+        weight: 1
+      - path: cort9
+        weight: 1
+      - path: cort10
+        weight: 1
+      - path: cort11
+        weight: 1
+      - path: cort12
+        weight: 1
+      - path: cort13
+        weight: 1
+      - path: cort14
+        weight: 1
+      - path: cort15
+        weight: 1
+      - path: cort16
+        weight: 1
+      - path: cort17
+        weight: 1
+      - path: cort18
+        weight: 1
+      - path: cort19
+        weight: 1
+      - path: cort20
+        weight: 1
+      - path: cort21
+        weight: 1
+      - path: cort22
+        weight: 1
+      - path: cort23
+        weight: 1
+      - path: cort24
+        weight: 1
+      - path: cort25
+        weight: 1
+      - path: cort26
+        weight: 1
+      - path: cort27
+        weight: 1
+      - path: cort28
+        weight: 1
+      - path: cort29
+        weight: 1
+      - path: cort30
+        weight: 1
+      - path: cort31
+        weight: 1
+      - path: cort32
+        weight: 1
+      - path: corteza1
+        weight: 1
+      - path: corteza2
+        weight: 1
+      - path: corteza3
+        weight: 1
+      - path: corteza4
+        weight: 1
+      - path: corteza5
+        weight: 1
+      - path: corteza6
+        weight: 1
+      - path: corteza7
+        weight: 1
+      - path: corteza8
+        weight: 1
+      - path: corteza9
+        weight: 1
+      - path: corteza10
+        weight: 1
+      - path: corteza11
+        weight: 1
+      - path: corteza12
+        weight: 1
+      - path: corteza13
+        weight: 1
+      - path: corteza14
+        weight: 1
+      - path: corteza15
+        weight: 1
+      - path: corteza16
+        weight: 1
+      - path: corteza17
+        weight: 1
+      - path: corteza18
+        weight: 1
+      - path: corteza19
+        weight: 1
+      - path: corteza20
+        weight: 1
+      - path: corteza21
+        weight: 1
+      - path: corteza22
+        weight: 1
+      - path: corteza23
+        weight: 1
+      - path: corteza24
+        weight: 1
+      - path: corteza25
+        weight: 1
+      - path: corteza26
+        weight: 1
+      - path: corteza27
+        weight: 1
+      - path: corteza28
+        weight: 1
+      - path: corteza29
+        weight: 1
+      - path: corteza30
+        weight: 1
+      - path: corteza31
+        weight: 1
+      - path: corteza32
+        weight: 1
+      - path: seg_corteza1
+        weight: 1
+      - path: seg_corteza2
+        weight: 1
+      - path: seg_corteza3
+        weight: 1
+      - path: seg_corteza4
+        weight: 1
+      - path: seg_corteza5
+        weight: 1
+      - path: seg_corteza6
+        weight: 1
+      - path: seg_corteza7
+        weight: 1
+      - path: seg_corteza8
+        weight: 1
+      - path: seg_corteza9
+        weight: 1
+      - path: seg_corteza10
+        weight: 1
+      - path: seg_corteza11
+        weight: 1
+      - path: seg_corteza12
+        weight: 1
+      - path: seg_corteza13
+        weight: 1
+      - path: seg_corteza14
+        weight: 1
+      - path: seg_corteza15
+        weight: 1
+      - path: seg_corteza16
+        weight: 1
+      - path: seg_corteza17
+        weight: 1
+      - path: seg_corteza18
+        weight: 1
+      - path: seg_corteza19
+        weight: 1
+      - path: seg_corteza20
+        weight: 1
+      - path: seg_corteza21
+        weight: 1
+      - path: seg_corteza22
+        weight: 1
+      - path: seg_corteza23
+        weight: 1
+      - path: seg_corteza24
+        weight: 1
+      - path: seg_corteza25
+        weight: 1
+      - path: seg_corteza26
+        weight: 1
+      - path: seg_corteza27
+        weight: 1
+      - path: seg_corteza28
+        weight: 1
+      - path: seg_corteza29
+        weight: 1
+      - path: seg_corteza30
+        weight: 1
+      - path: seg_corteza31
+        weight: 1
+      - path: seg_corteza32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

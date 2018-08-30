@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 9d85494546cf2404c9d75f21e260cca9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cort1
+    100002: cort10
+    100004: cort11
+    100006: cort12
+    100008: cort13
+    100010: cort14
+    100012: cort15
+    100014: cort16
+    100016: cort17
+    100018: cort18
+    100020: cort19
+    100022: cort2
+    100024: cort20
+    100026: cort21
+    100028: cort22
+    100030: cort23
+    100032: cort24
+    100034: cort25
+    100036: cort26
+    100038: cort27
+    100040: cort28
+    100042: cort29
+    100044: cort3
+    100046: cort30
+    100048: cort31
+    100050: cort32
+    100052: cort4
+    100054: cort5
+    100056: cort6
+    100058: cort7
+    100060: cort8
+    100062: cort9
+    100064: //RootNode
+    100066: corteza1
+    100068: corteza10
+    100070: corteza11
+    100072: corteza12
+    100074: corteza13
+    100076: corteza14
+    100078: corteza15
+    100080: corteza16
+    100082: corteza17
+    100084: corteza18
+    100086: corteza19
+    100088: corteza2
+    100090: corteza20
+    100092: corteza21
+    100094: corteza22
+    100096: corteza23
+    100098: corteza24
+    100100: corteza25
+    100102: corteza26
+    100104: corteza27
+    100106: corteza28
+    100108: corteza29
+    100110: corteza3
+    100112: corteza30
+    100114: corteza31
+    100116: corteza32
+    100118: corteza4
+    100120: corteza5
+    100122: corteza6
+    100124: corteza7
+    100126: corteza8
+    100128: corteza9
+    100130: wood1
+    100132: wood10
+    100134: wood11
+    100136: wood12
+    100138: wood13
+    100140: wood14
+    100142: wood15
+    100144: wood16
+    100146: wood17
+    100148: wood18
+    100150: wood19
+    100152: wood2
+    100154: wood20
+    100156: wood21
+    100158: wood22
+    100160: wood23
+    100162: wood24
+    100164: wood25
+    100166: wood26
+    100168: wood27
+    100170: wood28
+    100172: wood29
+    100174: wood3
+    100176: wood30
+    100178: wood31
+    100180: wood32
+    100182: wood4
+    100184: wood5
+    100186: wood6
+    100188: wood7
+    100190: wood8
+    100192: wood9
+    400000: cort1
+    400002: cort10
+    400004: cort11
+    400006: cort12
+    400008: cort13
+    400010: cort14
+    400012: cort15
+    400014: cort16
+    400016: cort17
+    400018: cort18
+    400020: cort19
+    400022: cort2
+    400024: cort20
+    400026: cort21
+    400028: cort22
+    400030: cort23
+    400032: cort24
+    400034: cort25
+    400036: cort26
+    400038: cort27
+    400040: cort28
+    400042: cort29
+    400044: cort3
+    400046: cort30
+    400048: cort31
+    400050: cort32
+    400052: cort4
+    400054: cort5
+    400056: cort6
+    400058: cort7
+    400060: cort8
+    400062: cort9
+    400064: //RootNode
+    400066: corteza1
+    400068: corteza10
+    400070: corteza11
+    400072: corteza12
+    400074: corteza13
+    400076: corteza14
+    400078: corteza15
+    400080: corteza16
+    400082: corteza17
+    400084: corteza18
+    400086: corteza19
+    400088: corteza2
+    400090: corteza20
+    400092: corteza21
+    400094: corteza22
+    400096: corteza23
+    400098: corteza24
+    400100: corteza25
+    400102: corteza26
+    400104: corteza27
+    400106: corteza28
+    400108: corteza29
+    400110: corteza3
+    400112: corteza30
+    400114: corteza31
+    400116: corteza32
+    400118: corteza4
+    400120: corteza5
+    400122: corteza6
+    400124: corteza7
+    400126: corteza8
+    400128: corteza9
+    400130: wood1
+    400132: wood10
+    400134: wood11
+    400136: wood12
+    400138: wood13
+    400140: wood14
+    400142: wood15
+    400144: wood16
+    400146: wood17
+    400148: wood18
+    400150: wood19
+    400152: wood2
+    400154: wood20
+    400156: wood21
+    400158: wood22
+    400160: wood23
+    400162: wood24
+    400164: wood25
+    400166: wood26
+    400168: wood27
+    400170: wood28
+    400172: wood29
+    400174: wood3
+    400176: wood30
+    400178: wood31
+    400180: wood32
+    400182: wood4
+    400184: wood5
+    400186: wood6
+    400188: wood7
+    400190: wood8
+    400192: wood9
+    2300000: cort1
+    2300002: cort10
+    2300004: cort11
+    2300006: cort12
+    2300008: cort13
+    2300010: cort14
+    2300012: cort15
+    2300014: cort16
+    2300016: cort17
+    2300018: cort18
+    2300020: cort19
+    2300022: cort2
+    2300024: cort20
+    2300026: cort21
+    2300028: cort22
+    2300030: cort23
+    2300032: cort24
+    2300034: cort25
+    2300036: cort26
+    2300038: cort27
+    2300040: cort28
+    2300042: cort29
+    2300044: cort3
+    2300046: cort30
+    2300048: cort31
+    2300050: cort32
+    2300052: cort4
+    2300054: cort5
+    2300056: cort6
+    2300058: cort7
+    2300060: cort8
+    2300062: cort9
+    2300064: corteza1
+    2300066: corteza10
+    2300068: corteza11
+    2300070: corteza12
+    2300072: corteza13
+    2300074: corteza14
+    2300076: corteza15
+    2300078: corteza16
+    2300080: corteza17
+    2300082: corteza18
+    2300084: corteza19
+    2300086: corteza2
+    2300088: corteza20
+    2300090: corteza21
+    2300092: corteza22
+    2300094: corteza23
+    2300096: corteza24
+    2300098: corteza25
+    2300100: corteza26
+    2300102: corteza27
+    2300104: corteza28
+    2300106: corteza29
+    2300108: corteza3
+    2300110: corteza30
+    2300112: corteza31
+    2300114: corteza32
+    2300116: corteza4
+    2300118: corteza5
+    2300120: corteza6
+    2300122: corteza7
+    2300124: corteza8
+    2300126: corteza9
+    2300128: wood1
+    2300130: wood10
+    2300132: wood11
+    2300134: wood12
+    2300136: wood13
+    2300138: wood14
+    2300140: wood15
+    2300142: wood16
+    2300144: wood17
+    2300146: wood18
+    2300148: wood19
+    2300150: wood2
+    2300152: wood20
+    2300154: wood21
+    2300156: wood22
+    2300158: wood23
+    2300160: wood24
+    2300162: wood25
+    2300164: wood26
+    2300166: wood27
+    2300168: wood28
+    2300170: wood29
+    2300172: wood3
+    2300174: wood30
+    2300176: wood31
+    2300178: wood32
+    2300180: wood4
+    2300182: wood5
+    2300184: wood6
+    2300186: wood7
+    2300188: wood8
+    2300190: wood9
+    3300000: cort1
+    3300002: cort10
+    3300004: cort11
+    3300006: cort12
+    3300008: cort13
+    3300010: cort14
+    3300012: cort15
+    3300014: cort16
+    3300016: cort17
+    3300018: cort18
+    3300020: cort19
+    3300022: cort2
+    3300024: cort20
+    3300026: cort21
+    3300028: cort22
+    3300030: cort23
+    3300032: cort24
+    3300034: cort25
+    3300036: cort26
+    3300038: cort27
+    3300040: cort28
+    3300042: cort29
+    3300044: cort3
+    3300046: cort30
+    3300048: cort31
+    3300050: cort32
+    3300052: cort4
+    3300054: cort5
+    3300056: cort6
+    3300058: cort7
+    3300060: cort8
+    3300062: cort9
+    3300064: corteza1
+    3300066: corteza10
+    3300068: corteza11
+    3300070: corteza12
+    3300072: corteza13
+    3300074: corteza14
+    3300076: corteza15
+    3300078: corteza16
+    3300080: corteza17
+    3300082: corteza18
+    3300084: corteza19
+    3300086: corteza2
+    3300088: corteza20
+    3300090: corteza21
+    3300092: corteza22
+    3300094: corteza23
+    3300096: corteza24
+    3300098: corteza25
+    3300100: corteza26
+    3300102: corteza27
+    3300104: corteza28
+    3300106: corteza29
+    3300108: corteza3
+    3300110: corteza30
+    3300112: corteza31
+    3300114: corteza32
+    3300116: corteza4
+    3300118: corteza5
+    3300120: corteza6
+    3300122: corteza7
+    3300124: corteza8
+    3300126: corteza9
+    3300128: wood1
+    3300130: wood10
+    3300132: wood11
+    3300134: wood12
+    3300136: wood13
+    3300138: wood14
+    3300140: wood15
+    3300142: wood16
+    3300144: wood17
+    3300146: wood18
+    3300148: wood19
+    3300150: wood2
+    3300152: wood20
+    3300154: wood21
+    3300156: wood22
+    3300158: wood23
+    3300160: wood24
+    3300162: wood25
+    3300164: wood26
+    3300166: wood27
+    3300168: wood28
+    3300170: wood29
+    3300172: wood3
+    3300174: wood30
+    3300176: wood31
+    3300178: wood32
+    3300180: wood4
+    3300182: wood5
+    3300184: wood6
+    3300186: wood7
+    3300188: wood8
+    3300190: wood9
+    4300000: cort32
+    4300002: cort31
+    4300004: cort30
+    4300006: cort29
+    4300008: cort28
+    4300010: cort27
+    4300012: cort26
+    4300014: cort25
+    4300016: cort24
+    4300018: cort23
+    4300020: cort22
+    4300022: cort21
+    4300024: cort20
+    4300026: cort19
+    4300028: cort18
+    4300030: cort17
+    4300032: cort16
+    4300034: cort15
+    4300036: cort14
+    4300038: cort13
+    4300040: cort12
+    4300042: cort11
+    4300044: cort10
+    4300046: cort9
+    4300048: cort8
+    4300050: cort7
+    4300052: cort6
+    4300054: cort5
+    4300056: cort4
+    4300058: cort3
+    4300060: cort2
+    4300062: cort1
+    4300064: corteza32
+    4300066: corteza31
+    4300068: corteza30
+    4300070: corteza29
+    4300072: corteza28
+    4300074: corteza27
+    4300076: corteza26
+    4300078: corteza25
+    4300080: corteza24
+    4300082: corteza23
+    4300084: corteza22
+    4300086: corteza21
+    4300088: corteza20
+    4300090: corteza19
+    4300092: corteza18
+    4300094: corteza17
+    4300096: corteza16
+    4300098: corteza15
+    4300100: corteza14
+    4300102: corteza13
+    4300104: corteza12
+    4300106: corteza11
+    4300108: corteza10
+    4300110: corteza9
+    4300112: corteza8
+    4300114: corteza7
+    4300116: corteza6
+    4300118: corteza5
+    4300120: corteza4
+    4300122: corteza3
+    4300124: corteza2
+    4300126: corteza1
+    4300128: wood1
+    4300130: wood2
+    4300132: wood3
+    4300134: wood4
+    4300136: wood5
+    4300138: wood6
+    4300140: wood7
+    4300142: wood8
+    4300144: wood9
+    4300146: wood10
+    4300148: wood11
+    4300150: wood12
+    4300152: wood13
+    4300154: wood14
+    4300156: wood15
+    4300158: wood16
+    4300160: wood17
+    4300162: wood18
+    4300164: wood19
+    4300166: wood20
+    4300168: wood21
+    4300170: wood22
+    4300172: wood23
+    4300174: wood24
+    4300176: wood25
+    4300178: wood26
+    4300180: wood27
+    4300182: wood28
+    4300184: wood29
+    4300186: wood30
+    4300188: wood31
+    4300190: wood32
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 465
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cort1
+        weight: 1
+      - path: cort2
+        weight: 1
+      - path: cort3
+        weight: 1
+      - path: cort4
+        weight: 1
+      - path: cort5
+        weight: 1
+      - path: cort6
+        weight: 1
+      - path: cort7
+        weight: 1
+      - path: cort8
+        weight: 1
+      - path: cort9
+        weight: 1
+      - path: cort10
+        weight: 1
+      - path: cort11
+        weight: 1
+      - path: cort12
+        weight: 1
+      - path: cort13
+        weight: 1
+      - path: cort14
+        weight: 1
+      - path: cort15
+        weight: 1
+      - path: cort16
+        weight: 1
+      - path: cort17
+        weight: 1
+      - path: cort18
+        weight: 1
+      - path: cort19
+        weight: 1
+      - path: cort20
+        weight: 1
+      - path: cort21
+        weight: 1
+      - path: cort22
+        weight: 1
+      - path: cort23
+        weight: 1
+      - path: cort24
+        weight: 1
+      - path: cort25
+        weight: 1
+      - path: cort26
+        weight: 1
+      - path: cort27
+        weight: 1
+      - path: cort28
+        weight: 1
+      - path: cort29
+        weight: 1
+      - path: cort30
+        weight: 1
+      - path: cort31
+        weight: 1
+      - path: cort32
+        weight: 1
+      - path: corteza1
+        weight: 1
+      - path: corteza2
+        weight: 1
+      - path: corteza3
+        weight: 1
+      - path: corteza4
+        weight: 1
+      - path: corteza5
+        weight: 1
+      - path: corteza6
+        weight: 1
+      - path: corteza7
+        weight: 1
+      - path: corteza8
+        weight: 1
+      - path: corteza9
+        weight: 1
+      - path: corteza10
+        weight: 1
+      - path: corteza11
+        weight: 1
+      - path: corteza12
+        weight: 1
+      - path: corteza13
+        weight: 1
+      - path: corteza14
+        weight: 1
+      - path: corteza15
+        weight: 1
+      - path: corteza16
+        weight: 1
+      - path: corteza17
+        weight: 1
+      - path: corteza18
+        weight: 1
+      - path: corteza19
+        weight: 1
+      - path: corteza20
+        weight: 1
+      - path: corteza21
+        weight: 1
+      - path: corteza22
+        weight: 1
+      - path: corteza23
+        weight: 1
+      - path: corteza24
+        weight: 1
+      - path: corteza25
+        weight: 1
+      - path: corteza26
+        weight: 1
+      - path: corteza27
+        weight: 1
+      - path: corteza28
+        weight: 1
+      - path: corteza29
+        weight: 1
+      - path: corteza30
+        weight: 1
+      - path: corteza31
+        weight: 1
+      - path: corteza32
+        weight: 1
+      - path: wood1
+        weight: 1
+      - path: wood2
+        weight: 1
+      - path: wood3
+        weight: 1
+      - path: wood4
+        weight: 1
+      - path: wood5
+        weight: 1
+      - path: wood6
+        weight: 1
+      - path: wood7
+        weight: 1
+      - path: wood8
+        weight: 1
+      - path: wood9
+        weight: 1
+      - path: wood10
+        weight: 1
+      - path: wood11
+        weight: 1
+      - path: wood12
+        weight: 1
+      - path: wood13
+        weight: 1
+      - path: wood14
+        weight: 1
+      - path: wood15
+        weight: 1
+      - path: wood16
+        weight: 1
+      - path: wood17
+        weight: 1
+      - path: wood18
+        weight: 1
+      - path: wood19
+        weight: 1
+      - path: wood20
+        weight: 1
+      - path: wood21
+        weight: 1
+      - path: wood22
+        weight: 1
+      - path: wood23
+        weight: 1
+      - path: wood24
+        weight: 1
+      - path: wood25
+        weight: 1
+      - path: wood26
+        weight: 1
+      - path: wood27
+        weight: 1
+      - path: wood28
+        weight: 1
+      - path: wood29
+        weight: 1
+      - path: wood30
+        weight: 1
+      - path: wood31
+        weight: 1
+      - path: wood32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

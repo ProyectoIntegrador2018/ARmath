@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: fac6da0ca04c8f4488b78e5b1a749de3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cuchilla1
+    100002: cuchilla10
+    100004: cuchilla11
+    100006: cuchilla12
+    100008: cuchilla13
+    100010: cuchilla14
+    100012: cuchilla15
+    100014: cuchilla16
+    100016: cuchilla17
+    100018: cuchilla18
+    100020: cuchilla19
+    100022: cuchilla2
+    100024: cuchilla20
+    100026: cuchilla21
+    100028: cuchilla22
+    100030: cuchilla3
+    100032: cuchilla4
+    100034: cuchilla5
+    100036: cuchilla6
+    100038: cuchilla7
+    100040: cuchilla8
+    100042: cuchilla9
+    100044: curvas_elipses_parabolas_ejez1:object_1
+    100046: curvas_elipses_parabolas_ejez1:object_10
+    100048: curvas_elipses_parabolas_ejez1:object_11
+    100050: curvas_elipses_parabolas_ejez1:object_12
+    100052: curvas_elipses_parabolas_ejez1:object_13
+    100054: curvas_elipses_parabolas_ejez1:object_14
+    100056: curvas_elipses_parabolas_ejez1:object_15
+    100058: curvas_elipses_parabolas_ejez1:object_16
+    100060: curvas_elipses_parabolas_ejez1:object_17
+    100062: curvas_elipses_parabolas_ejez1:object_18
+    100064: curvas_elipses_parabolas_ejez1:object_19
+    100066: curvas_elipses_parabolas_ejez1:object_2
+    100068: curvas_elipses_parabolas_ejez1:object_20
+    100070: curvas_elipses_parabolas_ejez1:object_21
+    100072: curvas_elipses_parabolas_ejez1:object_22
+    100074: curvas_elipses_parabolas_ejez1:object_23
+    100076: curvas_elipses_parabolas_ejez1:object_24
+    100078: curvas_elipses_parabolas_ejez1:object_3
+    100080: curvas_elipses_parabolas_ejez1:object_4
+    100082: curvas_elipses_parabolas_ejez1:object_5
+    100084: curvas_elipses_parabolas_ejez1:object_6
+    100086: curvas_elipses_parabolas_ejez1:object_7
+    100088: curvas_elipses_parabolas_ejez1:object_8
+    100090: curvas_elipses_parabolas_ejez1:object_9
+    100092: //RootNode
+    100094: superficie1
+    100096: superficie10
+    100098: superficie11
+    100100: superficie12
+    100102: superficie13
+    100104: superficie14
+    100106: superficie15
+    100108: superficie16
+    100110: superficie17
+    100112: superficie18
+    100114: superficie19
+    100116: superficie2
+    100118: superficie20
+    100120: superficie21
+    100122: superficie22
+    100124: superficie23
+    100126: superficie24
+    100128: superficie3
+    100130: superficie4
+    100132: superficie5
+    100134: superficie6
+    100136: superficie7
+    100138: superficie8
+    100140: superficie9
+    400000: cuchilla1
+    400002: cuchilla10
+    400004: cuchilla11
+    400006: cuchilla12
+    400008: cuchilla13
+    400010: cuchilla14
+    400012: cuchilla15
+    400014: cuchilla16
+    400016: cuchilla17
+    400018: cuchilla18
+    400020: cuchilla19
+    400022: cuchilla2
+    400024: cuchilla20
+    400026: cuchilla21
+    400028: cuchilla22
+    400030: cuchilla3
+    400032: cuchilla4
+    400034: cuchilla5
+    400036: cuchilla6
+    400038: cuchilla7
+    400040: cuchilla8
+    400042: cuchilla9
+    400044: curvas_elipses_parabolas_ejez1:object_1
+    400046: curvas_elipses_parabolas_ejez1:object_10
+    400048: curvas_elipses_parabolas_ejez1:object_11
+    400050: curvas_elipses_parabolas_ejez1:object_12
+    400052: curvas_elipses_parabolas_ejez1:object_13
+    400054: curvas_elipses_parabolas_ejez1:object_14
+    400056: curvas_elipses_parabolas_ejez1:object_15
+    400058: curvas_elipses_parabolas_ejez1:object_16
+    400060: curvas_elipses_parabolas_ejez1:object_17
+    400062: curvas_elipses_parabolas_ejez1:object_18
+    400064: curvas_elipses_parabolas_ejez1:object_19
+    400066: curvas_elipses_parabolas_ejez1:object_2
+    400068: curvas_elipses_parabolas_ejez1:object_20
+    400070: curvas_elipses_parabolas_ejez1:object_21
+    400072: curvas_elipses_parabolas_ejez1:object_22
+    400074: curvas_elipses_parabolas_ejez1:object_23
+    400076: curvas_elipses_parabolas_ejez1:object_24
+    400078: curvas_elipses_parabolas_ejez1:object_3
+    400080: curvas_elipses_parabolas_ejez1:object_4
+    400082: curvas_elipses_parabolas_ejez1:object_5
+    400084: curvas_elipses_parabolas_ejez1:object_6
+    400086: curvas_elipses_parabolas_ejez1:object_7
+    400088: curvas_elipses_parabolas_ejez1:object_8
+    400090: curvas_elipses_parabolas_ejez1:object_9
+    400092: //RootNode
+    400094: superficie1
+    400096: superficie10
+    400098: superficie11
+    400100: superficie12
+    400102: superficie13
+    400104: superficie14
+    400106: superficie15
+    400108: superficie16
+    400110: superficie17
+    400112: superficie18
+    400114: superficie19
+    400116: superficie2
+    400118: superficie20
+    400120: superficie21
+    400122: superficie22
+    400124: superficie23
+    400126: superficie24
+    400128: superficie3
+    400130: superficie4
+    400132: superficie5
+    400134: superficie6
+    400136: superficie7
+    400138: superficie8
+    400140: superficie9
+    2300000: cuchilla1
+    2300002: cuchilla10
+    2300004: cuchilla11
+    2300006: cuchilla12
+    2300008: cuchilla13
+    2300010: cuchilla14
+    2300012: cuchilla15
+    2300014: cuchilla16
+    2300016: cuchilla17
+    2300018: cuchilla18
+    2300020: cuchilla19
+    2300022: cuchilla2
+    2300024: cuchilla20
+    2300026: cuchilla21
+    2300028: cuchilla22
+    2300030: cuchilla3
+    2300032: cuchilla4
+    2300034: cuchilla5
+    2300036: cuchilla6
+    2300038: cuchilla7
+    2300040: cuchilla8
+    2300042: cuchilla9
+    2300044: curvas_elipses_parabolas_ejez1:object_1
+    2300046: curvas_elipses_parabolas_ejez1:object_10
+    2300048: curvas_elipses_parabolas_ejez1:object_11
+    2300050: curvas_elipses_parabolas_ejez1:object_12
+    2300052: curvas_elipses_parabolas_ejez1:object_13
+    2300054: curvas_elipses_parabolas_ejez1:object_14
+    2300056: curvas_elipses_parabolas_ejez1:object_15
+    2300058: curvas_elipses_parabolas_ejez1:object_16
+    2300060: curvas_elipses_parabolas_ejez1:object_17
+    2300062: curvas_elipses_parabolas_ejez1:object_18
+    2300064: curvas_elipses_parabolas_ejez1:object_19
+    2300066: curvas_elipses_parabolas_ejez1:object_2
+    2300068: curvas_elipses_parabolas_ejez1:object_20
+    2300070: curvas_elipses_parabolas_ejez1:object_21
+    2300072: curvas_elipses_parabolas_ejez1:object_22
+    2300074: curvas_elipses_parabolas_ejez1:object_23
+    2300076: curvas_elipses_parabolas_ejez1:object_24
+    2300078: curvas_elipses_parabolas_ejez1:object_3
+    2300080: curvas_elipses_parabolas_ejez1:object_4
+    2300082: curvas_elipses_parabolas_ejez1:object_5
+    2300084: curvas_elipses_parabolas_ejez1:object_6
+    2300086: curvas_elipses_parabolas_ejez1:object_7
+    2300088: curvas_elipses_parabolas_ejez1:object_8
+    2300090: curvas_elipses_parabolas_ejez1:object_9
+    2300092: superficie1
+    2300094: superficie10
+    2300096: superficie11
+    2300098: superficie12
+    2300100: superficie13
+    2300102: superficie14
+    2300104: superficie15
+    2300106: superficie16
+    2300108: superficie17
+    2300110: superficie18
+    2300112: superficie19
+    2300114: superficie2
+    2300116: superficie20
+    2300118: superficie21
+    2300120: superficie22
+    2300122: superficie23
+    2300124: superficie24
+    2300126: superficie3
+    2300128: superficie4
+    2300130: superficie5
+    2300132: superficie6
+    2300134: superficie7
+    2300136: superficie8
+    2300138: superficie9
+    3300000: cuchilla1
+    3300002: cuchilla10
+    3300004: cuchilla11
+    3300006: cuchilla12
+    3300008: cuchilla13
+    3300010: cuchilla14
+    3300012: cuchilla15
+    3300014: cuchilla16
+    3300016: cuchilla17
+    3300018: cuchilla18
+    3300020: cuchilla19
+    3300022: cuchilla2
+    3300024: cuchilla20
+    3300026: cuchilla21
+    3300028: cuchilla22
+    3300030: cuchilla3
+    3300032: cuchilla4
+    3300034: cuchilla5
+    3300036: cuchilla6
+    3300038: cuchilla7
+    3300040: cuchilla8
+    3300042: cuchilla9
+    3300044: curvas_elipses_parabolas_ejez1:object_1
+    3300046: curvas_elipses_parabolas_ejez1:object_10
+    3300048: curvas_elipses_parabolas_ejez1:object_11
+    3300050: curvas_elipses_parabolas_ejez1:object_12
+    3300052: curvas_elipses_parabolas_ejez1:object_13
+    3300054: curvas_elipses_parabolas_ejez1:object_14
+    3300056: curvas_elipses_parabolas_ejez1:object_15
+    3300058: curvas_elipses_parabolas_ejez1:object_16
+    3300060: curvas_elipses_parabolas_ejez1:object_17
+    3300062: curvas_elipses_parabolas_ejez1:object_18
+    3300064: curvas_elipses_parabolas_ejez1:object_19
+    3300066: curvas_elipses_parabolas_ejez1:object_2
+    3300068: curvas_elipses_parabolas_ejez1:object_20
+    3300070: curvas_elipses_parabolas_ejez1:object_21
+    3300072: curvas_elipses_parabolas_ejez1:object_22
+    3300074: curvas_elipses_parabolas_ejez1:object_23
+    3300076: curvas_elipses_parabolas_ejez1:object_24
+    3300078: curvas_elipses_parabolas_ejez1:object_3
+    3300080: curvas_elipses_parabolas_ejez1:object_4
+    3300082: curvas_elipses_parabolas_ejez1:object_5
+    3300084: curvas_elipses_parabolas_ejez1:object_6
+    3300086: curvas_elipses_parabolas_ejez1:object_7
+    3300088: curvas_elipses_parabolas_ejez1:object_8
+    3300090: curvas_elipses_parabolas_ejez1:object_9
+    3300092: superficie1
+    3300094: superficie10
+    3300096: superficie11
+    3300098: superficie12
+    3300100: superficie13
+    3300102: superficie14
+    3300104: superficie15
+    3300106: superficie16
+    3300108: superficie17
+    3300110: superficie18
+    3300112: superficie19
+    3300114: superficie2
+    3300116: superficie20
+    3300118: superficie21
+    3300120: superficie22
+    3300122: superficie23
+    3300124: superficie24
+    3300126: superficie3
+    3300128: superficie4
+    3300130: superficie5
+    3300132: superficie6
+    3300134: superficie7
+    3300136: superficie8
+    3300138: superficie9
+    4300000: curvas_elipses_parabolas_ejez1:object_1
+    4300002: curvas_elipses_parabolas_ejez1:object_2
+    4300004: curvas_elipses_parabolas_ejez1:object_3
+    4300006: curvas_elipses_parabolas_ejez1:object_4
+    4300008: curvas_elipses_parabolas_ejez1:object_5
+    4300010: curvas_elipses_parabolas_ejez1:object_6
+    4300012: curvas_elipses_parabolas_ejez1:object_7
+    4300014: curvas_elipses_parabolas_ejez1:object_8
+    4300016: curvas_elipses_parabolas_ejez1:object_9
+    4300018: curvas_elipses_parabolas_ejez1:object_10
+    4300020: curvas_elipses_parabolas_ejez1:object_11
+    4300022: curvas_elipses_parabolas_ejez1:object_12
+    4300024: curvas_elipses_parabolas_ejez1:object_13
+    4300026: curvas_elipses_parabolas_ejez1:object_14
+    4300028: curvas_elipses_parabolas_ejez1:object_15
+    4300030: curvas_elipses_parabolas_ejez1:object_16
+    4300032: curvas_elipses_parabolas_ejez1:object_17
+    4300034: curvas_elipses_parabolas_ejez1:object_18
+    4300036: curvas_elipses_parabolas_ejez1:object_19
+    4300038: curvas_elipses_parabolas_ejez1:object_20
+    4300040: curvas_elipses_parabolas_ejez1:object_21
+    4300042: curvas_elipses_parabolas_ejez1:object_22
+    4300044: curvas_elipses_parabolas_ejez1:object_23
+    4300046: curvas_elipses_parabolas_ejez1:object_24
+    4300048: superficie13
+    4300050: superficie14
+    4300052: superficie15
+    4300054: superficie16
+    4300056: superficie17
+    4300058: superficie18
+    4300060: superficie19
+    4300062: superficie20
+    4300064: superficie21
+    4300066: superficie22
+    4300068: superficie23
+    4300070: superficie24
+    4300072: superficie1
+    4300074: superficie2
+    4300076: superficie3
+    4300078: superficie4
+    4300080: superficie5
+    4300082: superficie6
+    4300084: superficie7
+    4300086: superficie8
+    4300088: superficie9
+    4300090: superficie10
+    4300092: superficie11
+    4300094: superficie12
+    4300096: cuchilla22
+    4300098: cuchilla21
+    4300100: cuchilla20
+    4300102: cuchilla19
+    4300104: cuchilla18
+    4300106: cuchilla17
+    4300108: cuchilla16
+    4300110: cuchilla15
+    4300112: cuchilla14
+    4300114: cuchilla13
+    4300116: cuchilla12
+    4300118: cuchilla11
+    4300120: cuchilla10
+    4300122: cuchilla9
+    4300124: cuchilla8
+    4300126: cuchilla7
+    4300128: cuchilla6
+    4300130: cuchilla5
+    4300132: cuchilla4
+    4300134: cuchilla3
+    4300136: cuchilla2
+    4300138: cuchilla1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 12
+      lastFrame: 637.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuchilla1
+        weight: 1
+      - path: cuchilla2
+        weight: 1
+      - path: cuchilla3
+        weight: 1
+      - path: cuchilla4
+        weight: 1
+      - path: cuchilla5
+        weight: 1
+      - path: cuchilla6
+        weight: 1
+      - path: cuchilla7
+        weight: 1
+      - path: cuchilla8
+        weight: 1
+      - path: cuchilla9
+        weight: 1
+      - path: cuchilla10
+        weight: 1
+      - path: cuchilla11
+        weight: 1
+      - path: cuchilla12
+        weight: 1
+      - path: cuchilla13
+        weight: 1
+      - path: cuchilla14
+        weight: 1
+      - path: cuchilla15
+        weight: 1
+      - path: cuchilla16
+        weight: 1
+      - path: cuchilla17
+        weight: 1
+      - path: cuchilla18
+        weight: 1
+      - path: cuchilla19
+        weight: 1
+      - path: cuchilla20
+        weight: 1
+      - path: cuchilla21
+        weight: 1
+      - path: cuchilla22
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_1
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_2
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_3
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_4
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_5
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_6
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_7
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_8
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_9
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_10
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_11
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_12
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_13
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_14
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_15
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_16
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_17
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_18
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_19
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_20
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_21
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_22
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_23
+        weight: 1
+      - path: curvas_elipses_parabolas_ejez1:object_24
+        weight: 1
+      - path: superficie1
+        weight: 1
+      - path: superficie2
+        weight: 1
+      - path: superficie3
+        weight: 1
+      - path: superficie4
+        weight: 1
+      - path: superficie5
+        weight: 1
+      - path: superficie6
+        weight: 1
+      - path: superficie7
+        weight: 1
+      - path: superficie8
+        weight: 1
+      - path: superficie9
+        weight: 1
+      - path: superficie10
+        weight: 1
+      - path: superficie11
+        weight: 1
+      - path: superficie12
+        weight: 1
+      - path: superficie13
+        weight: 1
+      - path: superficie14
+        weight: 1
+      - path: superficie15
+        weight: 1
+      - path: superficie16
+        weight: 1
+      - path: superficie17
+        weight: 1
+      - path: superficie18
+        weight: 1
+      - path: superficie19
+        weight: 1
+      - path: superficie20
+        weight: 1
+      - path: superficie21
+        weight: 1
+      - path: superficie22
+        weight: 1
+      - path: superficie23
+        weight: 1
+      - path: superficie24
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00810000021
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

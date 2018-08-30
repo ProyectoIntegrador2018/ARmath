@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 833cb901c82694940ab43603ede38f5a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: curve2
+    100002: curve3
+    100004: group2
+    100006: Mesh
+    100008: Mesh1
+    100010: Mesh10
+    100012: Mesh11
+    100014: Mesh12
+    100016: Mesh13
+    100018: Mesh14
+    100020: Mesh15
+    100022: Mesh16
+    100024: Mesh17
+    100026: Mesh18
+    100028: Mesh19
+    100030: Mesh2
+    100032: Mesh20
+    100034: Mesh21
+    100036: Mesh22
+    100038: Mesh23
+    100040: Mesh24
+    100042: Mesh25
+    100044: Mesh26
+    100046: Mesh27
+    100048: Mesh28
+    100050: Mesh29
+    100052: Mesh3
+    100054: Mesh30
+    100056: Mesh31
+    100058: Mesh32
+    100060: Mesh33
+    100062: Mesh34
+    100064: Mesh35
+    100066: Mesh36
+    100068: Mesh37
+    100070: Mesh38
+    100072: Mesh39
+    100074: Mesh4
+    100076: Mesh40
+    100078: Mesh41
+    100080: Mesh42
+    100082: Mesh43
+    100084: Mesh44
+    100086: Mesh45
+    100088: Mesh46
+    100090: Mesh47
+    100092: Mesh5
+    100094: Mesh6
+    100096: Mesh7
+    100098: Mesh8
+    100100: Mesh9
+    100102: nurbsCircle1
+    100104: parabola:pCylinder1
+    100106: parabola:pCylinder10
+    100108: parabola:pCylinder11
+    100110: parabola:pCylinder12
+    100112: parabola:pCylinder13
+    100114: parabola:pCylinder14
+    100116: parabola:pCylinder15
+    100118: parabola:pCylinder16
+    100120: parabola:pCylinder17
+    100122: parabola:pCylinder18
+    100124: parabola:pCylinder19
+    100126: parabola:pCylinder2
+    100128: parabola:pCylinder20
+    100130: parabola:pCylinder21
+    100132: parabola:pCylinder22
+    100134: parabola:pCylinder23
+    100136: parabola:pCylinder24
+    100138: parabola:pCylinder25
+    100140: parabola:pCylinder26
+    100142: parabola:pCylinder27
+    100144: parabola:pCylinder28
+    100146: parabola:pCylinder29
+    100148: parabola:pCylinder3
+    100150: parabola:pCylinder30
+    100152: parabola:pCylinder31
+    100154: parabola:pCylinder32
+    100156: parabola:pCylinder33
+    100158: parabola:pCylinder34
+    100160: parabola:pCylinder35
+    100162: parabola:pCylinder36
+    100164: parabola:pCylinder37
+    100166: parabola:pCylinder4
+    100168: parabola:pCylinder5
+    100170: parabola:pCylinder6
+    100172: parabola:pCylinder7
+    100174: parabola:pCylinder8
+    100176: parabola:polySurface1
+    100178: parabola:polySurface2
+    100180: pCylinder1
+    100182: pCylinder2
+    100184: pCylinder3
+    100186: pCylinder4
+    100188: pCylinder5
+    100190: pCylinder6
+    100192: pCylinder7
+    100194: pPlane1
+    100196: //RootNode
+    400000: curve2
+    400002: curve3
+    400004: group2
+    400006: Mesh
+    400008: Mesh1
+    400010: Mesh10
+    400012: Mesh11
+    400014: Mesh12
+    400016: Mesh13
+    400018: Mesh14
+    400020: Mesh15
+    400022: Mesh16
+    400024: Mesh17
+    400026: Mesh18
+    400028: Mesh19
+    400030: Mesh2
+    400032: Mesh20
+    400034: Mesh21
+    400036: Mesh22
+    400038: Mesh23
+    400040: Mesh24
+    400042: Mesh25
+    400044: Mesh26
+    400046: Mesh27
+    400048: Mesh28
+    400050: Mesh29
+    400052: Mesh3
+    400054: Mesh30
+    400056: Mesh31
+    400058: Mesh32
+    400060: Mesh33
+    400062: Mesh34
+    400064: Mesh35
+    400066: Mesh36
+    400068: Mesh37
+    400070: Mesh38
+    400072: Mesh39
+    400074: Mesh4
+    400076: Mesh40
+    400078: Mesh41
+    400080: Mesh42
+    400082: Mesh43
+    400084: Mesh44
+    400086: Mesh45
+    400088: Mesh46
+    400090: Mesh47
+    400092: Mesh5
+    400094: Mesh6
+    400096: Mesh7
+    400098: Mesh8
+    400100: Mesh9
+    400102: nurbsCircle1
+    400104: parabola:pCylinder1
+    400106: parabola:pCylinder10
+    400108: parabola:pCylinder11
+    400110: parabola:pCylinder12
+    400112: parabola:pCylinder13
+    400114: parabola:pCylinder14
+    400116: parabola:pCylinder15
+    400118: parabola:pCylinder16
+    400120: parabola:pCylinder17
+    400122: parabola:pCylinder18
+    400124: parabola:pCylinder19
+    400126: parabola:pCylinder2
+    400128: parabola:pCylinder20
+    400130: parabola:pCylinder21
+    400132: parabola:pCylinder22
+    400134: parabola:pCylinder23
+    400136: parabola:pCylinder24
+    400138: parabola:pCylinder25
+    400140: parabola:pCylinder26
+    400142: parabola:pCylinder27
+    400144: parabola:pCylinder28
+    400146: parabola:pCylinder29
+    400148: parabola:pCylinder3
+    400150: parabola:pCylinder30
+    400152: parabola:pCylinder31
+    400154: parabola:pCylinder32
+    400156: parabola:pCylinder33
+    400158: parabola:pCylinder34
+    400160: parabola:pCylinder35
+    400162: parabola:pCylinder36
+    400164: parabola:pCylinder37
+    400166: parabola:pCylinder4
+    400168: parabola:pCylinder5
+    400170: parabola:pCylinder6
+    400172: parabola:pCylinder7
+    400174: parabola:pCylinder8
+    400176: parabola:polySurface1
+    400178: parabola:polySurface2
+    400180: pCylinder1
+    400182: pCylinder2
+    400184: pCylinder3
+    400186: pCylinder4
+    400188: pCylinder5
+    400190: pCylinder6
+    400192: pCylinder7
+    400194: pPlane1
+    400196: //RootNode
+    2300000: Mesh
+    2300002: Mesh1
+    2300004: Mesh10
+    2300006: Mesh11
+    2300008: Mesh12
+    2300010: Mesh13
+    2300012: Mesh14
+    2300014: Mesh15
+    2300016: Mesh16
+    2300018: Mesh17
+    2300020: Mesh18
+    2300022: Mesh19
+    2300024: Mesh2
+    2300026: Mesh20
+    2300028: Mesh21
+    2300030: Mesh22
+    2300032: Mesh23
+    2300034: Mesh24
+    2300036: Mesh25
+    2300038: Mesh26
+    2300040: Mesh27
+    2300042: Mesh28
+    2300044: Mesh29
+    2300046: Mesh3
+    2300048: Mesh30
+    2300050: Mesh31
+    2300052: Mesh32
+    2300054: Mesh33
+    2300056: Mesh34
+    2300058: Mesh35
+    2300060: Mesh36
+    2300062: Mesh37
+    2300064: Mesh38
+    2300066: Mesh39
+    2300068: Mesh4
+    2300070: Mesh40
+    2300072: Mesh41
+    2300074: Mesh42
+    2300076: Mesh43
+    2300078: Mesh44
+    2300080: Mesh45
+    2300082: Mesh46
+    2300084: Mesh47
+    2300086: Mesh5
+    2300088: Mesh6
+    2300090: Mesh7
+    2300092: Mesh8
+    2300094: Mesh9
+    2300096: parabola:pCylinder1
+    2300098: parabola:pCylinder10
+    2300100: parabola:pCylinder11
+    2300102: parabola:pCylinder12
+    2300104: parabola:pCylinder13
+    2300106: parabola:pCylinder14
+    2300108: parabola:pCylinder15
+    2300110: parabola:pCylinder16
+    2300112: parabola:pCylinder17
+    2300114: parabola:pCylinder18
+    2300116: parabola:pCylinder19
+    2300118: parabola:pCylinder2
+    2300120: parabola:pCylinder20
+    2300122: parabola:pCylinder21
+    2300124: parabola:pCylinder22
+    2300126: parabola:pCylinder23
+    2300128: parabola:pCylinder24
+    2300130: parabola:pCylinder25
+    2300132: parabola:pCylinder26
+    2300134: parabola:pCylinder27
+    2300136: parabola:pCylinder28
+    2300138: parabola:pCylinder29
+    2300140: parabola:pCylinder3
+    2300142: parabola:pCylinder30
+    2300144: parabola:pCylinder31
+    2300146: parabola:pCylinder32
+    2300148: parabola:pCylinder33
+    2300150: parabola:pCylinder34
+    2300152: parabola:pCylinder35
+    2300154: parabola:pCylinder36
+    2300156: parabola:pCylinder37
+    2300158: parabola:pCylinder4
+    2300160: parabola:pCylinder5
+    2300162: parabola:pCylinder6
+    2300164: parabola:pCylinder7
+    2300166: parabola:pCylinder8
+    2300168: parabola:polySurface1
+    2300170: parabola:polySurface2
+    2300172: pCylinder1
+    2300174: pCylinder2
+    2300176: pCylinder3
+    2300178: pCylinder4
+    2300180: pCylinder5
+    2300182: pCylinder6
+    2300184: pCylinder7
+    2300186: pPlane1
+    3300000: Mesh
+    3300002: Mesh1
+    3300004: Mesh10
+    3300006: Mesh11
+    3300008: Mesh12
+    3300010: Mesh13
+    3300012: Mesh14
+    3300014: Mesh15
+    3300016: Mesh16
+    3300018: Mesh17
+    3300020: Mesh18
+    3300022: Mesh19
+    3300024: Mesh2
+    3300026: Mesh20
+    3300028: Mesh21
+    3300030: Mesh22
+    3300032: Mesh23
+    3300034: Mesh24
+    3300036: Mesh25
+    3300038: Mesh26
+    3300040: Mesh27
+    3300042: Mesh28
+    3300044: Mesh29
+    3300046: Mesh3
+    3300048: Mesh30
+    3300050: Mesh31
+    3300052: Mesh32
+    3300054: Mesh33
+    3300056: Mesh34
+    3300058: Mesh35
+    3300060: Mesh36
+    3300062: Mesh37
+    3300064: Mesh38
+    3300066: Mesh39
+    3300068: Mesh4
+    3300070: Mesh40
+    3300072: Mesh41
+    3300074: Mesh42
+    3300076: Mesh43
+    3300078: Mesh44
+    3300080: Mesh45
+    3300082: Mesh46
+    3300084: Mesh47
+    3300086: Mesh5
+    3300088: Mesh6
+    3300090: Mesh7
+    3300092: Mesh8
+    3300094: Mesh9
+    3300096: parabola:pCylinder1
+    3300098: parabola:pCylinder10
+    3300100: parabola:pCylinder11
+    3300102: parabola:pCylinder12
+    3300104: parabola:pCylinder13
+    3300106: parabola:pCylinder14
+    3300108: parabola:pCylinder15
+    3300110: parabola:pCylinder16
+    3300112: parabola:pCylinder17
+    3300114: parabola:pCylinder18
+    3300116: parabola:pCylinder19
+    3300118: parabola:pCylinder2
+    3300120: parabola:pCylinder20
+    3300122: parabola:pCylinder21
+    3300124: parabola:pCylinder22
+    3300126: parabola:pCylinder23
+    3300128: parabola:pCylinder24
+    3300130: parabola:pCylinder25
+    3300132: parabola:pCylinder26
+    3300134: parabola:pCylinder27
+    3300136: parabola:pCylinder28
+    3300138: parabola:pCylinder29
+    3300140: parabola:pCylinder3
+    3300142: parabola:pCylinder30
+    3300144: parabola:pCylinder31
+    3300146: parabola:pCylinder32
+    3300148: parabola:pCylinder33
+    3300150: parabola:pCylinder34
+    3300152: parabola:pCylinder35
+    3300154: parabola:pCylinder36
+    3300156: parabola:pCylinder37
+    3300158: parabola:pCylinder4
+    3300160: parabola:pCylinder5
+    3300162: parabola:pCylinder6
+    3300164: parabola:pCylinder7
+    3300166: parabola:pCylinder8
+    3300168: parabola:polySurface1
+    3300170: parabola:polySurface2
+    3300172: pCylinder1
+    3300174: pCylinder2
+    3300176: pCylinder3
+    3300178: pCylinder4
+    3300180: pCylinder5
+    3300182: pCylinder6
+    3300184: pCylinder7
+    3300186: pPlane1
+    4300000: Mesh
+    4300002: parabola:polySurface2
+    4300004: parabola:pCylinder1
+    4300006: parabola:pCylinder2
+    4300008: parabola:pCylinder3
+    4300010: parabola:pCylinder4
+    4300012: parabola:pCylinder5
+    4300014: parabola:pCylinder6
+    4300016: parabola:pCylinder7
+    4300018: parabola:pCylinder8
+    4300020: parabola:pCylinder10
+    4300022: parabola:pCylinder11
+    4300024: parabola:pCylinder12
+    4300026: parabola:pCylinder13
+    4300028: parabola:pCylinder14
+    4300030: parabola:pCylinder15
+    4300032: parabola:pCylinder16
+    4300034: parabola:pCylinder17
+    4300036: parabola:pCylinder18
+    4300038: parabola:pCylinder19
+    4300040: parabola:pCylinder20
+    4300042: parabola:pCylinder21
+    4300044: parabola:pCylinder22
+    4300046: parabola:pCylinder23
+    4300048: parabola:pCylinder24
+    4300050: parabola:pCylinder25
+    4300052: parabola:pCylinder26
+    4300054: parabola:pCylinder27
+    4300056: parabola:pCylinder28
+    4300058: parabola:pCylinder29
+    4300060: parabola:pCylinder30
+    4300062: parabola:pCylinder31
+    4300064: parabola:pCylinder32
+    4300066: parabola:pCylinder33
+    4300068: parabola:pCylinder34
+    4300070: parabola:pCylinder35
+    4300072: parabola:pCylinder36
+    4300074: parabola:pCylinder37
+    4300076: parabola:polySurface1
+    4300078: pCylinder1
+    4300080: pCylinder2
+    4300082: pCylinder3
+    4300084: pCylinder4
+    4300086: pCylinder5
+    4300088: pCylinder6
+    4300090: pCylinder7
+    4300092: Mesh1
+    4300094: Mesh2
+    4300096: Mesh3
+    4300098: Mesh4
+    4300100: Mesh5
+    4300102: Mesh6
+    4300104: Mesh7
+    4300106: Mesh8
+    4300108: Mesh9
+    4300110: Mesh10
+    4300112: Mesh11
+    4300114: Mesh12
+    4300116: Mesh13
+    4300118: Mesh14
+    4300120: Mesh15
+    4300122: Mesh16
+    4300124: Mesh17
+    4300126: Mesh18
+    4300128: Mesh19
+    4300130: Mesh20
+    4300132: Mesh21
+    4300134: Mesh22
+    4300136: Mesh23
+    4300138: Mesh24
+    4300140: Mesh25
+    4300142: Mesh26
+    4300144: Mesh27
+    4300146: Mesh28
+    4300148: Mesh29
+    4300150: Mesh30
+    4300152: Mesh31
+    4300154: Mesh32
+    4300156: Mesh33
+    4300158: Mesh34
+    4300160: Mesh35
+    4300162: Mesh36
+    4300164: Mesh37
+    4300166: Mesh38
+    4300168: Mesh39
+    4300170: Mesh40
+    4300172: Mesh41
+    4300174: Mesh42
+    4300176: Mesh43
+    4300178: Mesh44
+    4300180: Mesh45
+    4300182: Mesh46
+    4300184: Mesh47
+    4300186: pPlane1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve3
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/group2
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder1
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder2
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder3
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder4
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder5
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder6
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder7
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder8
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder10
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder11
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder12
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder13
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder14
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder15
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder16
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder17
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder18
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder19
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder20
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder21
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder22
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder23
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder24
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder25
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder26
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder27
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder28
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder29
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder30
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder31
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder32
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder33
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder34
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder35
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder36
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:pCylinder37
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:polySurface1
+        weight: 1
+      - path: nurbsCircle1/group2/parabola:polySurface2
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder1
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder2
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder3
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder4
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder5
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder6
+        weight: 1
+      - path: nurbsCircle1/group2/pCylinder7
+        weight: 1
+      - path: nurbsCircle1/Mesh
+        weight: 1
+      - path: nurbsCircle1/Mesh1
+        weight: 1
+      - path: nurbsCircle1/Mesh2
+        weight: 1
+      - path: nurbsCircle1/Mesh3
+        weight: 1
+      - path: nurbsCircle1/Mesh4
+        weight: 1
+      - path: nurbsCircle1/Mesh5
+        weight: 1
+      - path: nurbsCircle1/Mesh6
+        weight: 1
+      - path: nurbsCircle1/Mesh7
+        weight: 1
+      - path: nurbsCircle1/Mesh8
+        weight: 1
+      - path: nurbsCircle1/Mesh9
+        weight: 1
+      - path: nurbsCircle1/Mesh10
+        weight: 1
+      - path: nurbsCircle1/Mesh11
+        weight: 1
+      - path: nurbsCircle1/Mesh12
+        weight: 1
+      - path: nurbsCircle1/Mesh13
+        weight: 1
+      - path: nurbsCircle1/Mesh14
+        weight: 1
+      - path: nurbsCircle1/Mesh15
+        weight: 1
+      - path: nurbsCircle1/Mesh16
+        weight: 1
+      - path: nurbsCircle1/Mesh17
+        weight: 1
+      - path: nurbsCircle1/Mesh18
+        weight: 1
+      - path: nurbsCircle1/Mesh19
+        weight: 1
+      - path: nurbsCircle1/Mesh20
+        weight: 1
+      - path: nurbsCircle1/Mesh21
+        weight: 1
+      - path: nurbsCircle1/Mesh22
+        weight: 1
+      - path: nurbsCircle1/Mesh23
+        weight: 1
+      - path: nurbsCircle1/Mesh24
+        weight: 1
+      - path: nurbsCircle1/Mesh25
+        weight: 1
+      - path: nurbsCircle1/Mesh26
+        weight: 1
+      - path: nurbsCircle1/Mesh27
+        weight: 1
+      - path: nurbsCircle1/Mesh28
+        weight: 1
+      - path: nurbsCircle1/Mesh29
+        weight: 1
+      - path: nurbsCircle1/Mesh30
+        weight: 1
+      - path: nurbsCircle1/Mesh31
+        weight: 1
+      - path: nurbsCircle1/Mesh32
+        weight: 1
+      - path: nurbsCircle1/Mesh33
+        weight: 1
+      - path: nurbsCircle1/Mesh34
+        weight: 1
+      - path: nurbsCircle1/Mesh35
+        weight: 1
+      - path: nurbsCircle1/Mesh36
+        weight: 1
+      - path: nurbsCircle1/Mesh37
+        weight: 1
+      - path: nurbsCircle1/Mesh38
+        weight: 1
+      - path: nurbsCircle1/Mesh39
+        weight: 1
+      - path: nurbsCircle1/Mesh40
+        weight: 1
+      - path: nurbsCircle1/Mesh41
+        weight: 1
+      - path: nurbsCircle1/Mesh42
+        weight: 1
+      - path: nurbsCircle1/Mesh43
+        weight: 1
+      - path: nurbsCircle1/Mesh44
+        weight: 1
+      - path: nurbsCircle1/Mesh45
+        weight: 1
+      - path: nurbsCircle1/Mesh46
+        weight: 1
+      - path: nurbsCircle1/Mesh47
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

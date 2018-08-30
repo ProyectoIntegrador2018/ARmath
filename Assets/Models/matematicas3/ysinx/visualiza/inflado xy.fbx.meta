@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 7434786513a3d7143a0ffb65f1696c92
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: object_20
+    100004: object_285
+    100006: object_286
+    100008: object_287
+    100010: object_288
+    100012: object_289
+    100014: object_290
+    100016: object_291
+    100018: object_292
+    100020: object_293
+    100022: object_294
+    100024: object_295
+    100026: object_296
+    100028: object_297
+    100030: object_298
+    100032: object_299
+    100034: object_30
+    100036: object_300
+    100038: object_301
+    100040: object_302
+    100042: object_303
+    100044: object_304
+    100046: object_305
+    100048: object_306
+    100050: object_307
+    100052: object_308
+    100054: object_309
+    100056: object_31
+    100058: object_310
+    100060: object_311
+    100062: object_312
+    100064: object_32
+    100066: object_33
+    100068: object_34
+    100070: object_35
+    100072: object_36
+    100074: object_37
+    100076: object_38
+    100078: object_39
+    100080: object_40
+    100082: object_41
+    100084: object_42
+    100086: object_43
+    100088: object_44
+    100090: object_45
+    100092: object_46
+    100094: object_47
+    100096: object_48
+    100098: object_49
+    100100: object_50
+    100102: object_51
+    100104: object_52
+    100106: object_53
+    100108: object_54
+    100110: object_55
+    100112: object_56
+    100114: object_57
+    100116: object_58
+    100118: object_59
+    100120: object_60
+    100122: object_61
+    100124: object_62
+    100126: object_63
+    100128: object_64
+    100130: object_65
+    100132: object_66
+    100134: object_67
+    100136: object_68
+    100138: object_69
+    100140: object_70
+    100142: object_71
+    100144: object_72
+    100146: object_73
+    100148: object_74
+    100150: object_75
+    100152: object_76
+    400000: //RootNode
+    400002: object_20
+    400004: object_285
+    400006: object_286
+    400008: object_287
+    400010: object_288
+    400012: object_289
+    400014: object_290
+    400016: object_291
+    400018: object_292
+    400020: object_293
+    400022: object_294
+    400024: object_295
+    400026: object_296
+    400028: object_297
+    400030: object_298
+    400032: object_299
+    400034: object_30
+    400036: object_300
+    400038: object_301
+    400040: object_302
+    400042: object_303
+    400044: object_304
+    400046: object_305
+    400048: object_306
+    400050: object_307
+    400052: object_308
+    400054: object_309
+    400056: object_31
+    400058: object_310
+    400060: object_311
+    400062: object_312
+    400064: object_32
+    400066: object_33
+    400068: object_34
+    400070: object_35
+    400072: object_36
+    400074: object_37
+    400076: object_38
+    400078: object_39
+    400080: object_40
+    400082: object_41
+    400084: object_42
+    400086: object_43
+    400088: object_44
+    400090: object_45
+    400092: object_46
+    400094: object_47
+    400096: object_48
+    400098: object_49
+    400100: object_50
+    400102: object_51
+    400104: object_52
+    400106: object_53
+    400108: object_54
+    400110: object_55
+    400112: object_56
+    400114: object_57
+    400116: object_58
+    400118: object_59
+    400120: object_60
+    400122: object_61
+    400124: object_62
+    400126: object_63
+    400128: object_64
+    400130: object_65
+    400132: object_66
+    400134: object_67
+    400136: object_68
+    400138: object_69
+    400140: object_70
+    400142: object_71
+    400144: object_72
+    400146: object_73
+    400148: object_74
+    400150: object_75
+    400152: object_76
+    2300000: object_20
+    2300002: object_285
+    2300004: object_286
+    2300006: object_287
+    2300008: object_288
+    2300010: object_289
+    2300012: object_290
+    2300014: object_291
+    2300016: object_292
+    2300018: object_293
+    2300020: object_294
+    2300022: object_295
+    2300024: object_296
+    2300026: object_297
+    2300028: object_298
+    2300030: object_299
+    2300032: object_30
+    2300034: object_300
+    2300036: object_301
+    2300038: object_302
+    2300040: object_303
+    2300042: object_304
+    2300044: object_305
+    2300046: object_306
+    2300048: object_307
+    2300050: object_308
+    2300052: object_309
+    2300054: object_31
+    2300056: object_310
+    2300058: object_311
+    2300060: object_312
+    2300062: object_32
+    2300064: object_33
+    2300066: object_34
+    2300068: object_35
+    2300070: object_36
+    2300072: object_37
+    2300074: object_38
+    2300076: object_39
+    2300078: object_40
+    2300080: object_41
+    2300082: object_42
+    2300084: object_43
+    2300086: object_44
+    2300088: object_45
+    2300090: object_46
+    2300092: object_47
+    2300094: object_48
+    2300096: object_49
+    2300098: object_50
+    2300100: object_51
+    2300102: object_52
+    2300104: object_53
+    2300106: object_54
+    2300108: object_55
+    2300110: object_56
+    2300112: object_57
+    2300114: object_58
+    2300116: object_59
+    2300118: object_60
+    2300120: object_61
+    2300122: object_62
+    2300124: object_63
+    2300126: object_64
+    2300128: object_65
+    2300130: object_66
+    2300132: object_67
+    2300134: object_68
+    2300136: object_69
+    2300138: object_70
+    2300140: object_71
+    2300142: object_72
+    2300144: object_73
+    2300146: object_74
+    2300148: object_75
+    2300150: object_76
+    3300000: object_20
+    3300002: object_285
+    3300004: object_286
+    3300006: object_287
+    3300008: object_288
+    3300010: object_289
+    3300012: object_290
+    3300014: object_291
+    3300016: object_292
+    3300018: object_293
+    3300020: object_294
+    3300022: object_295
+    3300024: object_296
+    3300026: object_297
+    3300028: object_298
+    3300030: object_299
+    3300032: object_30
+    3300034: object_300
+    3300036: object_301
+    3300038: object_302
+    3300040: object_303
+    3300042: object_304
+    3300044: object_305
+    3300046: object_306
+    3300048: object_307
+    3300050: object_308
+    3300052: object_309
+    3300054: object_31
+    3300056: object_310
+    3300058: object_311
+    3300060: object_312
+    3300062: object_32
+    3300064: object_33
+    3300066: object_34
+    3300068: object_35
+    3300070: object_36
+    3300072: object_37
+    3300074: object_38
+    3300076: object_39
+    3300078: object_40
+    3300080: object_41
+    3300082: object_42
+    3300084: object_43
+    3300086: object_44
+    3300088: object_45
+    3300090: object_46
+    3300092: object_47
+    3300094: object_48
+    3300096: object_49
+    3300098: object_50
+    3300100: object_51
+    3300102: object_52
+    3300104: object_53
+    3300106: object_54
+    3300108: object_55
+    3300110: object_56
+    3300112: object_57
+    3300114: object_58
+    3300116: object_59
+    3300118: object_60
+    3300120: object_61
+    3300122: object_62
+    3300124: object_63
+    3300126: object_64
+    3300128: object_65
+    3300130: object_66
+    3300132: object_67
+    3300134: object_68
+    3300136: object_69
+    3300138: object_70
+    3300140: object_71
+    3300142: object_72
+    3300144: object_73
+    3300146: object_74
+    3300148: object_75
+    3300150: object_76
+    4300000: object_285
+    4300002: object_286
+    4300004: object_287
+    4300006: object_288
+    4300008: object_289
+    4300010: object_290
+    4300012: object_291
+    4300014: object_292
+    4300016: object_293
+    4300018: object_294
+    4300020: object_295
+    4300022: object_296
+    4300024: object_297
+    4300026: object_298
+    4300028: object_299
+    4300030: object_300
+    4300032: object_301
+    4300034: object_302
+    4300036: object_303
+    4300038: object_20
+    4300040: object_304
+    4300042: object_305
+    4300044: object_306
+    4300046: object_307
+    4300048: object_308
+    4300050: object_309
+    4300052: object_310
+    4300054: object_311
+    4300056: object_312
+    4300058: object_30
+    4300060: object_31
+    4300062: object_32
+    4300064: object_33
+    4300066: object_34
+    4300068: object_35
+    4300070: object_36
+    4300072: object_37
+    4300074: object_38
+    4300076: object_39
+    4300078: object_40
+    4300080: object_41
+    4300082: object_42
+    4300084: object_43
+    4300086: object_44
+    4300088: object_45
+    4300090: object_46
+    4300092: object_47
+    4300094: object_48
+    4300096: object_49
+    4300098: object_50
+    4300100: object_51
+    4300102: object_52
+    4300104: object_53
+    4300106: object_54
+    4300108: object_55
+    4300110: object_56
+    4300112: object_57
+    4300114: object_58
+    4300116: object_59
+    4300118: object_60
+    4300120: object_61
+    4300122: object_62
+    4300124: object_63
+    4300126: object_64
+    4300128: object_65
+    4300130: object_66
+    4300132: object_67
+    4300134: object_68
+    4300136: object_69
+    4300138: object_70
+    4300140: object_71
+    4300142: object_72
+    4300144: object_73
+    4300146: object_74
+    4300148: object_75
+    4300150: object_76
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 178
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: object_20
+        weight: 1
+      - path: object_30
+        weight: 1
+      - path: object_31
+        weight: 1
+      - path: object_32
+        weight: 1
+      - path: object_33
+        weight: 1
+      - path: object_34
+        weight: 1
+      - path: object_35
+        weight: 1
+      - path: object_36
+        weight: 1
+      - path: object_37
+        weight: 1
+      - path: object_38
+        weight: 1
+      - path: object_39
+        weight: 1
+      - path: object_40
+        weight: 1
+      - path: object_41
+        weight: 1
+      - path: object_42
+        weight: 1
+      - path: object_43
+        weight: 1
+      - path: object_44
+        weight: 1
+      - path: object_45
+        weight: 1
+      - path: object_46
+        weight: 1
+      - path: object_47
+        weight: 1
+      - path: object_48
+        weight: 1
+      - path: object_49
+        weight: 1
+      - path: object_50
+        weight: 1
+      - path: object_51
+        weight: 1
+      - path: object_52
+        weight: 1
+      - path: object_53
+        weight: 1
+      - path: object_54
+        weight: 1
+      - path: object_55
+        weight: 1
+      - path: object_56
+        weight: 1
+      - path: object_57
+        weight: 1
+      - path: object_58
+        weight: 1
+      - path: object_59
+        weight: 1
+      - path: object_60
+        weight: 1
+      - path: object_61
+        weight: 1
+      - path: object_62
+        weight: 1
+      - path: object_63
+        weight: 1
+      - path: object_64
+        weight: 1
+      - path: object_65
+        weight: 1
+      - path: object_66
+        weight: 1
+      - path: object_67
+        weight: 1
+      - path: object_68
+        weight: 1
+      - path: object_69
+        weight: 1
+      - path: object_70
+        weight: 1
+      - path: object_71
+        weight: 1
+      - path: object_72
+        weight: 1
+      - path: object_73
+        weight: 1
+      - path: object_74
+        weight: 1
+      - path: object_75
+        weight: 1
+      - path: object_76
+        weight: 1
+      - path: object_285
+        weight: 1
+      - path: object_286
+        weight: 1
+      - path: object_287
+        weight: 1
+      - path: object_288
+        weight: 1
+      - path: object_289
+        weight: 1
+      - path: object_290
+        weight: 1
+      - path: object_291
+        weight: 1
+      - path: object_292
+        weight: 1
+      - path: object_293
+        weight: 1
+      - path: object_294
+        weight: 1
+      - path: object_295
+        weight: 1
+      - path: object_296
+        weight: 1
+      - path: object_297
+        weight: 1
+      - path: object_298
+        weight: 1
+      - path: object_299
+        weight: 1
+      - path: object_300
+        weight: 1
+      - path: object_301
+        weight: 1
+      - path: object_302
+        weight: 1
+      - path: object_303
+        weight: 1
+      - path: object_304
+        weight: 1
+      - path: object_305
+        weight: 1
+      - path: object_306
+        weight: 1
+      - path: object_307
+        weight: 1
+      - path: object_308
+        weight: 1
+      - path: object_309
+        weight: 1
+      - path: object_310
+        weight: 1
+      - path: object_311
+        weight: 1
+      - path: object_312
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

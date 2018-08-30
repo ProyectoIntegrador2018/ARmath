@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: a331be324c3d95b42a6cbaad51ea553f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: gajos_solidos1
+    100002: gajos_solidos10
+    100004: gajos_solidos11
+    100006: gajos_solidos12
+    100008: gajos_solidos13
+    100010: gajos_solidos14
+    100012: gajos_solidos15
+    100014: gajos_solidos16
+    100016: gajos_solidos17
+    100018: gajos_solidos18
+    100020: gajos_solidos19
+    100022: gajos_solidos2
+    100024: gajos_solidos20
+    100026: gajos_solidos21
+    100028: gajos_solidos22
+    100030: gajos_solidos23
+    100032: gajos_solidos24
+    100034: gajos_solidos25
+    100036: gajos_solidos26
+    100038: gajos_solidos27
+    100040: gajos_solidos28
+    100042: gajos_solidos29
+    100044: gajos_solidos3
+    100046: gajos_solidos30
+    100048: gajos_solidos31
+    100050: gajos_solidos32
+    100052: gajos_solidos4
+    100054: gajos_solidos5
+    100056: gajos_solidos6
+    100058: gajos_solidos7
+    100060: gajos_solidos8
+    100062: gajos_solidos9
+    100064: //RootNode
+    400000: gajos_solidos1
+    400002: gajos_solidos10
+    400004: gajos_solidos11
+    400006: gajos_solidos12
+    400008: gajos_solidos13
+    400010: gajos_solidos14
+    400012: gajos_solidos15
+    400014: gajos_solidos16
+    400016: gajos_solidos17
+    400018: gajos_solidos18
+    400020: gajos_solidos19
+    400022: gajos_solidos2
+    400024: gajos_solidos20
+    400026: gajos_solidos21
+    400028: gajos_solidos22
+    400030: gajos_solidos23
+    400032: gajos_solidos24
+    400034: gajos_solidos25
+    400036: gajos_solidos26
+    400038: gajos_solidos27
+    400040: gajos_solidos28
+    400042: gajos_solidos29
+    400044: gajos_solidos3
+    400046: gajos_solidos30
+    400048: gajos_solidos31
+    400050: gajos_solidos32
+    400052: gajos_solidos4
+    400054: gajos_solidos5
+    400056: gajos_solidos6
+    400058: gajos_solidos7
+    400060: gajos_solidos8
+    400062: gajos_solidos9
+    400064: //RootNode
+    2300000: gajos_solidos1
+    2300002: gajos_solidos10
+    2300004: gajos_solidos11
+    2300006: gajos_solidos12
+    2300008: gajos_solidos13
+    2300010: gajos_solidos14
+    2300012: gajos_solidos15
+    2300014: gajos_solidos16
+    2300016: gajos_solidos17
+    2300018: gajos_solidos18
+    2300020: gajos_solidos19
+    2300022: gajos_solidos2
+    2300024: gajos_solidos20
+    2300026: gajos_solidos21
+    2300028: gajos_solidos22
+    2300030: gajos_solidos23
+    2300032: gajos_solidos24
+    2300034: gajos_solidos25
+    2300036: gajos_solidos26
+    2300038: gajos_solidos27
+    2300040: gajos_solidos28
+    2300042: gajos_solidos29
+    2300044: gajos_solidos3
+    2300046: gajos_solidos30
+    2300048: gajos_solidos31
+    2300050: gajos_solidos32
+    2300052: gajos_solidos4
+    2300054: gajos_solidos5
+    2300056: gajos_solidos6
+    2300058: gajos_solidos7
+    2300060: gajos_solidos8
+    2300062: gajos_solidos9
+    3300000: gajos_solidos1
+    3300002: gajos_solidos10
+    3300004: gajos_solidos11
+    3300006: gajos_solidos12
+    3300008: gajos_solidos13
+    3300010: gajos_solidos14
+    3300012: gajos_solidos15
+    3300014: gajos_solidos16
+    3300016: gajos_solidos17
+    3300018: gajos_solidos18
+    3300020: gajos_solidos19
+    3300022: gajos_solidos2
+    3300024: gajos_solidos20
+    3300026: gajos_solidos21
+    3300028: gajos_solidos22
+    3300030: gajos_solidos23
+    3300032: gajos_solidos24
+    3300034: gajos_solidos25
+    3300036: gajos_solidos26
+    3300038: gajos_solidos27
+    3300040: gajos_solidos28
+    3300042: gajos_solidos29
+    3300044: gajos_solidos3
+    3300046: gajos_solidos30
+    3300048: gajos_solidos31
+    3300050: gajos_solidos32
+    3300052: gajos_solidos4
+    3300054: gajos_solidos5
+    3300056: gajos_solidos6
+    3300058: gajos_solidos7
+    3300060: gajos_solidos8
+    3300062: gajos_solidos9
+    4300000: gajos_solidos32
+    4300002: gajos_solidos31
+    4300004: gajos_solidos30
+    4300006: gajos_solidos29
+    4300008: gajos_solidos28
+    4300010: gajos_solidos27
+    4300012: gajos_solidos26
+    4300014: gajos_solidos25
+    4300016: gajos_solidos24
+    4300018: gajos_solidos23
+    4300020: gajos_solidos22
+    4300022: gajos_solidos21
+    4300024: gajos_solidos20
+    4300026: gajos_solidos19
+    4300028: gajos_solidos18
+    4300030: gajos_solidos17
+    4300032: gajos_solidos16
+    4300034: gajos_solidos15
+    4300036: gajos_solidos14
+    4300038: gajos_solidos13
+    4300040: gajos_solidos12
+    4300042: gajos_solidos11
+    4300044: gajos_solidos10
+    4300046: gajos_solidos9
+    4300048: gajos_solidos8
+    4300050: gajos_solidos7
+    4300052: gajos_solidos6
+    4300054: gajos_solidos5
+    4300056: gajos_solidos4
+    4300058: gajos_solidos3
+    4300060: gajos_solidos2
+    4300062: gajos_solidos1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajos_solidos1
+        weight: 1
+      - path: gajos_solidos2
+        weight: 1
+      - path: gajos_solidos3
+        weight: 1
+      - path: gajos_solidos4
+        weight: 1
+      - path: gajos_solidos5
+        weight: 1
+      - path: gajos_solidos6
+        weight: 1
+      - path: gajos_solidos7
+        weight: 1
+      - path: gajos_solidos8
+        weight: 1
+      - path: gajos_solidos9
+        weight: 1
+      - path: gajos_solidos10
+        weight: 1
+      - path: gajos_solidos11
+        weight: 1
+      - path: gajos_solidos12
+        weight: 1
+      - path: gajos_solidos13
+        weight: 1
+      - path: gajos_solidos14
+        weight: 1
+      - path: gajos_solidos15
+        weight: 1
+      - path: gajos_solidos16
+        weight: 1
+      - path: gajos_solidos17
+        weight: 1
+      - path: gajos_solidos18
+        weight: 1
+      - path: gajos_solidos19
+        weight: 1
+      - path: gajos_solidos20
+        weight: 1
+      - path: gajos_solidos21
+        weight: 1
+      - path: gajos_solidos22
+        weight: 1
+      - path: gajos_solidos23
+        weight: 1
+      - path: gajos_solidos24
+        weight: 1
+      - path: gajos_solidos25
+        weight: 1
+      - path: gajos_solidos26
+        weight: 1
+      - path: gajos_solidos27
+        weight: 1
+      - path: gajos_solidos28
+        weight: 1
+      - path: gajos_solidos29
+        weight: 1
+      - path: gajos_solidos30
+        weight: 1
+      - path: gajos_solidos31
+        weight: 1
+      - path: gajos_solidos32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0350000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

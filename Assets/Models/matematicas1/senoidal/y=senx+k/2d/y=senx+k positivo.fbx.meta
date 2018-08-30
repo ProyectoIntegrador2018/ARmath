@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: e305d91dac5c01b46bdde8c087870422
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: senoidal:nueva_flecha_x:polySurface1
+    100002: senoidal:Nueva_flecha_y:polySurface1
+    100004: senoidal:pCylinder1
+    100006: senoidal:pCylinder10
+    100008: senoidal:pCylinder12
+    100010: senoidal:pCylinder14
+    100012: senoidal:pCylinder16
+    100014: senoidal:pCylinder17
+    100016: senoidal:pCylinder2
+    100018: senoidal:pCylinder23
+    100020: senoidal:pCylinder25
+    100022: senoidal:pCylinder27
+    100024: senoidal:pCylinder29
+    100026: senoidal:pCylinder31
+    100028: senoidal:pCylinder33
+    100030: senoidal:pCylinder35
+    100032: senoidal:pCylinder36
+    100034: senoidal:pCylinder37
+    100036: senoidal:pCylinder4
+    100038: senoidal:pCylinder6
+    100040: senoidal:pCylinder8
+    100042: senoidal:pCylinder9
+    100044: senoidal:plane:pPlane1
+    100046: senoidal:senoidal1:Mesh
+    100048: //RootNode
+    400000: senoidal:nueva_flecha_x:polySurface1
+    400002: senoidal:Nueva_flecha_y:polySurface1
+    400004: senoidal:pCylinder1
+    400006: senoidal:pCylinder10
+    400008: senoidal:pCylinder12
+    400010: senoidal:pCylinder14
+    400012: senoidal:pCylinder16
+    400014: senoidal:pCylinder17
+    400016: senoidal:pCylinder2
+    400018: senoidal:pCylinder23
+    400020: senoidal:pCylinder25
+    400022: senoidal:pCylinder27
+    400024: senoidal:pCylinder29
+    400026: senoidal:pCylinder31
+    400028: senoidal:pCylinder33
+    400030: senoidal:pCylinder35
+    400032: senoidal:pCylinder36
+    400034: senoidal:pCylinder37
+    400036: senoidal:pCylinder4
+    400038: senoidal:pCylinder6
+    400040: senoidal:pCylinder8
+    400042: senoidal:pCylinder9
+    400044: senoidal:plane:pPlane1
+    400046: senoidal:senoidal1:Mesh
+    400048: //RootNode
+    2300000: senoidal:nueva_flecha_x:polySurface1
+    2300002: senoidal:Nueva_flecha_y:polySurface1
+    2300004: senoidal:pCylinder1
+    2300006: senoidal:pCylinder10
+    2300008: senoidal:pCylinder12
+    2300010: senoidal:pCylinder14
+    2300012: senoidal:pCylinder16
+    2300014: senoidal:pCylinder17
+    2300016: senoidal:pCylinder2
+    2300018: senoidal:pCylinder23
+    2300020: senoidal:pCylinder25
+    2300022: senoidal:pCylinder27
+    2300024: senoidal:pCylinder29
+    2300026: senoidal:pCylinder31
+    2300028: senoidal:pCylinder33
+    2300030: senoidal:pCylinder35
+    2300032: senoidal:pCylinder36
+    2300034: senoidal:pCylinder37
+    2300036: senoidal:pCylinder4
+    2300038: senoidal:pCylinder6
+    2300040: senoidal:pCylinder8
+    2300042: senoidal:pCylinder9
+    2300044: senoidal:plane:pPlane1
+    2300046: senoidal:senoidal1:Mesh
+    3300000: senoidal:nueva_flecha_x:polySurface1
+    3300002: senoidal:Nueva_flecha_y:polySurface1
+    3300004: senoidal:pCylinder1
+    3300006: senoidal:pCylinder10
+    3300008: senoidal:pCylinder12
+    3300010: senoidal:pCylinder14
+    3300012: senoidal:pCylinder16
+    3300014: senoidal:pCylinder17
+    3300016: senoidal:pCylinder2
+    3300018: senoidal:pCylinder23
+    3300020: senoidal:pCylinder25
+    3300022: senoidal:pCylinder27
+    3300024: senoidal:pCylinder29
+    3300026: senoidal:pCylinder31
+    3300028: senoidal:pCylinder33
+    3300030: senoidal:pCylinder35
+    3300032: senoidal:pCylinder36
+    3300034: senoidal:pCylinder37
+    3300036: senoidal:pCylinder4
+    3300038: senoidal:pCylinder6
+    3300040: senoidal:pCylinder8
+    3300042: senoidal:pCylinder9
+    3300044: senoidal:plane:pPlane1
+    3300046: senoidal:senoidal1:Mesh
+    4300000: senoidal:pCylinder1
+    4300002: senoidal:pCylinder2
+    4300004: senoidal:pCylinder4
+    4300006: senoidal:pCylinder6
+    4300008: senoidal:pCylinder8
+    4300010: senoidal:pCylinder9
+    4300012: senoidal:pCylinder10
+    4300014: senoidal:pCylinder12
+    4300016: senoidal:pCylinder14
+    4300018: senoidal:pCylinder16
+    4300020: senoidal:pCylinder17
+    4300022: senoidal:pCylinder23
+    4300024: senoidal:pCylinder25
+    4300026: senoidal:pCylinder27
+    4300028: senoidal:pCylinder29
+    4300030: senoidal:pCylinder31
+    4300032: senoidal:pCylinder33
+    4300034: senoidal:pCylinder35
+    4300036: senoidal:pCylinder36
+    4300038: senoidal:pCylinder37
+    4300040: senoidal:nueva_flecha_x:polySurface1
+    4300042: senoidal:Nueva_flecha_y:polySurface1
+    4300044: senoidal:plane:pPlane1
+    4300046: senoidal:senoidal1:Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100.000008
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: senoidal:nueva_flecha_x:polySurface1
+        weight: 1
+      - path: senoidal:Nueva_flecha_y:polySurface1
+        weight: 1
+      - path: senoidal:pCylinder1
+        weight: 1
+      - path: senoidal:pCylinder2
+        weight: 1
+      - path: senoidal:pCylinder4
+        weight: 1
+      - path: senoidal:pCylinder6
+        weight: 1
+      - path: senoidal:pCylinder8
+        weight: 1
+      - path: senoidal:pCylinder9
+        weight: 1
+      - path: senoidal:pCylinder10
+        weight: 1
+      - path: senoidal:pCylinder12
+        weight: 1
+      - path: senoidal:pCylinder14
+        weight: 1
+      - path: senoidal:pCylinder16
+        weight: 1
+      - path: senoidal:pCylinder17
+        weight: 1
+      - path: senoidal:pCylinder23
+        weight: 1
+      - path: senoidal:pCylinder25
+        weight: 1
+      - path: senoidal:pCylinder27
+        weight: 1
+      - path: senoidal:pCylinder29
+        weight: 1
+      - path: senoidal:pCylinder31
+        weight: 1
+      - path: senoidal:pCylinder33
+        weight: 1
+      - path: senoidal:pCylinder35
+        weight: 1
+      - path: senoidal:pCylinder36
+        weight: 1
+      - path: senoidal:pCylinder37
+        weight: 1
+      - path: senoidal:plane:pPlane1
+        weight: 1
+      - path: senoidal:senoidal1:Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

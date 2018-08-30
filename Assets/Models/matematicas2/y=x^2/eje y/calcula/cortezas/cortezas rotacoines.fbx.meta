@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: aa6ab7c25630a304fb877feeda3afa0f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cortezas1
+    100004: cortezas10
+    100006: cortezas11
+    100008: cortezas12
+    100010: cortezas13
+    100012: cortezas14
+    100014: cortezas15
+    100016: cortezas16
+    100018: cortezas17
+    100020: cortezas18
+    100022: cortezas19
+    100024: cortezas2
+    100026: cortezas20
+    100028: cortezas21
+    100030: cortezas22
+    100032: cortezas23
+    100034: cortezas24
+    100036: cortezas25
+    100038: cortezas26
+    100040: cortezas27
+    100042: cortezas28
+    100044: cortezas29
+    100046: cortezas3
+    100048: cortezas30
+    100050: cortezas31
+    100052: cortezas32
+    100054: cortezas4
+    100056: cortezas5
+    100058: cortezas6
+    100060: cortezas7
+    100062: cortezas8
+    100064: cortezas9
+    100066: cross1
+    100068: cross10
+    100070: cross11
+    100072: cross12
+    100074: cross13
+    100076: cross14
+    100078: cross15
+    100080: cross16
+    100082: cross17
+    100084: cross18
+    100086: cross19
+    100088: cross2
+    100090: cross20
+    100092: cross21
+    100094: cross22
+    100096: cross23
+    100098: cross24
+    100100: cross25
+    100102: cross26
+    100104: cross27
+    100106: cross28
+    100108: cross29
+    100110: cross3
+    100112: cross30
+    100114: cross31
+    100116: cross32
+    100118: cross4
+    100120: cross5
+    100122: cross6
+    100124: cross7
+    100126: cross8
+    100128: cross9
+    100130: lineas_guias_cortezas
+    100132: lineas_guias_cortezas1
+    100134: lineas_guias_cortezas10
+    100136: lineas_guias_cortezas11
+    100138: lineas_guias_cortezas12
+    100140: lineas_guias_cortezas13
+    100142: lineas_guias_cortezas14
+    100144: lineas_guias_cortezas15
+    100146: lineas_guias_cortezas16
+    100148: lineas_guias_cortezas17
+    100150: lineas_guias_cortezas18
+    100152: lineas_guias_cortezas19
+    100154: lineas_guias_cortezas2
+    100156: lineas_guias_cortezas20
+    100158: lineas_guias_cortezas21
+    100160: lineas_guias_cortezas22
+    100162: lineas_guias_cortezas23
+    100164: lineas_guias_cortezas24
+    100166: lineas_guias_cortezas25
+    100168: lineas_guias_cortezas26
+    100170: lineas_guias_cortezas27
+    100172: lineas_guias_cortezas28
+    100174: lineas_guias_cortezas29
+    100176: lineas_guias_cortezas3
+    100178: lineas_guias_cortezas30
+    100180: lineas_guias_cortezas31
+    100182: lineas_guias_cortezas4
+    100184: lineas_guias_cortezas5
+    100186: lineas_guias_cortezas6
+    100188: lineas_guias_cortezas7
+    100190: lineas_guias_cortezas8
+    100192: lineas_guias_cortezas9
+    400000: //RootNode
+    400002: cortezas1
+    400004: cortezas10
+    400006: cortezas11
+    400008: cortezas12
+    400010: cortezas13
+    400012: cortezas14
+    400014: cortezas15
+    400016: cortezas16
+    400018: cortezas17
+    400020: cortezas18
+    400022: cortezas19
+    400024: cortezas2
+    400026: cortezas20
+    400028: cortezas21
+    400030: cortezas22
+    400032: cortezas23
+    400034: cortezas24
+    400036: cortezas25
+    400038: cortezas26
+    400040: cortezas27
+    400042: cortezas28
+    400044: cortezas29
+    400046: cortezas3
+    400048: cortezas30
+    400050: cortezas31
+    400052: cortezas32
+    400054: cortezas4
+    400056: cortezas5
+    400058: cortezas6
+    400060: cortezas7
+    400062: cortezas8
+    400064: cortezas9
+    400066: cross1
+    400068: cross10
+    400070: cross11
+    400072: cross12
+    400074: cross13
+    400076: cross14
+    400078: cross15
+    400080: cross16
+    400082: cross17
+    400084: cross18
+    400086: cross19
+    400088: cross2
+    400090: cross20
+    400092: cross21
+    400094: cross22
+    400096: cross23
+    400098: cross24
+    400100: cross25
+    400102: cross26
+    400104: cross27
+    400106: cross28
+    400108: cross29
+    400110: cross3
+    400112: cross30
+    400114: cross31
+    400116: cross32
+    400118: cross4
+    400120: cross5
+    400122: cross6
+    400124: cross7
+    400126: cross8
+    400128: cross9
+    400130: lineas_guias_cortezas
+    400132: lineas_guias_cortezas1
+    400134: lineas_guias_cortezas10
+    400136: lineas_guias_cortezas11
+    400138: lineas_guias_cortezas12
+    400140: lineas_guias_cortezas13
+    400142: lineas_guias_cortezas14
+    400144: lineas_guias_cortezas15
+    400146: lineas_guias_cortezas16
+    400148: lineas_guias_cortezas17
+    400150: lineas_guias_cortezas18
+    400152: lineas_guias_cortezas19
+    400154: lineas_guias_cortezas2
+    400156: lineas_guias_cortezas20
+    400158: lineas_guias_cortezas21
+    400160: lineas_guias_cortezas22
+    400162: lineas_guias_cortezas23
+    400164: lineas_guias_cortezas24
+    400166: lineas_guias_cortezas25
+    400168: lineas_guias_cortezas26
+    400170: lineas_guias_cortezas27
+    400172: lineas_guias_cortezas28
+    400174: lineas_guias_cortezas29
+    400176: lineas_guias_cortezas3
+    400178: lineas_guias_cortezas30
+    400180: lineas_guias_cortezas31
+    400182: lineas_guias_cortezas4
+    400184: lineas_guias_cortezas5
+    400186: lineas_guias_cortezas6
+    400188: lineas_guias_cortezas7
+    400190: lineas_guias_cortezas8
+    400192: lineas_guias_cortezas9
+    2300000: cortezas1
+    2300002: cortezas10
+    2300004: cortezas11
+    2300006: cortezas12
+    2300008: cortezas13
+    2300010: cortezas14
+    2300012: cortezas15
+    2300014: cortezas16
+    2300016: cortezas17
+    2300018: cortezas18
+    2300020: cortezas19
+    2300022: cortezas2
+    2300024: cortezas20
+    2300026: cortezas21
+    2300028: cortezas22
+    2300030: cortezas23
+    2300032: cortezas24
+    2300034: cortezas25
+    2300036: cortezas26
+    2300038: cortezas27
+    2300040: cortezas28
+    2300042: cortezas29
+    2300044: cortezas3
+    2300046: cortezas30
+    2300048: cortezas31
+    2300050: cortezas32
+    2300052: cortezas4
+    2300054: cortezas5
+    2300056: cortezas6
+    2300058: cortezas7
+    2300060: cortezas8
+    2300062: cortezas9
+    2300064: cross1
+    2300066: cross10
+    2300068: cross11
+    2300070: cross12
+    2300072: cross13
+    2300074: cross14
+    2300076: cross15
+    2300078: cross16
+    2300080: cross17
+    2300082: cross18
+    2300084: cross19
+    2300086: cross2
+    2300088: cross20
+    2300090: cross21
+    2300092: cross22
+    2300094: cross23
+    2300096: cross24
+    2300098: cross25
+    2300100: cross26
+    2300102: cross27
+    2300104: cross28
+    2300106: cross29
+    2300108: cross3
+    2300110: cross30
+    2300112: cross31
+    2300114: cross32
+    2300116: cross4
+    2300118: cross5
+    2300120: cross6
+    2300122: cross7
+    2300124: cross8
+    2300126: cross9
+    2300128: lineas_guias_cortezas
+    2300130: lineas_guias_cortezas1
+    2300132: lineas_guias_cortezas10
+    2300134: lineas_guias_cortezas11
+    2300136: lineas_guias_cortezas12
+    2300138: lineas_guias_cortezas13
+    2300140: lineas_guias_cortezas14
+    2300142: lineas_guias_cortezas15
+    2300144: lineas_guias_cortezas16
+    2300146: lineas_guias_cortezas17
+    2300148: lineas_guias_cortezas18
+    2300150: lineas_guias_cortezas19
+    2300152: lineas_guias_cortezas2
+    2300154: lineas_guias_cortezas20
+    2300156: lineas_guias_cortezas21
+    2300158: lineas_guias_cortezas22
+    2300160: lineas_guias_cortezas23
+    2300162: lineas_guias_cortezas24
+    2300164: lineas_guias_cortezas25
+    2300166: lineas_guias_cortezas26
+    2300168: lineas_guias_cortezas27
+    2300170: lineas_guias_cortezas28
+    2300172: lineas_guias_cortezas29
+    2300174: lineas_guias_cortezas3
+    2300176: lineas_guias_cortezas30
+    2300178: lineas_guias_cortezas31
+    2300180: lineas_guias_cortezas4
+    2300182: lineas_guias_cortezas5
+    2300184: lineas_guias_cortezas6
+    2300186: lineas_guias_cortezas7
+    2300188: lineas_guias_cortezas8
+    2300190: lineas_guias_cortezas9
+    3300000: cortezas1
+    3300002: cortezas10
+    3300004: cortezas11
+    3300006: cortezas12
+    3300008: cortezas13
+    3300010: cortezas14
+    3300012: cortezas15
+    3300014: cortezas16
+    3300016: cortezas17
+    3300018: cortezas18
+    3300020: cortezas19
+    3300022: cortezas2
+    3300024: cortezas20
+    3300026: cortezas21
+    3300028: cortezas22
+    3300030: cortezas23
+    3300032: cortezas24
+    3300034: cortezas25
+    3300036: cortezas26
+    3300038: cortezas27
+    3300040: cortezas28
+    3300042: cortezas29
+    3300044: cortezas3
+    3300046: cortezas30
+    3300048: cortezas31
+    3300050: cortezas32
+    3300052: cortezas4
+    3300054: cortezas5
+    3300056: cortezas6
+    3300058: cortezas7
+    3300060: cortezas8
+    3300062: cortezas9
+    3300064: cross1
+    3300066: cross10
+    3300068: cross11
+    3300070: cross12
+    3300072: cross13
+    3300074: cross14
+    3300076: cross15
+    3300078: cross16
+    3300080: cross17
+    3300082: cross18
+    3300084: cross19
+    3300086: cross2
+    3300088: cross20
+    3300090: cross21
+    3300092: cross22
+    3300094: cross23
+    3300096: cross24
+    3300098: cross25
+    3300100: cross26
+    3300102: cross27
+    3300104: cross28
+    3300106: cross29
+    3300108: cross3
+    3300110: cross30
+    3300112: cross31
+    3300114: cross32
+    3300116: cross4
+    3300118: cross5
+    3300120: cross6
+    3300122: cross7
+    3300124: cross8
+    3300126: cross9
+    3300128: lineas_guias_cortezas
+    3300130: lineas_guias_cortezas1
+    3300132: lineas_guias_cortezas10
+    3300134: lineas_guias_cortezas11
+    3300136: lineas_guias_cortezas12
+    3300138: lineas_guias_cortezas13
+    3300140: lineas_guias_cortezas14
+    3300142: lineas_guias_cortezas15
+    3300144: lineas_guias_cortezas16
+    3300146: lineas_guias_cortezas17
+    3300148: lineas_guias_cortezas18
+    3300150: lineas_guias_cortezas19
+    3300152: lineas_guias_cortezas2
+    3300154: lineas_guias_cortezas20
+    3300156: lineas_guias_cortezas21
+    3300158: lineas_guias_cortezas22
+    3300160: lineas_guias_cortezas23
+    3300162: lineas_guias_cortezas24
+    3300164: lineas_guias_cortezas25
+    3300166: lineas_guias_cortezas26
+    3300168: lineas_guias_cortezas27
+    3300170: lineas_guias_cortezas28
+    3300172: lineas_guias_cortezas29
+    3300174: lineas_guias_cortezas3
+    3300176: lineas_guias_cortezas30
+    3300178: lineas_guias_cortezas31
+    3300180: lineas_guias_cortezas4
+    3300182: lineas_guias_cortezas5
+    3300184: lineas_guias_cortezas6
+    3300186: lineas_guias_cortezas7
+    3300188: lineas_guias_cortezas8
+    3300190: lineas_guias_cortezas9
+    4300000: cross32
+    4300002: cross31
+    4300004: cross30
+    4300006: cross29
+    4300008: cross28
+    4300010: cross27
+    4300012: cross26
+    4300014: cross25
+    4300016: cross24
+    4300018: cross23
+    4300020: cross22
+    4300022: cross21
+    4300024: cross20
+    4300026: cross19
+    4300028: cross18
+    4300030: cross17
+    4300032: cross16
+    4300034: cross15
+    4300036: cross14
+    4300038: cross13
+    4300040: cross12
+    4300042: cross11
+    4300044: cross10
+    4300046: cross9
+    4300048: cross8
+    4300050: cross7
+    4300052: cross6
+    4300054: cross5
+    4300056: cross4
+    4300058: cross3
+    4300060: cross2
+    4300062: cross1
+    4300064: cortezas32
+    4300066: cortezas31
+    4300068: cortezas30
+    4300070: cortezas29
+    4300072: cortezas28
+    4300074: cortezas27
+    4300076: cortezas26
+    4300078: cortezas25
+    4300080: cortezas24
+    4300082: cortezas23
+    4300084: cortezas22
+    4300086: cortezas21
+    4300088: cortezas20
+    4300090: cortezas19
+    4300092: cortezas18
+    4300094: cortezas17
+    4300096: cortezas16
+    4300098: cortezas15
+    4300100: cortezas14
+    4300102: cortezas13
+    4300104: cortezas12
+    4300106: cortezas11
+    4300108: cortezas10
+    4300110: cortezas9
+    4300112: cortezas8
+    4300114: cortezas7
+    4300116: cortezas6
+    4300118: cortezas5
+    4300120: cortezas4
+    4300122: cortezas3
+    4300124: cortezas2
+    4300126: cortezas1
+    4300128: lineas_guias_cortezas
+    4300130: lineas_guias_cortezas1
+    4300132: lineas_guias_cortezas2
+    4300134: lineas_guias_cortezas3
+    4300136: lineas_guias_cortezas4
+    4300138: lineas_guias_cortezas5
+    4300140: lineas_guias_cortezas6
+    4300142: lineas_guias_cortezas7
+    4300144: lineas_guias_cortezas8
+    4300146: lineas_guias_cortezas9
+    4300148: lineas_guias_cortezas10
+    4300150: lineas_guias_cortezas11
+    4300152: lineas_guias_cortezas12
+    4300154: lineas_guias_cortezas13
+    4300156: lineas_guias_cortezas14
+    4300158: lineas_guias_cortezas15
+    4300160: lineas_guias_cortezas16
+    4300162: lineas_guias_cortezas17
+    4300164: lineas_guias_cortezas18
+    4300166: lineas_guias_cortezas19
+    4300168: lineas_guias_cortezas20
+    4300170: lineas_guias_cortezas21
+    4300172: lineas_guias_cortezas22
+    4300174: lineas_guias_cortezas23
+    4300176: lineas_guias_cortezas24
+    4300178: lineas_guias_cortezas25
+    4300180: lineas_guias_cortezas26
+    4300182: lineas_guias_cortezas27
+    4300184: lineas_guias_cortezas28
+    4300186: lineas_guias_cortezas29
+    4300188: lineas_guias_cortezas30
+    4300190: lineas_guias_cortezas31
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 465
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cortezas1
+        weight: 1
+      - path: cortezas2
+        weight: 1
+      - path: cortezas3
+        weight: 1
+      - path: cortezas4
+        weight: 1
+      - path: cortezas5
+        weight: 1
+      - path: cortezas6
+        weight: 1
+      - path: cortezas7
+        weight: 1
+      - path: cortezas8
+        weight: 1
+      - path: cortezas9
+        weight: 1
+      - path: cortezas10
+        weight: 1
+      - path: cortezas11
+        weight: 1
+      - path: cortezas12
+        weight: 1
+      - path: cortezas13
+        weight: 1
+      - path: cortezas14
+        weight: 1
+      - path: cortezas15
+        weight: 1
+      - path: cortezas16
+        weight: 1
+      - path: cortezas17
+        weight: 1
+      - path: cortezas18
+        weight: 1
+      - path: cortezas19
+        weight: 1
+      - path: cortezas20
+        weight: 1
+      - path: cortezas21
+        weight: 1
+      - path: cortezas22
+        weight: 1
+      - path: cortezas23
+        weight: 1
+      - path: cortezas24
+        weight: 1
+      - path: cortezas25
+        weight: 1
+      - path: cortezas26
+        weight: 1
+      - path: cortezas27
+        weight: 1
+      - path: cortezas28
+        weight: 1
+      - path: cortezas29
+        weight: 1
+      - path: cortezas30
+        weight: 1
+      - path: cortezas31
+        weight: 1
+      - path: cortezas32
+        weight: 1
+      - path: cross1
+        weight: 1
+      - path: cross2
+        weight: 1
+      - path: cross3
+        weight: 1
+      - path: cross4
+        weight: 1
+      - path: cross5
+        weight: 1
+      - path: cross6
+        weight: 1
+      - path: cross7
+        weight: 1
+      - path: cross8
+        weight: 1
+      - path: cross9
+        weight: 1
+      - path: cross10
+        weight: 1
+      - path: cross11
+        weight: 1
+      - path: cross12
+        weight: 1
+      - path: cross13
+        weight: 1
+      - path: cross14
+        weight: 1
+      - path: cross15
+        weight: 1
+      - path: cross16
+        weight: 1
+      - path: cross17
+        weight: 1
+      - path: cross18
+        weight: 1
+      - path: cross19
+        weight: 1
+      - path: cross20
+        weight: 1
+      - path: cross21
+        weight: 1
+      - path: cross22
+        weight: 1
+      - path: cross23
+        weight: 1
+      - path: cross24
+        weight: 1
+      - path: cross25
+        weight: 1
+      - path: cross26
+        weight: 1
+      - path: cross27
+        weight: 1
+      - path: cross28
+        weight: 1
+      - path: cross29
+        weight: 1
+      - path: cross30
+        weight: 1
+      - path: cross31
+        weight: 1
+      - path: cross32
+        weight: 1
+      - path: lineas_guias_cortezas
+        weight: 1
+      - path: lineas_guias_cortezas1
+        weight: 1
+      - path: lineas_guias_cortezas2
+        weight: 1
+      - path: lineas_guias_cortezas3
+        weight: 1
+      - path: lineas_guias_cortezas4
+        weight: 1
+      - path: lineas_guias_cortezas5
+        weight: 1
+      - path: lineas_guias_cortezas6
+        weight: 1
+      - path: lineas_guias_cortezas7
+        weight: 1
+      - path: lineas_guias_cortezas8
+        weight: 1
+      - path: lineas_guias_cortezas9
+        weight: 1
+      - path: lineas_guias_cortezas10
+        weight: 1
+      - path: lineas_guias_cortezas11
+        weight: 1
+      - path: lineas_guias_cortezas12
+        weight: 1
+      - path: lineas_guias_cortezas13
+        weight: 1
+      - path: lineas_guias_cortezas14
+        weight: 1
+      - path: lineas_guias_cortezas15
+        weight: 1
+      - path: lineas_guias_cortezas16
+        weight: 1
+      - path: lineas_guias_cortezas17
+        weight: 1
+      - path: lineas_guias_cortezas18
+        weight: 1
+      - path: lineas_guias_cortezas19
+        weight: 1
+      - path: lineas_guias_cortezas20
+        weight: 1
+      - path: lineas_guias_cortezas21
+        weight: 1
+      - path: lineas_guias_cortezas22
+        weight: 1
+      - path: lineas_guias_cortezas23
+        weight: 1
+      - path: lineas_guias_cortezas24
+        weight: 1
+      - path: lineas_guias_cortezas25
+        weight: 1
+      - path: lineas_guias_cortezas26
+        weight: 1
+      - path: lineas_guias_cortezas27
+        weight: 1
+      - path: lineas_guias_cortezas28
+        weight: 1
+      - path: lineas_guias_cortezas29
+        weight: 1
+      - path: lineas_guias_cortezas30
+        weight: 1
+      - path: lineas_guias_cortezas31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
