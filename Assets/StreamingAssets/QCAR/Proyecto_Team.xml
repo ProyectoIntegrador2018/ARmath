@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="cuchilla_inv" size="550.000000 550.000000" />
-    <ImageTarget name="parabola_inv" size="550.000000 550.000000" />
-    <ImageTarget name="parabola" size="367.000000 367.000000" />
-    <ImageTarget name="cuchilla" size="550.000000 550.000000" />
-  </Tracking>
-</QCARConfig>
