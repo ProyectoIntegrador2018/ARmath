@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 8f25ba74b63fc954f9e098ff9acf93f2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: y_raiz_x_demo:gajo1
+    100004: y_raiz_x_demo:gajo10
+    100006: y_raiz_x_demo:gajo11
+    100008: y_raiz_x_demo:gajo12
+    100010: y_raiz_x_demo:gajo13
+    100012: y_raiz_x_demo:gajo14
+    100014: y_raiz_x_demo:gajo15
+    100016: y_raiz_x_demo:gajo16
+    100018: y_raiz_x_demo:gajo17
+    100020: y_raiz_x_demo:gajo18
+    100022: y_raiz_x_demo:gajo19
+    100024: y_raiz_x_demo:gajo2
+    100026: y_raiz_x_demo:gajo20
+    100028: y_raiz_x_demo:gajo21
+    100030: y_raiz_x_demo:gajo22
+    100032: y_raiz_x_demo:gajo23
+    100034: y_raiz_x_demo:gajo24
+    100036: y_raiz_x_demo:gajo25
+    100038: y_raiz_x_demo:gajo26
+    100040: y_raiz_x_demo:gajo27
+    100042: y_raiz_x_demo:gajo28
+    100044: y_raiz_x_demo:gajo29
+    100046: y_raiz_x_demo:gajo3
+    100048: y_raiz_x_demo:gajo30
+    100050: y_raiz_x_demo:gajo31
+    100052: y_raiz_x_demo:gajo32
+    100054: y_raiz_x_demo:gajo4
+    100056: y_raiz_x_demo:gajo5
+    100058: y_raiz_x_demo:gajo6
+    100060: y_raiz_x_demo:gajo7
+    100062: y_raiz_x_demo:gajo8
+    100064: y_raiz_x_demo:gajo9
+    400000: //RootNode
+    400002: y_raiz_x_demo:gajo1
+    400004: y_raiz_x_demo:gajo10
+    400006: y_raiz_x_demo:gajo11
+    400008: y_raiz_x_demo:gajo12
+    400010: y_raiz_x_demo:gajo13
+    400012: y_raiz_x_demo:gajo14
+    400014: y_raiz_x_demo:gajo15
+    400016: y_raiz_x_demo:gajo16
+    400018: y_raiz_x_demo:gajo17
+    400020: y_raiz_x_demo:gajo18
+    400022: y_raiz_x_demo:gajo19
+    400024: y_raiz_x_demo:gajo2
+    400026: y_raiz_x_demo:gajo20
+    400028: y_raiz_x_demo:gajo21
+    400030: y_raiz_x_demo:gajo22
+    400032: y_raiz_x_demo:gajo23
+    400034: y_raiz_x_demo:gajo24
+    400036: y_raiz_x_demo:gajo25
+    400038: y_raiz_x_demo:gajo26
+    400040: y_raiz_x_demo:gajo27
+    400042: y_raiz_x_demo:gajo28
+    400044: y_raiz_x_demo:gajo29
+    400046: y_raiz_x_demo:gajo3
+    400048: y_raiz_x_demo:gajo30
+    400050: y_raiz_x_demo:gajo31
+    400052: y_raiz_x_demo:gajo32
+    400054: y_raiz_x_demo:gajo4
+    400056: y_raiz_x_demo:gajo5
+    400058: y_raiz_x_demo:gajo6
+    400060: y_raiz_x_demo:gajo7
+    400062: y_raiz_x_demo:gajo8
+    400064: y_raiz_x_demo:gajo9
+    2300000: y_raiz_x_demo:gajo1
+    2300002: y_raiz_x_demo:gajo10
+    2300004: y_raiz_x_demo:gajo11
+    2300006: y_raiz_x_demo:gajo12
+    2300008: y_raiz_x_demo:gajo13
+    2300010: y_raiz_x_demo:gajo14
+    2300012: y_raiz_x_demo:gajo15
+    2300014: y_raiz_x_demo:gajo16
+    2300016: y_raiz_x_demo:gajo17
+    2300018: y_raiz_x_demo:gajo18
+    2300020: y_raiz_x_demo:gajo19
+    2300022: y_raiz_x_demo:gajo2
+    2300024: y_raiz_x_demo:gajo20
+    2300026: y_raiz_x_demo:gajo21
+    2300028: y_raiz_x_demo:gajo22
+    2300030: y_raiz_x_demo:gajo23
+    2300032: y_raiz_x_demo:gajo24
+    2300034: y_raiz_x_demo:gajo25
+    2300036: y_raiz_x_demo:gajo26
+    2300038: y_raiz_x_demo:gajo27
+    2300040: y_raiz_x_demo:gajo28
+    2300042: y_raiz_x_demo:gajo29
+    2300044: y_raiz_x_demo:gajo3
+    2300046: y_raiz_x_demo:gajo30
+    2300048: y_raiz_x_demo:gajo31
+    2300050: y_raiz_x_demo:gajo32
+    2300052: y_raiz_x_demo:gajo4
+    2300054: y_raiz_x_demo:gajo5
+    2300056: y_raiz_x_demo:gajo6
+    2300058: y_raiz_x_demo:gajo7
+    2300060: y_raiz_x_demo:gajo8
+    2300062: y_raiz_x_demo:gajo9
+    3300000: y_raiz_x_demo:gajo1
+    3300002: y_raiz_x_demo:gajo10
+    3300004: y_raiz_x_demo:gajo11
+    3300006: y_raiz_x_demo:gajo12
+    3300008: y_raiz_x_demo:gajo13
+    3300010: y_raiz_x_demo:gajo14
+    3300012: y_raiz_x_demo:gajo15
+    3300014: y_raiz_x_demo:gajo16
+    3300016: y_raiz_x_demo:gajo17
+    3300018: y_raiz_x_demo:gajo18
+    3300020: y_raiz_x_demo:gajo19
+    3300022: y_raiz_x_demo:gajo2
+    3300024: y_raiz_x_demo:gajo20
+    3300026: y_raiz_x_demo:gajo21
+    3300028: y_raiz_x_demo:gajo22
+    3300030: y_raiz_x_demo:gajo23
+    3300032: y_raiz_x_demo:gajo24
+    3300034: y_raiz_x_demo:gajo25
+    3300036: y_raiz_x_demo:gajo26
+    3300038: y_raiz_x_demo:gajo27
+    3300040: y_raiz_x_demo:gajo28
+    3300042: y_raiz_x_demo:gajo29
+    3300044: y_raiz_x_demo:gajo3
+    3300046: y_raiz_x_demo:gajo30
+    3300048: y_raiz_x_demo:gajo31
+    3300050: y_raiz_x_demo:gajo32
+    3300052: y_raiz_x_demo:gajo4
+    3300054: y_raiz_x_demo:gajo5
+    3300056: y_raiz_x_demo:gajo6
+    3300058: y_raiz_x_demo:gajo7
+    3300060: y_raiz_x_demo:gajo8
+    3300062: y_raiz_x_demo:gajo9
+    4300000: y_raiz_x_demo:gajo1
+    4300002: y_raiz_x_demo:gajo2
+    4300004: y_raiz_x_demo:gajo3
+    4300006: y_raiz_x_demo:gajo4
+    4300008: y_raiz_x_demo:gajo5
+    4300010: y_raiz_x_demo:gajo6
+    4300012: y_raiz_x_demo:gajo7
+    4300014: y_raiz_x_demo:gajo8
+    4300016: y_raiz_x_demo:gajo9
+    4300018: y_raiz_x_demo:gajo10
+    4300020: y_raiz_x_demo:gajo11
+    4300022: y_raiz_x_demo:gajo12
+    4300024: y_raiz_x_demo:gajo13
+    4300026: y_raiz_x_demo:gajo14
+    4300028: y_raiz_x_demo:gajo15
+    4300030: y_raiz_x_demo:gajo30
+    4300032: y_raiz_x_demo:gajo29
+    4300034: y_raiz_x_demo:gajo28
+    4300036: y_raiz_x_demo:gajo27
+    4300038: y_raiz_x_demo:gajo26
+    4300040: y_raiz_x_demo:gajo25
+    4300042: y_raiz_x_demo:gajo24
+    4300044: y_raiz_x_demo:gajo23
+    4300046: y_raiz_x_demo:gajo22
+    4300048: y_raiz_x_demo:gajo21
+    4300050: y_raiz_x_demo:gajo20
+    4300052: y_raiz_x_demo:gajo19
+    4300054: y_raiz_x_demo:gajo18
+    4300056: y_raiz_x_demo:gajo17
+    4300058: y_raiz_x_demo:gajo16
+    4300060: y_raiz_x_demo:gajo31
+    4300062: y_raiz_x_demo:gajo32
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: y_raiz_x_demo:gajo1
+        weight: 1
+      - path: y_raiz_x_demo:gajo2
+        weight: 1
+      - path: y_raiz_x_demo:gajo3
+        weight: 1
+      - path: y_raiz_x_demo:gajo4
+        weight: 1
+      - path: y_raiz_x_demo:gajo5
+        weight: 1
+      - path: y_raiz_x_demo:gajo6
+        weight: 1
+      - path: y_raiz_x_demo:gajo7
+        weight: 1
+      - path: y_raiz_x_demo:gajo8
+        weight: 1
+      - path: y_raiz_x_demo:gajo9
+        weight: 1
+      - path: y_raiz_x_demo:gajo10
+        weight: 1
+      - path: y_raiz_x_demo:gajo11
+        weight: 1
+      - path: y_raiz_x_demo:gajo12
+        weight: 1
+      - path: y_raiz_x_demo:gajo13
+        weight: 1
+      - path: y_raiz_x_demo:gajo14
+        weight: 1
+      - path: y_raiz_x_demo:gajo15
+        weight: 1
+      - path: y_raiz_x_demo:gajo16
+        weight: 1
+      - path: y_raiz_x_demo:gajo17
+        weight: 1
+      - path: y_raiz_x_demo:gajo18
+        weight: 1
+      - path: y_raiz_x_demo:gajo19
+        weight: 1
+      - path: y_raiz_x_demo:gajo20
+        weight: 1
+      - path: y_raiz_x_demo:gajo21
+        weight: 1
+      - path: y_raiz_x_demo:gajo22
+        weight: 1
+      - path: y_raiz_x_demo:gajo23
+        weight: 1
+      - path: y_raiz_x_demo:gajo24
+        weight: 1
+      - path: y_raiz_x_demo:gajo25
+        weight: 1
+      - path: y_raiz_x_demo:gajo26
+        weight: 1
+      - path: y_raiz_x_demo:gajo27
+        weight: 1
+      - path: y_raiz_x_demo:gajo28
+        weight: 1
+      - path: y_raiz_x_demo:gajo29
+        weight: 1
+      - path: y_raiz_x_demo:gajo30
+        weight: 1
+      - path: y_raiz_x_demo:gajo31
+        weight: 1
+      - path: y_raiz_x_demo:gajo32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

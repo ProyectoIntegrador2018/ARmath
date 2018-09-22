@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 4752d8d3bd757654cbc8e4181f04a397
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: disc1
+    100002: disc10
+    100004: disc11
+    100006: disc12
+    100008: disc13
+    100010: disc14
+    100012: disc15
+    100014: disc16
+    100016: disc17
+    100018: disc18
+    100020: disc19
+    100022: disc2
+    100024: disc20
+    100026: disc21
+    100028: disc22
+    100030: disc23
+    100032: disc24
+    100034: disc25
+    100036: disc26
+    100038: disc27
+    100040: disc28
+    100042: disc29
+    100044: disc3
+    100046: disc30
+    100048: disc31
+    100050: disc32
+    100052: disc4
+    100054: disc5
+    100056: disc6
+    100058: disc7
+    100060: disc8
+    100062: disc9
+    100064: disco1
+    100066: disco10
+    100068: disco11
+    100070: disco12
+    100072: disco13
+    100074: disco14
+    100076: disco15
+    100078: disco16
+    100080: disco17
+    100082: disco18
+    100084: disco19
+    100086: disco2
+    100088: disco20
+    100090: disco21
+    100092: disco22
+    100094: disco23
+    100096: disco24
+    100098: disco25
+    100100: disco26
+    100102: disco27
+    100104: disco28
+    100106: disco29
+    100108: disco3
+    100110: disco30
+    100112: disco31
+    100114: disco32
+    100116: disco4
+    100118: disco5
+    100120: disco6
+    100122: disco7
+    100124: disco8
+    100126: disco9
+    100128: //RootNode
+    100130: disk1
+    100132: disk10
+    100134: disk11
+    100136: disk12
+    100138: disk13
+    100140: disk14
+    100142: disk15
+    100144: disk16
+    100146: disk17
+    100148: disk18
+    100150: disk19
+    100152: disk2
+    100154: disk20
+    100156: disk21
+    100158: disk22
+    100160: disk23
+    100162: disk24
+    100164: disk25
+    100166: disk26
+    100168: disk27
+    100170: disk28
+    100172: disk29
+    100174: disk3
+    100176: disk30
+    100178: disk31
+    100180: disk32
+    100182: disk4
+    100184: disk5
+    100186: disk6
+    100188: disk7
+    100190: disk8
+    100192: disk9
+    400000: disc1
+    400002: disc10
+    400004: disc11
+    400006: disc12
+    400008: disc13
+    400010: disc14
+    400012: disc15
+    400014: disc16
+    400016: disc17
+    400018: disc18
+    400020: disc19
+    400022: disc2
+    400024: disc20
+    400026: disc21
+    400028: disc22
+    400030: disc23
+    400032: disc24
+    400034: disc25
+    400036: disc26
+    400038: disc27
+    400040: disc28
+    400042: disc29
+    400044: disc3
+    400046: disc30
+    400048: disc31
+    400050: disc32
+    400052: disc4
+    400054: disc5
+    400056: disc6
+    400058: disc7
+    400060: disc8
+    400062: disc9
+    400064: disco1
+    400066: disco10
+    400068: disco11
+    400070: disco12
+    400072: disco13
+    400074: disco14
+    400076: disco15
+    400078: disco16
+    400080: disco17
+    400082: disco18
+    400084: disco19
+    400086: disco2
+    400088: disco20
+    400090: disco21
+    400092: disco22
+    400094: disco23
+    400096: disco24
+    400098: disco25
+    400100: disco26
+    400102: disco27
+    400104: disco28
+    400106: disco29
+    400108: disco3
+    400110: disco30
+    400112: disco31
+    400114: disco32
+    400116: disco4
+    400118: disco5
+    400120: disco6
+    400122: disco7
+    400124: disco8
+    400126: disco9
+    400128: //RootNode
+    400130: disk1
+    400132: disk10
+    400134: disk11
+    400136: disk12
+    400138: disk13
+    400140: disk14
+    400142: disk15
+    400144: disk16
+    400146: disk17
+    400148: disk18
+    400150: disk19
+    400152: disk2
+    400154: disk20
+    400156: disk21
+    400158: disk22
+    400160: disk23
+    400162: disk24
+    400164: disk25
+    400166: disk26
+    400168: disk27
+    400170: disk28
+    400172: disk29
+    400174: disk3
+    400176: disk30
+    400178: disk31
+    400180: disk32
+    400182: disk4
+    400184: disk5
+    400186: disk6
+    400188: disk7
+    400190: disk8
+    400192: disk9
+    2300000: disc1
+    2300002: disc10
+    2300004: disc11
+    2300006: disc12
+    2300008: disc13
+    2300010: disc14
+    2300012: disc15
+    2300014: disc16
+    2300016: disc17
+    2300018: disc18
+    2300020: disc19
+    2300022: disc2
+    2300024: disc20
+    2300026: disc21
+    2300028: disc22
+    2300030: disc23
+    2300032: disc24
+    2300034: disc25
+    2300036: disc26
+    2300038: disc27
+    2300040: disc28
+    2300042: disc29
+    2300044: disc3
+    2300046: disc30
+    2300048: disc31
+    2300050: disc32
+    2300052: disc4
+    2300054: disc5
+    2300056: disc6
+    2300058: disc7
+    2300060: disc8
+    2300062: disc9
+    2300064: disco1
+    2300066: disco10
+    2300068: disco11
+    2300070: disco12
+    2300072: disco13
+    2300074: disco14
+    2300076: disco15
+    2300078: disco16
+    2300080: disco17
+    2300082: disco18
+    2300084: disco19
+    2300086: disco2
+    2300088: disco20
+    2300090: disco21
+    2300092: disco22
+    2300094: disco23
+    2300096: disco24
+    2300098: disco25
+    2300100: disco26
+    2300102: disco27
+    2300104: disco28
+    2300106: disco29
+    2300108: disco3
+    2300110: disco30
+    2300112: disco31
+    2300114: disco32
+    2300116: disco4
+    2300118: disco5
+    2300120: disco6
+    2300122: disco7
+    2300124: disco8
+    2300126: disco9
+    2300128: disk1
+    2300130: disk10
+    2300132: disk11
+    2300134: disk12
+    2300136: disk13
+    2300138: disk14
+    2300140: disk15
+    2300142: disk16
+    2300144: disk17
+    2300146: disk18
+    2300148: disk19
+    2300150: disk2
+    2300152: disk20
+    2300154: disk21
+    2300156: disk22
+    2300158: disk23
+    2300160: disk24
+    2300162: disk25
+    2300164: disk26
+    2300166: disk27
+    2300168: disk28
+    2300170: disk29
+    2300172: disk3
+    2300174: disk30
+    2300176: disk31
+    2300178: disk32
+    2300180: disk4
+    2300182: disk5
+    2300184: disk6
+    2300186: disk7
+    2300188: disk8
+    2300190: disk9
+    3300000: disc1
+    3300002: disc10
+    3300004: disc11
+    3300006: disc12
+    3300008: disc13
+    3300010: disc14
+    3300012: disc15
+    3300014: disc16
+    3300016: disc17
+    3300018: disc18
+    3300020: disc19
+    3300022: disc2
+    3300024: disc20
+    3300026: disc21
+    3300028: disc22
+    3300030: disc23
+    3300032: disc24
+    3300034: disc25
+    3300036: disc26
+    3300038: disc27
+    3300040: disc28
+    3300042: disc29
+    3300044: disc3
+    3300046: disc30
+    3300048: disc31
+    3300050: disc32
+    3300052: disc4
+    3300054: disc5
+    3300056: disc6
+    3300058: disc7
+    3300060: disc8
+    3300062: disc9
+    3300064: disco1
+    3300066: disco10
+    3300068: disco11
+    3300070: disco12
+    3300072: disco13
+    3300074: disco14
+    3300076: disco15
+    3300078: disco16
+    3300080: disco17
+    3300082: disco18
+    3300084: disco19
+    3300086: disco2
+    3300088: disco20
+    3300090: disco21
+    3300092: disco22
+    3300094: disco23
+    3300096: disco24
+    3300098: disco25
+    3300100: disco26
+    3300102: disco27
+    3300104: disco28
+    3300106: disco29
+    3300108: disco3
+    3300110: disco30
+    3300112: disco31
+    3300114: disco32
+    3300116: disco4
+    3300118: disco5
+    3300120: disco6
+    3300122: disco7
+    3300124: disco8
+    3300126: disco9
+    3300128: disk1
+    3300130: disk10
+    3300132: disk11
+    3300134: disk12
+    3300136: disk13
+    3300138: disk14
+    3300140: disk15
+    3300142: disk16
+    3300144: disk17
+    3300146: disk18
+    3300148: disk19
+    3300150: disk2
+    3300152: disk20
+    3300154: disk21
+    3300156: disk22
+    3300158: disk23
+    3300160: disk24
+    3300162: disk25
+    3300164: disk26
+    3300166: disk27
+    3300168: disk28
+    3300170: disk29
+    3300172: disk3
+    3300174: disk30
+    3300176: disk31
+    3300178: disk32
+    3300180: disk4
+    3300182: disk5
+    3300184: disk6
+    3300186: disk7
+    3300188: disk8
+    3300190: disk9
+    4300000: disco32
+    4300002: disco31
+    4300004: disco30
+    4300006: disco29
+    4300008: disco28
+    4300010: disco27
+    4300012: disco26
+    4300014: disco25
+    4300016: disco24
+    4300018: disco23
+    4300020: disco22
+    4300022: disco21
+    4300024: disco20
+    4300026: disco19
+    4300028: disco18
+    4300030: disco17
+    4300032: disco16
+    4300034: disco15
+    4300036: disco14
+    4300038: disco13
+    4300040: disco12
+    4300042: disco11
+    4300044: disco10
+    4300046: disco9
+    4300048: disco8
+    4300050: disco7
+    4300052: disco6
+    4300054: disco5
+    4300056: disco4
+    4300058: disco3
+    4300060: disco2
+    4300062: disco1
+    4300064: disc32
+    4300066: disc31
+    4300068: disc30
+    4300070: disc29
+    4300072: disc28
+    4300074: disc27
+    4300076: disc26
+    4300078: disc25
+    4300080: disc24
+    4300082: disc23
+    4300084: disc22
+    4300086: disc21
+    4300088: disc20
+    4300090: disc19
+    4300092: disc18
+    4300094: disc17
+    4300096: disc16
+    4300098: disc15
+    4300100: disc14
+    4300102: disc13
+    4300104: disc12
+    4300106: disc11
+    4300108: disc10
+    4300110: disc9
+    4300112: disc8
+    4300114: disc7
+    4300116: disc6
+    4300118: disc5
+    4300120: disc4
+    4300122: disc3
+    4300124: disc2
+    4300126: disc1
+    4300128: disk32
+    4300130: disk31
+    4300132: disk30
+    4300134: disk29
+    4300136: disk28
+    4300138: disk27
+    4300140: disk26
+    4300142: disk25
+    4300144: disk24
+    4300146: disk23
+    4300148: disk22
+    4300150: disk21
+    4300152: disk20
+    4300154: disk19
+    4300156: disk18
+    4300158: disk17
+    4300160: disk16
+    4300162: disk15
+    4300164: disk14
+    4300166: disk13
+    4300168: disk12
+    4300170: disk11
+    4300172: disk10
+    4300174: disk9
+    4300176: disk8
+    4300178: disk7
+    4300180: disk6
+    4300182: disk5
+    4300184: disk4
+    4300186: disk3
+    4300188: disk2
+    4300190: disk1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 311
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: disc1
+        weight: 1
+      - path: disc2
+        weight: 1
+      - path: disc3
+        weight: 1
+      - path: disc4
+        weight: 1
+      - path: disc5
+        weight: 1
+      - path: disc6
+        weight: 1
+      - path: disc7
+        weight: 1
+      - path: disc8
+        weight: 1
+      - path: disc9
+        weight: 1
+      - path: disc10
+        weight: 1
+      - path: disc11
+        weight: 1
+      - path: disc12
+        weight: 1
+      - path: disc13
+        weight: 1
+      - path: disc14
+        weight: 1
+      - path: disc15
+        weight: 1
+      - path: disc16
+        weight: 1
+      - path: disc17
+        weight: 1
+      - path: disc18
+        weight: 1
+      - path: disc19
+        weight: 1
+      - path: disc20
+        weight: 1
+      - path: disc21
+        weight: 1
+      - path: disc22
+        weight: 1
+      - path: disc23
+        weight: 1
+      - path: disc24
+        weight: 1
+      - path: disc25
+        weight: 1
+      - path: disc26
+        weight: 1
+      - path: disc27
+        weight: 1
+      - path: disc28
+        weight: 1
+      - path: disc29
+        weight: 1
+      - path: disc30
+        weight: 1
+      - path: disc31
+        weight: 1
+      - path: disc32
+        weight: 1
+      - path: disco1
+        weight: 1
+      - path: disco2
+        weight: 1
+      - path: disco3
+        weight: 1
+      - path: disco4
+        weight: 1
+      - path: disco5
+        weight: 1
+      - path: disco6
+        weight: 1
+      - path: disco7
+        weight: 1
+      - path: disco8
+        weight: 1
+      - path: disco9
+        weight: 1
+      - path: disco10
+        weight: 1
+      - path: disco11
+        weight: 1
+      - path: disco12
+        weight: 1
+      - path: disco13
+        weight: 1
+      - path: disco14
+        weight: 1
+      - path: disco15
+        weight: 1
+      - path: disco16
+        weight: 1
+      - path: disco17
+        weight: 1
+      - path: disco18
+        weight: 1
+      - path: disco19
+        weight: 1
+      - path: disco20
+        weight: 1
+      - path: disco21
+        weight: 1
+      - path: disco22
+        weight: 1
+      - path: disco23
+        weight: 1
+      - path: disco24
+        weight: 1
+      - path: disco25
+        weight: 1
+      - path: disco26
+        weight: 1
+      - path: disco27
+        weight: 1
+      - path: disco28
+        weight: 1
+      - path: disco29
+        weight: 1
+      - path: disco30
+        weight: 1
+      - path: disco31
+        weight: 1
+      - path: disco32
+        weight: 1
+      - path: disk1
+        weight: 1
+      - path: disk2
+        weight: 1
+      - path: disk3
+        weight: 1
+      - path: disk4
+        weight: 1
+      - path: disk5
+        weight: 1
+      - path: disk6
+        weight: 1
+      - path: disk7
+        weight: 1
+      - path: disk8
+        weight: 1
+      - path: disk9
+        weight: 1
+      - path: disk10
+        weight: 1
+      - path: disk11
+        weight: 1
+      - path: disk12
+        weight: 1
+      - path: disk13
+        weight: 1
+      - path: disk14
+        weight: 1
+      - path: disk15
+        weight: 1
+      - path: disk16
+        weight: 1
+      - path: disk17
+        weight: 1
+      - path: disk18
+        weight: 1
+      - path: disk19
+        weight: 1
+      - path: disk20
+        weight: 1
+      - path: disk21
+        weight: 1
+      - path: disk22
+        weight: 1
+      - path: disk23
+        weight: 1
+      - path: disk24
+        weight: 1
+      - path: disk25
+        weight: 1
+      - path: disk26
+        weight: 1
+      - path: disk27
+        weight: 1
+      - path: disk28
+        weight: 1
+      - path: disk29
+        weight: 1
+      - path: disk30
+        weight: 1
+      - path: disk31
+        weight: 1
+      - path: disk32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

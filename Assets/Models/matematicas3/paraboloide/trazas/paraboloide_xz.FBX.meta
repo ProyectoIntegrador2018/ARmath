@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: bc0ce5d60a8711f4caa414f5468fdbdb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cuchilla1
+    100002: cuchilla10
+    100004: cuchilla11
+    100006: cuchilla2
+    100008: cuchilla3
+    100010: cuchilla4
+    100012: cuchilla5
+    100014: cuchilla6
+    100016: cuchilla7
+    100018: cuchilla8
+    100020: cuchilla9
+    100022: curva1
+    100024: curva10
+    100026: curva11
+    100028: curva2
+    100030: curva3
+    100032: curva4
+    100034: curva5
+    100036: curva6
+    100038: curva7
+    100040: curva8
+    100042: curva9
+    100044: //RootNode
+    100046: superficie1
+    100048: superficie10
+    100050: superficie11
+    100052: superficie2
+    100054: superficie3
+    100056: superficie4
+    100058: superficie5
+    100060: superficie6
+    100062: superficie7
+    100064: superficie8
+    100066: superficie9
+    100068: superficie_principal
+    400000: cuchilla1
+    400002: cuchilla10
+    400004: cuchilla11
+    400006: cuchilla2
+    400008: cuchilla3
+    400010: cuchilla4
+    400012: cuchilla5
+    400014: cuchilla6
+    400016: cuchilla7
+    400018: cuchilla8
+    400020: cuchilla9
+    400022: curva1
+    400024: curva10
+    400026: curva11
+    400028: curva2
+    400030: curva3
+    400032: curva4
+    400034: curva5
+    400036: curva6
+    400038: curva7
+    400040: curva8
+    400042: curva9
+    400044: //RootNode
+    400046: superficie1
+    400048: superficie10
+    400050: superficie11
+    400052: superficie2
+    400054: superficie3
+    400056: superficie4
+    400058: superficie5
+    400060: superficie6
+    400062: superficie7
+    400064: superficie8
+    400066: superficie9
+    400068: superficie_principal
+    2300000: cuchilla1
+    2300002: cuchilla10
+    2300004: cuchilla11
+    2300006: cuchilla2
+    2300008: cuchilla3
+    2300010: cuchilla4
+    2300012: cuchilla5
+    2300014: cuchilla6
+    2300016: cuchilla7
+    2300018: cuchilla8
+    2300020: cuchilla9
+    2300022: curva1
+    2300024: curva10
+    2300026: curva11
+    2300028: curva2
+    2300030: curva3
+    2300032: curva4
+    2300034: curva5
+    2300036: curva6
+    2300038: curva7
+    2300040: curva8
+    2300042: curva9
+    2300044: superficie1
+    2300046: superficie10
+    2300048: superficie11
+    2300050: superficie2
+    2300052: superficie3
+    2300054: superficie4
+    2300056: superficie5
+    2300058: superficie6
+    2300060: superficie7
+    2300062: superficie8
+    2300064: superficie9
+    2300066: superficie_principal
+    3300000: cuchilla1
+    3300002: cuchilla10
+    3300004: cuchilla11
+    3300006: cuchilla2
+    3300008: cuchilla3
+    3300010: cuchilla4
+    3300012: cuchilla5
+    3300014: cuchilla6
+    3300016: cuchilla7
+    3300018: cuchilla8
+    3300020: cuchilla9
+    3300022: curva1
+    3300024: curva10
+    3300026: curva11
+    3300028: curva2
+    3300030: curva3
+    3300032: curva4
+    3300034: curva5
+    3300036: curva6
+    3300038: curva7
+    3300040: curva8
+    3300042: curva9
+    3300044: superficie1
+    3300046: superficie10
+    3300048: superficie11
+    3300050: superficie2
+    3300052: superficie3
+    3300054: superficie4
+    3300056: superficie5
+    3300058: superficie6
+    3300060: superficie7
+    3300062: superficie8
+    3300064: superficie9
+    3300066: superficie_principal
+    4300000: cuchilla1
+    4300002: cuchilla2
+    4300004: cuchilla3
+    4300006: cuchilla4
+    4300008: cuchilla5
+    4300010: cuchilla6
+    4300012: cuchilla7
+    4300014: cuchilla8
+    4300016: cuchilla9
+    4300018: cuchilla10
+    4300020: cuchilla11
+    4300022: curva11
+    4300024: curva10
+    4300026: curva9
+    4300028: curva8
+    4300030: curva7
+    4300032: curva6
+    4300034: curva4
+    4300036: curva3
+    4300038: curva2
+    4300040: curva1
+    4300042: superficie7
+    4300044: superficie6
+    4300046: superficie5
+    4300048: superficie4
+    4300050: superficie3
+    4300052: superficie2
+    4300054: superficie1
+    4300056: superficie8
+    4300058: superficie9
+    4300060: superficie10
+    4300062: superficie11
+    4300064: superficie_principal
+    4300066: curva5
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 463
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuchilla1
+        weight: 1
+      - path: cuchilla2
+        weight: 1
+      - path: cuchilla3
+        weight: 1
+      - path: cuchilla4
+        weight: 1
+      - path: cuchilla5
+        weight: 1
+      - path: cuchilla6
+        weight: 1
+      - path: cuchilla7
+        weight: 1
+      - path: cuchilla8
+        weight: 1
+      - path: cuchilla9
+        weight: 1
+      - path: cuchilla10
+        weight: 1
+      - path: cuchilla11
+        weight: 1
+      - path: curva1
+        weight: 1
+      - path: curva2
+        weight: 1
+      - path: curva3
+        weight: 1
+      - path: curva4
+        weight: 1
+      - path: curva5
+        weight: 1
+      - path: curva6
+        weight: 1
+      - path: curva7
+        weight: 1
+      - path: curva8
+        weight: 1
+      - path: curva9
+        weight: 1
+      - path: curva10
+        weight: 1
+      - path: curva11
+        weight: 1
+      - path: superficie1
+        weight: 1
+      - path: superficie2
+        weight: 1
+      - path: superficie3
+        weight: 1
+      - path: superficie4
+        weight: 1
+      - path: superficie5
+        weight: 1
+      - path: superficie6
+        weight: 1
+      - path: superficie7
+        weight: 1
+      - path: superficie8
+        weight: 1
+      - path: superficie9
+        weight: 1
+      - path: superficie10
+        weight: 1
+      - path: superficie11
+        weight: 1
+      - path: superficie_principal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .064000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

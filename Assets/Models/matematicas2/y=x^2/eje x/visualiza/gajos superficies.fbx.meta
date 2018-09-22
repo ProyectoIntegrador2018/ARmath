@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: bf9f10eb596deaa438a8d1a1c332cc12
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: gajo1
+    100002: gajo10
+    100004: gajo11
+    100006: gajo12
+    100008: gajo13
+    100010: gajo14
+    100012: gajo15
+    100014: gajo16
+    100016: gajo17
+    100018: gajo18
+    100020: gajo19
+    100022: gajo2
+    100024: gajo20
+    100026: gajo21
+    100028: gajo22
+    100030: gajo23
+    100032: gajo24
+    100034: gajo25
+    100036: gajo26
+    100038: gajo27
+    100040: gajo28
+    100042: gajo29
+    100044: gajo3
+    100046: gajo30
+    100048: gajo31
+    100050: gajo4
+    100052: gajo5
+    100054: gajo6
+    100056: gajo7
+    100058: gajo8
+    100060: gajo9
+    100062: //RootNode
+    400000: gajo1
+    400002: gajo10
+    400004: gajo11
+    400006: gajo12
+    400008: gajo13
+    400010: gajo14
+    400012: gajo15
+    400014: gajo16
+    400016: gajo17
+    400018: gajo18
+    400020: gajo19
+    400022: gajo2
+    400024: gajo20
+    400026: gajo21
+    400028: gajo22
+    400030: gajo23
+    400032: gajo24
+    400034: gajo25
+    400036: gajo26
+    400038: gajo27
+    400040: gajo28
+    400042: gajo29
+    400044: gajo3
+    400046: gajo30
+    400048: gajo31
+    400050: gajo4
+    400052: gajo5
+    400054: gajo6
+    400056: gajo7
+    400058: gajo8
+    400060: gajo9
+    400062: //RootNode
+    2300000: gajo1
+    2300002: gajo10
+    2300004: gajo11
+    2300006: gajo12
+    2300008: gajo13
+    2300010: gajo14
+    2300012: gajo15
+    2300014: gajo16
+    2300016: gajo17
+    2300018: gajo18
+    2300020: gajo19
+    2300022: gajo2
+    2300024: gajo20
+    2300026: gajo21
+    2300028: gajo22
+    2300030: gajo23
+    2300032: gajo24
+    2300034: gajo25
+    2300036: gajo26
+    2300038: gajo27
+    2300040: gajo28
+    2300042: gajo29
+    2300044: gajo3
+    2300046: gajo30
+    2300048: gajo31
+    2300050: gajo4
+    2300052: gajo5
+    2300054: gajo6
+    2300056: gajo7
+    2300058: gajo8
+    2300060: gajo9
+    3300000: gajo1
+    3300002: gajo10
+    3300004: gajo11
+    3300006: gajo12
+    3300008: gajo13
+    3300010: gajo14
+    3300012: gajo15
+    3300014: gajo16
+    3300016: gajo17
+    3300018: gajo18
+    3300020: gajo19
+    3300022: gajo2
+    3300024: gajo20
+    3300026: gajo21
+    3300028: gajo22
+    3300030: gajo23
+    3300032: gajo24
+    3300034: gajo25
+    3300036: gajo26
+    3300038: gajo27
+    3300040: gajo28
+    3300042: gajo29
+    3300044: gajo3
+    3300046: gajo30
+    3300048: gajo31
+    3300050: gajo4
+    3300052: gajo5
+    3300054: gajo6
+    3300056: gajo7
+    3300058: gajo8
+    3300060: gajo9
+    4300000: gajo1
+    4300002: gajo2
+    4300004: gajo3
+    4300006: gajo4
+    4300008: gajo5
+    4300010: gajo6
+    4300012: gajo7
+    4300014: gajo8
+    4300016: gajo9
+    4300018: gajo10
+    4300020: gajo11
+    4300022: gajo12
+    4300024: gajo13
+    4300026: gajo14
+    4300028: gajo15
+    4300030: gajo16
+    4300032: gajo17
+    4300034: gajo18
+    4300036: gajo19
+    4300038: gajo20
+    4300040: gajo21
+    4300042: gajo22
+    4300044: gajo23
+    4300046: gajo24
+    4300048: gajo25
+    4300050: gajo26
+    4300052: gajo27
+    4300054: gajo28
+    4300056: gajo29
+    4300058: gajo30
+    4300060: gajo31
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gajo1
+        weight: 1
+      - path: gajo2
+        weight: 1
+      - path: gajo3
+        weight: 1
+      - path: gajo4
+        weight: 1
+      - path: gajo5
+        weight: 1
+      - path: gajo6
+        weight: 1
+      - path: gajo7
+        weight: 1
+      - path: gajo8
+        weight: 1
+      - path: gajo9
+        weight: 1
+      - path: gajo10
+        weight: 1
+      - path: gajo11
+        weight: 1
+      - path: gajo12
+        weight: 1
+      - path: gajo13
+        weight: 1
+      - path: gajo14
+        weight: 1
+      - path: gajo15
+        weight: 1
+      - path: gajo16
+        weight: 1
+      - path: gajo17
+        weight: 1
+      - path: gajo18
+        weight: 1
+      - path: gajo19
+        weight: 1
+      - path: gajo20
+        weight: 1
+      - path: gajo21
+        weight: 1
+      - path: gajo22
+        weight: 1
+      - path: gajo23
+        weight: 1
+      - path: gajo24
+        weight: 1
+      - path: gajo25
+        weight: 1
+      - path: gajo26
+        weight: 1
+      - path: gajo27
+        weight: 1
+      - path: gajo28
+        weight: 1
+      - path: gajo29
+        weight: 1
+      - path: gajo30
+        weight: 1
+      - path: gajo31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

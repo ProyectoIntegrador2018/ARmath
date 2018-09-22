@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: b732efee943a7754195b40470224bd92
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: expresion_integral:polySurface1
+    100004: y_x__acomulado:brep_1
+    100006: y_x__acomulado:brep_10
+    100008: y_x__acomulado:brep_11
+    100010: y_x__acomulado:brep_12
+    100012: y_x__acomulado:brep_13
+    100014: y_x__acomulado:brep_14
+    100016: y_x__acomulado:brep_15
+    100018: y_x__acomulado:brep_16
+    100020: y_x__acomulado:brep_17
+    100022: y_x__acomulado:brep_18
+    100024: y_x__acomulado:brep_19
+    100026: y_x__acomulado:brep_2
+    100028: y_x__acomulado:brep_20
+    100030: y_x__acomulado:brep_21
+    100032: y_x__acomulado:brep_22
+    100034: y_x__acomulado:brep_23
+    100036: y_x__acomulado:brep_24
+    100038: y_x__acomulado:brep_25
+    100040: y_x__acomulado:brep_26
+    100042: y_x__acomulado:brep_27
+    100044: y_x__acomulado:brep_28
+    100046: y_x__acomulado:brep_29
+    100048: y_x__acomulado:brep_3
+    100050: y_x__acomulado:brep_30
+    100052: y_x__acomulado:brep_31
+    100054: y_x__acomulado:brep_32
+    100056: y_x__acomulado:brep_4
+    100058: y_x__acomulado:brep_5
+    100060: y_x__acomulado:brep_6
+    100062: y_x__acomulado:brep_7
+    100064: y_x__acomulado:brep_8
+    100066: y_x__acomulado:brep_9
+    400000: //RootNode
+    400002: expresion_integral:polySurface1
+    400004: y_x__acomulado:brep_1
+    400006: y_x__acomulado:brep_10
+    400008: y_x__acomulado:brep_11
+    400010: y_x__acomulado:brep_12
+    400012: y_x__acomulado:brep_13
+    400014: y_x__acomulado:brep_14
+    400016: y_x__acomulado:brep_15
+    400018: y_x__acomulado:brep_16
+    400020: y_x__acomulado:brep_17
+    400022: y_x__acomulado:brep_18
+    400024: y_x__acomulado:brep_19
+    400026: y_x__acomulado:brep_2
+    400028: y_x__acomulado:brep_20
+    400030: y_x__acomulado:brep_21
+    400032: y_x__acomulado:brep_22
+    400034: y_x__acomulado:brep_23
+    400036: y_x__acomulado:brep_24
+    400038: y_x__acomulado:brep_25
+    400040: y_x__acomulado:brep_26
+    400042: y_x__acomulado:brep_27
+    400044: y_x__acomulado:brep_28
+    400046: y_x__acomulado:brep_29
+    400048: y_x__acomulado:brep_3
+    400050: y_x__acomulado:brep_30
+    400052: y_x__acomulado:brep_31
+    400054: y_x__acomulado:brep_32
+    400056: y_x__acomulado:brep_4
+    400058: y_x__acomulado:brep_5
+    400060: y_x__acomulado:brep_6
+    400062: y_x__acomulado:brep_7
+    400064: y_x__acomulado:brep_8
+    400066: y_x__acomulado:brep_9
+    2300000: expresion_integral:polySurface1
+    2300002: y_x__acomulado:brep_1
+    2300004: y_x__acomulado:brep_10
+    2300006: y_x__acomulado:brep_11
+    2300008: y_x__acomulado:brep_12
+    2300010: y_x__acomulado:brep_13
+    2300012: y_x__acomulado:brep_14
+    2300014: y_x__acomulado:brep_15
+    2300016: y_x__acomulado:brep_16
+    2300018: y_x__acomulado:brep_17
+    2300020: y_x__acomulado:brep_18
+    2300022: y_x__acomulado:brep_19
+    2300024: y_x__acomulado:brep_2
+    2300026: y_x__acomulado:brep_20
+    2300028: y_x__acomulado:brep_21
+    2300030: y_x__acomulado:brep_22
+    2300032: y_x__acomulado:brep_23
+    2300034: y_x__acomulado:brep_24
+    2300036: y_x__acomulado:brep_25
+    2300038: y_x__acomulado:brep_26
+    2300040: y_x__acomulado:brep_27
+    2300042: y_x__acomulado:brep_28
+    2300044: y_x__acomulado:brep_29
+    2300046: y_x__acomulado:brep_3
+    2300048: y_x__acomulado:brep_30
+    2300050: y_x__acomulado:brep_31
+    2300052: y_x__acomulado:brep_32
+    2300054: y_x__acomulado:brep_4
+    2300056: y_x__acomulado:brep_5
+    2300058: y_x__acomulado:brep_6
+    2300060: y_x__acomulado:brep_7
+    2300062: y_x__acomulado:brep_8
+    2300064: y_x__acomulado:brep_9
+    3300000: expresion_integral:polySurface1
+    3300002: y_x__acomulado:brep_1
+    3300004: y_x__acomulado:brep_10
+    3300006: y_x__acomulado:brep_11
+    3300008: y_x__acomulado:brep_12
+    3300010: y_x__acomulado:brep_13
+    3300012: y_x__acomulado:brep_14
+    3300014: y_x__acomulado:brep_15
+    3300016: y_x__acomulado:brep_16
+    3300018: y_x__acomulado:brep_17
+    3300020: y_x__acomulado:brep_18
+    3300022: y_x__acomulado:brep_19
+    3300024: y_x__acomulado:brep_2
+    3300026: y_x__acomulado:brep_20
+    3300028: y_x__acomulado:brep_21
+    3300030: y_x__acomulado:brep_22
+    3300032: y_x__acomulado:brep_23
+    3300034: y_x__acomulado:brep_24
+    3300036: y_x__acomulado:brep_25
+    3300038: y_x__acomulado:brep_26
+    3300040: y_x__acomulado:brep_27
+    3300042: y_x__acomulado:brep_28
+    3300044: y_x__acomulado:brep_29
+    3300046: y_x__acomulado:brep_3
+    3300048: y_x__acomulado:brep_30
+    3300050: y_x__acomulado:brep_31
+    3300052: y_x__acomulado:brep_32
+    3300054: y_x__acomulado:brep_4
+    3300056: y_x__acomulado:brep_5
+    3300058: y_x__acomulado:brep_6
+    3300060: y_x__acomulado:brep_7
+    3300062: y_x__acomulado:brep_8
+    3300064: y_x__acomulado:brep_9
+    4300000: y_x__acomulado:brep_1
+    4300002: y_x__acomulado:brep_32
+    4300004: y_x__acomulado:brep_2
+    4300006: y_x__acomulado:brep_3
+    4300008: y_x__acomulado:brep_4
+    4300010: y_x__acomulado:brep_5
+    4300012: y_x__acomulado:brep_6
+    4300014: y_x__acomulado:brep_7
+    4300016: y_x__acomulado:brep_8
+    4300018: y_x__acomulado:brep_9
+    4300020: y_x__acomulado:brep_10
+    4300022: y_x__acomulado:brep_11
+    4300024: y_x__acomulado:brep_12
+    4300026: y_x__acomulado:brep_13
+    4300028: y_x__acomulado:brep_14
+    4300030: y_x__acomulado:brep_15
+    4300032: y_x__acomulado:brep_16
+    4300034: y_x__acomulado:brep_17
+    4300036: y_x__acomulado:brep_18
+    4300038: y_x__acomulado:brep_19
+    4300040: y_x__acomulado:brep_20
+    4300042: y_x__acomulado:brep_21
+    4300044: y_x__acomulado:brep_22
+    4300046: y_x__acomulado:brep_23
+    4300048: y_x__acomulado:brep_24
+    4300050: y_x__acomulado:brep_25
+    4300052: y_x__acomulado:brep_26
+    4300054: y_x__acomulado:brep_27
+    4300056: y_x__acomulado:brep_28
+    4300058: y_x__acomulado:brep_29
+    4300060: y_x__acomulado:brep_30
+    4300062: y_x__acomulado:brep_31
+    4300064: expresion_integral:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: expresion_integral:polySurface1
+        weight: 1
+      - path: y_x__acomulado:brep_1
+        weight: 1
+      - path: y_x__acomulado:brep_2
+        weight: 1
+      - path: y_x__acomulado:brep_3
+        weight: 1
+      - path: y_x__acomulado:brep_4
+        weight: 1
+      - path: y_x__acomulado:brep_5
+        weight: 1
+      - path: y_x__acomulado:brep_6
+        weight: 1
+      - path: y_x__acomulado:brep_7
+        weight: 1
+      - path: y_x__acomulado:brep_8
+        weight: 1
+      - path: y_x__acomulado:brep_9
+        weight: 1
+      - path: y_x__acomulado:brep_10
+        weight: 1
+      - path: y_x__acomulado:brep_11
+        weight: 1
+      - path: y_x__acomulado:brep_12
+        weight: 1
+      - path: y_x__acomulado:brep_13
+        weight: 1
+      - path: y_x__acomulado:brep_14
+        weight: 1
+      - path: y_x__acomulado:brep_15
+        weight: 1
+      - path: y_x__acomulado:brep_16
+        weight: 1
+      - path: y_x__acomulado:brep_17
+        weight: 1
+      - path: y_x__acomulado:brep_18
+        weight: 1
+      - path: y_x__acomulado:brep_19
+        weight: 1
+      - path: y_x__acomulado:brep_20
+        weight: 1
+      - path: y_x__acomulado:brep_21
+        weight: 1
+      - path: y_x__acomulado:brep_22
+        weight: 1
+      - path: y_x__acomulado:brep_23
+        weight: 1
+      - path: y_x__acomulado:brep_24
+        weight: 1
+      - path: y_x__acomulado:brep_25
+        weight: 1
+      - path: y_x__acomulado:brep_26
+        weight: 1
+      - path: y_x__acomulado:brep_27
+        weight: 1
+      - path: y_x__acomulado:brep_28
+        weight: 1
+      - path: y_x__acomulado:brep_29
+        weight: 1
+      - path: y_x__acomulado:brep_30
+        weight: 1
+      - path: y_x__acomulado:brep_31
+        weight: 1
+      - path: y_x__acomulado:brep_32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: e4194dd5358b9104d89ac19809c7c9d9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: capa1
+    100002: capa10
+    100004: capa11
+    100006: capa12
+    100008: capa13
+    100010: capa14
+    100012: capa15
+    100014: capa16
+    100016: capa17
+    100018: capa18
+    100020: capa19
+    100022: capa2
+    100024: capa20
+    100026: capa21
+    100028: capa22
+    100030: capa23
+    100032: capa24
+    100034: capa25
+    100036: capa26
+    100038: capa27
+    100040: capa28
+    100042: capa29
+    100044: capa3
+    100046: capa30
+    100048: capa31
+    100050: capa32
+    100052: capa4
+    100054: capa5
+    100056: capa6
+    100058: capa7
+    100060: capa8
+    100062: capa9
+    100064: //RootNode
+    100066: surf1
+    100068: surf10
+    100070: surf11
+    100072: surf12
+    100074: surf13
+    100076: surf14
+    100078: surf15
+    100080: surf16
+    100082: surf17
+    100084: surf18
+    100086: surf19
+    100088: surf2
+    100090: surf20
+    100092: surf21
+    100094: surf22
+    100096: surf23
+    100098: surf24
+    100100: surf25
+    100102: surf26
+    100104: surf27
+    100106: surf28
+    100108: surf29
+    100110: surf3
+    100112: surf30
+    100114: surf31
+    100116: surf32
+    100118: surf4
+    100120: surf5
+    100122: surf6
+    100124: surf7
+    100126: surf8
+    100128: surf9
+    100130: transform785
+    100132: transform786
+    100134: transform787
+    100136: transform788
+    100138: transform789
+    100140: transform790
+    100142: transform791
+    100144: transform792
+    100146: transform793
+    100148: transform794
+    100150: transform795
+    100152: transform796
+    100154: transform797
+    100156: transform798
+    100158: transform799
+    100160: transform800
+    100162: transform801
+    100164: transform802
+    100166: transform803
+    100168: transform804
+    100170: transform805
+    100172: transform806
+    100174: transform807
+    100176: transform808
+    100178: transform809
+    100180: transform810
+    100182: transform811
+    100184: transform812
+    100186: transform813
+    100188: transform814
+    100190: transform815
+    100192: transform816
+    100194: transform817
+    100196: transform818
+    100198: transform819
+    100200: transform820
+    100202: transform821
+    100204: transform822
+    100206: transform823
+    100208: transform824
+    100210: transform825
+    100212: transform826
+    100214: transform827
+    100216: transform828
+    100218: transform829
+    100220: transform830
+    100222: transform831
+    100224: transform832
+    100226: transform833
+    100228: transform834
+    100230: transform835
+    100232: transform836
+    100234: transform837
+    100236: transform838
+    100238: transform839
+    100240: transform840
+    100242: transform841
+    100244: transform842
+    100246: transform843
+    100248: transform844
+    100250: transform845
+    100252: transform846
+    100254: transform847
+    100256: transform848
+    100258: y_x__gajos_superficies_eje_y1:capa1
+    100260: y_x__gajos_superficies_eje_y1:capa10
+    100262: y_x__gajos_superficies_eje_y1:capa11
+    100264: y_x__gajos_superficies_eje_y1:capa12
+    100266: y_x__gajos_superficies_eje_y1:capa13
+    100268: y_x__gajos_superficies_eje_y1:capa14
+    100270: y_x__gajos_superficies_eje_y1:capa15
+    100272: y_x__gajos_superficies_eje_y1:capa16
+    100274: y_x__gajos_superficies_eje_y1:capa17
+    100276: y_x__gajos_superficies_eje_y1:capa18
+    100278: y_x__gajos_superficies_eje_y1:capa19
+    100280: y_x__gajos_superficies_eje_y1:capa2
+    100282: y_x__gajos_superficies_eje_y1:capa20
+    100284: y_x__gajos_superficies_eje_y1:capa21
+    100286: y_x__gajos_superficies_eje_y1:capa22
+    100288: y_x__gajos_superficies_eje_y1:capa23
+    100290: y_x__gajos_superficies_eje_y1:capa24
+    100292: y_x__gajos_superficies_eje_y1:capa25
+    100294: y_x__gajos_superficies_eje_y1:capa26
+    100296: y_x__gajos_superficies_eje_y1:capa27
+    100298: y_x__gajos_superficies_eje_y1:capa28
+    100300: y_x__gajos_superficies_eje_y1:capa29
+    100302: y_x__gajos_superficies_eje_y1:capa3
+    100304: y_x__gajos_superficies_eje_y1:capa30
+    100306: y_x__gajos_superficies_eje_y1:capa31
+    100308: y_x__gajos_superficies_eje_y1:capa32
+    100310: y_x__gajos_superficies_eje_y1:capa4
+    100312: y_x__gajos_superficies_eje_y1:capa5
+    100314: y_x__gajos_superficies_eje_y1:capa6
+    100316: y_x__gajos_superficies_eje_y1:capa7
+    100318: y_x__gajos_superficies_eje_y1:capa8
+    100320: y_x__gajos_superficies_eje_y1:capa9
+    400000: capa1
+    400002: capa10
+    400004: capa11
+    400006: capa12
+    400008: capa13
+    400010: capa14
+    400012: capa15
+    400014: capa16
+    400016: capa17
+    400018: capa18
+    400020: capa19
+    400022: capa2
+    400024: capa20
+    400026: capa21
+    400028: capa22
+    400030: capa23
+    400032: capa24
+    400034: capa25
+    400036: capa26
+    400038: capa27
+    400040: capa28
+    400042: capa29
+    400044: capa3
+    400046: capa30
+    400048: capa31
+    400050: capa32
+    400052: capa4
+    400054: capa5
+    400056: capa6
+    400058: capa7
+    400060: capa8
+    400062: capa9
+    400064: //RootNode
+    400066: surf1
+    400068: surf10
+    400070: surf11
+    400072: surf12
+    400074: surf13
+    400076: surf14
+    400078: surf15
+    400080: surf16
+    400082: surf17
+    400084: surf18
+    400086: surf19
+    400088: surf2
+    400090: surf20
+    400092: surf21
+    400094: surf22
+    400096: surf23
+    400098: surf24
+    400100: surf25
+    400102: surf26
+    400104: surf27
+    400106: surf28
+    400108: surf29
+    400110: surf3
+    400112: surf30
+    400114: surf31
+    400116: surf32
+    400118: surf4
+    400120: surf5
+    400122: surf6
+    400124: surf7
+    400126: surf8
+    400128: surf9
+    400130: transform785
+    400132: transform786
+    400134: transform787
+    400136: transform788
+    400138: transform789
+    400140: transform790
+    400142: transform791
+    400144: transform792
+    400146: transform793
+    400148: transform794
+    400150: transform795
+    400152: transform796
+    400154: transform797
+    400156: transform798
+    400158: transform799
+    400160: transform800
+    400162: transform801
+    400164: transform802
+    400166: transform803
+    400168: transform804
+    400170: transform805
+    400172: transform806
+    400174: transform807
+    400176: transform808
+    400178: transform809
+    400180: transform810
+    400182: transform811
+    400184: transform812
+    400186: transform813
+    400188: transform814
+    400190: transform815
+    400192: transform816
+    400194: transform817
+    400196: transform818
+    400198: transform819
+    400200: transform820
+    400202: transform821
+    400204: transform822
+    400206: transform823
+    400208: transform824
+    400210: transform825
+    400212: transform826
+    400214: transform827
+    400216: transform828
+    400218: transform829
+    400220: transform830
+    400222: transform831
+    400224: transform832
+    400226: transform833
+    400228: transform834
+    400230: transform835
+    400232: transform836
+    400234: transform837
+    400236: transform838
+    400238: transform839
+    400240: transform840
+    400242: transform841
+    400244: transform842
+    400246: transform843
+    400248: transform844
+    400250: transform845
+    400252: transform846
+    400254: transform847
+    400256: transform848
+    400258: y_x__gajos_superficies_eje_y1:capa1
+    400260: y_x__gajos_superficies_eje_y1:capa10
+    400262: y_x__gajos_superficies_eje_y1:capa11
+    400264: y_x__gajos_superficies_eje_y1:capa12
+    400266: y_x__gajos_superficies_eje_y1:capa13
+    400268: y_x__gajos_superficies_eje_y1:capa14
+    400270: y_x__gajos_superficies_eje_y1:capa15
+    400272: y_x__gajos_superficies_eje_y1:capa16
+    400274: y_x__gajos_superficies_eje_y1:capa17
+    400276: y_x__gajos_superficies_eje_y1:capa18
+    400278: y_x__gajos_superficies_eje_y1:capa19
+    400280: y_x__gajos_superficies_eje_y1:capa2
+    400282: y_x__gajos_superficies_eje_y1:capa20
+    400284: y_x__gajos_superficies_eje_y1:capa21
+    400286: y_x__gajos_superficies_eje_y1:capa22
+    400288: y_x__gajos_superficies_eje_y1:capa23
+    400290: y_x__gajos_superficies_eje_y1:capa24
+    400292: y_x__gajos_superficies_eje_y1:capa25
+    400294: y_x__gajos_superficies_eje_y1:capa26
+    400296: y_x__gajos_superficies_eje_y1:capa27
+    400298: y_x__gajos_superficies_eje_y1:capa28
+    400300: y_x__gajos_superficies_eje_y1:capa29
+    400302: y_x__gajos_superficies_eje_y1:capa3
+    400304: y_x__gajos_superficies_eje_y1:capa30
+    400306: y_x__gajos_superficies_eje_y1:capa31
+    400308: y_x__gajos_superficies_eje_y1:capa32
+    400310: y_x__gajos_superficies_eje_y1:capa4
+    400312: y_x__gajos_superficies_eje_y1:capa5
+    400314: y_x__gajos_superficies_eje_y1:capa6
+    400316: y_x__gajos_superficies_eje_y1:capa7
+    400318: y_x__gajos_superficies_eje_y1:capa8
+    400320: y_x__gajos_superficies_eje_y1:capa9
+    2300000: surf1
+    2300002: surf10
+    2300004: surf11
+    2300006: surf12
+    2300008: surf13
+    2300010: surf14
+    2300012: surf15
+    2300014: surf16
+    2300016: surf17
+    2300018: surf18
+    2300020: surf19
+    2300022: surf2
+    2300024: surf20
+    2300026: surf21
+    2300028: surf22
+    2300030: surf23
+    2300032: surf24
+    2300034: surf25
+    2300036: surf26
+    2300038: surf27
+    2300040: surf28
+    2300042: surf29
+    2300044: surf3
+    2300046: surf30
+    2300048: surf31
+    2300050: surf32
+    2300052: surf4
+    2300054: surf5
+    2300056: surf6
+    2300058: surf7
+    2300060: surf8
+    2300062: surf9
+    3300000: surf1
+    3300002: surf10
+    3300004: surf11
+    3300006: surf12
+    3300008: surf13
+    3300010: surf14
+    3300012: surf15
+    3300014: surf16
+    3300016: surf17
+    3300018: surf18
+    3300020: surf19
+    3300022: surf2
+    3300024: surf20
+    3300026: surf21
+    3300028: surf22
+    3300030: surf23
+    3300032: surf24
+    3300034: surf25
+    3300036: surf26
+    3300038: surf27
+    3300040: surf28
+    3300042: surf29
+    3300044: surf3
+    3300046: surf30
+    3300048: surf31
+    3300050: surf32
+    3300052: surf4
+    3300054: surf5
+    3300056: surf6
+    3300058: surf7
+    3300060: surf8
+    3300062: surf9
+    4300000: surf1
+    4300002: surf2
+    4300004: surf3
+    4300006: surf4
+    4300008: surf5
+    4300010: surf6
+    4300012: surf7
+    4300014: surf8
+    4300016: surf9
+    4300018: surf10
+    4300020: surf11
+    4300022: surf12
+    4300024: surf13
+    4300026: surf14
+    4300028: surf15
+    4300030: surf16
+    4300032: surf17
+    4300034: surf18
+    4300036: surf19
+    4300038: surf20
+    4300040: surf21
+    4300042: surf22
+    4300044: surf23
+    4300046: surf24
+    4300048: surf25
+    4300050: surf26
+    4300052: surf27
+    4300054: surf28
+    4300056: surf29
+    4300058: surf30
+    4300060: surf31
+    4300062: surf32
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: capa1
+        weight: 1
+      - path: capa1/transform801
+        weight: 1
+      - path: capa2
+        weight: 1
+      - path: capa2/transform803
+        weight: 1
+      - path: capa3
+        weight: 1
+      - path: capa3/transform805
+        weight: 1
+      - path: capa4
+        weight: 1
+      - path: capa4/transform807
+        weight: 1
+      - path: capa5
+        weight: 1
+      - path: capa5/transform809
+        weight: 1
+      - path: capa6
+        weight: 1
+      - path: capa6/transform811
+        weight: 1
+      - path: capa7
+        weight: 1
+      - path: capa7/transform813
+        weight: 1
+      - path: capa8
+        weight: 1
+      - path: capa8/transform815
+        weight: 1
+      - path: capa9
+        weight: 1
+      - path: capa9/transform817
+        weight: 1
+      - path: capa10
+        weight: 1
+      - path: capa10/transform819
+        weight: 1
+      - path: capa11
+        weight: 1
+      - path: capa11/transform821
+        weight: 1
+      - path: capa12
+        weight: 1
+      - path: capa12/transform823
+        weight: 1
+      - path: capa13
+        weight: 1
+      - path: capa13/transform825
+        weight: 1
+      - path: capa14
+        weight: 1
+      - path: capa14/transform827
+        weight: 1
+      - path: capa15
+        weight: 1
+      - path: capa15/transform829
+        weight: 1
+      - path: capa16
+        weight: 1
+      - path: capa16/transform831
+        weight: 1
+      - path: capa17
+        weight: 1
+      - path: capa17/transform833
+        weight: 1
+      - path: capa18
+        weight: 1
+      - path: capa18/transform835
+        weight: 1
+      - path: capa19
+        weight: 1
+      - path: capa19/transform837
+        weight: 1
+      - path: capa20
+        weight: 1
+      - path: capa20/transform839
+        weight: 1
+      - path: capa21
+        weight: 1
+      - path: capa21/transform841
+        weight: 1
+      - path: capa22
+        weight: 1
+      - path: capa22/transform843
+        weight: 1
+      - path: capa23
+        weight: 1
+      - path: capa23/transform845
+        weight: 1
+      - path: capa24
+        weight: 1
+      - path: capa24/transform847
+        weight: 1
+      - path: capa25
+        weight: 1
+      - path: capa25/transform785
+        weight: 1
+      - path: capa26
+        weight: 1
+      - path: capa26/transform787
+        weight: 1
+      - path: capa27
+        weight: 1
+      - path: capa27/transform789
+        weight: 1
+      - path: capa28
+        weight: 1
+      - path: capa28/transform791
+        weight: 1
+      - path: capa29
+        weight: 1
+      - path: capa29/transform793
+        weight: 1
+      - path: capa30
+        weight: 1
+      - path: capa30/transform795
+        weight: 1
+      - path: capa31
+        weight: 1
+      - path: capa31/transform797
+        weight: 1
+      - path: capa32
+        weight: 1
+      - path: capa32/transform799
+        weight: 1
+      - path: surf1
+        weight: 1
+      - path: surf2
+        weight: 1
+      - path: surf3
+        weight: 1
+      - path: surf4
+        weight: 1
+      - path: surf5
+        weight: 1
+      - path: surf6
+        weight: 1
+      - path: surf7
+        weight: 1
+      - path: surf8
+        weight: 1
+      - path: surf9
+        weight: 1
+      - path: surf10
+        weight: 1
+      - path: surf11
+        weight: 1
+      - path: surf12
+        weight: 1
+      - path: surf13
+        weight: 1
+      - path: surf14
+        weight: 1
+      - path: surf15
+        weight: 1
+      - path: surf16
+        weight: 1
+      - path: surf17
+        weight: 1
+      - path: surf18
+        weight: 1
+      - path: surf19
+        weight: 1
+      - path: surf20
+        weight: 1
+      - path: surf21
+        weight: 1
+      - path: surf22
+        weight: 1
+      - path: surf23
+        weight: 1
+      - path: surf24
+        weight: 1
+      - path: surf25
+        weight: 1
+      - path: surf26
+        weight: 1
+      - path: surf27
+        weight: 1
+      - path: surf28
+        weight: 1
+      - path: surf29
+        weight: 1
+      - path: surf30
+        weight: 1
+      - path: surf31
+        weight: 1
+      - path: surf32
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa1
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa1/transform802
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa2
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa2/transform804
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa3
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa3/transform806
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa4
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa4/transform808
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa5
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa5/transform810
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa6
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa6/transform812
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa7
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa7/transform814
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa8
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa8/transform816
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa9
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa9/transform818
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa10
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa10/transform820
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa11
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa11/transform822
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa12
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa12/transform824
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa13
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa13/transform826
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa14
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa14/transform828
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa15
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa15/transform830
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa16
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa16/transform832
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa17
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa17/transform834
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa18
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa18/transform836
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa19
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa19/transform838
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa20
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa20/transform840
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa21
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa21/transform842
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa22
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa22/transform844
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa23
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa23/transform846
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa24
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa24/transform848
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa25
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa25/transform786
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa26
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa26/transform788
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa27
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa27/transform790
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa28
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa28/transform792
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa29
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa29/transform794
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa30
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa30/transform796
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa31
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa31/transform798
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa32
+        weight: 1
+      - path: y_x__gajos_superficies_eje_y1:capa32/transform800
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

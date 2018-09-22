@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 481939213ee29ce4d906847e6380de70
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface16
+    100004: polySurface9
+    100006: Trim_Char_d_5_1
+    100008: Trim_Char_d_6_1
+    100010: Trim_Char_f_4_1
+    100012: Trim_Char_p_2_2
+    100014: Trim_Char_V_1_1
+    100016: Trim_Char_x_11_1
+    100018: Trim_Char_x_14_1
+    100020: Trim_Char_x_15_1
+    100022: Trim_Char_x_3_3
+    100024: Trim_Char_x_3_4
+    100026: Trim_Char_x_4_3
+    100028: Trim_Char_x_4_4
+    100030: Trim_Char_x_8_1
+    100032: Trim_Text_dvxxxxfxxxxxxxdx_1_1
+    100034: y_raiz_x_demo:acomulacion_volumen:brep_1
+    100036: y_raiz_x_demo:acomulacion_volumen:brep_10
+    100038: y_raiz_x_demo:acomulacion_volumen:brep_11
+    100040: y_raiz_x_demo:acomulacion_volumen:brep_12
+    100042: y_raiz_x_demo:acomulacion_volumen:brep_13
+    100044: y_raiz_x_demo:acomulacion_volumen:brep_14
+    100046: y_raiz_x_demo:acomulacion_volumen:brep_15
+    100048: y_raiz_x_demo:acomulacion_volumen:brep_16
+    100050: y_raiz_x_demo:acomulacion_volumen:brep_17
+    100052: y_raiz_x_demo:acomulacion_volumen:brep_18
+    100054: y_raiz_x_demo:acomulacion_volumen:brep_19
+    100056: y_raiz_x_demo:acomulacion_volumen:brep_2
+    100058: y_raiz_x_demo:acomulacion_volumen:brep_20
+    100060: y_raiz_x_demo:acomulacion_volumen:brep_21
+    100062: y_raiz_x_demo:acomulacion_volumen:brep_22
+    100064: y_raiz_x_demo:acomulacion_volumen:brep_23
+    100066: y_raiz_x_demo:acomulacion_volumen:brep_24
+    100068: y_raiz_x_demo:acomulacion_volumen:brep_25
+    100070: y_raiz_x_demo:acomulacion_volumen:brep_26
+    100072: y_raiz_x_demo:acomulacion_volumen:brep_27
+    100074: y_raiz_x_demo:acomulacion_volumen:brep_28
+    100076: y_raiz_x_demo:acomulacion_volumen:brep_29
+    100078: y_raiz_x_demo:acomulacion_volumen:brep_3
+    100080: y_raiz_x_demo:acomulacion_volumen:brep_30
+    100082: y_raiz_x_demo:acomulacion_volumen:brep_31
+    100084: y_raiz_x_demo:acomulacion_volumen:brep_32
+    100086: y_raiz_x_demo:acomulacion_volumen:brep_4
+    100088: y_raiz_x_demo:acomulacion_volumen:brep_5
+    100090: y_raiz_x_demo:acomulacion_volumen:brep_6
+    100092: y_raiz_x_demo:acomulacion_volumen:brep_7
+    100094: y_raiz_x_demo:acomulacion_volumen:brep_8
+    100096: y_raiz_x_demo:acomulacion_volumen:brep_9
+    400000: //RootNode
+    400002: polySurface16
+    400004: polySurface9
+    400006: Trim_Char_d_5_1
+    400008: Trim_Char_d_6_1
+    400010: Trim_Char_f_4_1
+    400012: Trim_Char_p_2_2
+    400014: Trim_Char_V_1_1
+    400016: Trim_Char_x_11_1
+    400018: Trim_Char_x_14_1
+    400020: Trim_Char_x_15_1
+    400022: Trim_Char_x_3_3
+    400024: Trim_Char_x_3_4
+    400026: Trim_Char_x_4_3
+    400028: Trim_Char_x_4_4
+    400030: Trim_Char_x_8_1
+    400032: Trim_Text_dvxxxxfxxxxxxxdx_1_1
+    400034: y_raiz_x_demo:acomulacion_volumen:brep_1
+    400036: y_raiz_x_demo:acomulacion_volumen:brep_10
+    400038: y_raiz_x_demo:acomulacion_volumen:brep_11
+    400040: y_raiz_x_demo:acomulacion_volumen:brep_12
+    400042: y_raiz_x_demo:acomulacion_volumen:brep_13
+    400044: y_raiz_x_demo:acomulacion_volumen:brep_14
+    400046: y_raiz_x_demo:acomulacion_volumen:brep_15
+    400048: y_raiz_x_demo:acomulacion_volumen:brep_16
+    400050: y_raiz_x_demo:acomulacion_volumen:brep_17
+    400052: y_raiz_x_demo:acomulacion_volumen:brep_18
+    400054: y_raiz_x_demo:acomulacion_volumen:brep_19
+    400056: y_raiz_x_demo:acomulacion_volumen:brep_2
+    400058: y_raiz_x_demo:acomulacion_volumen:brep_20
+    400060: y_raiz_x_demo:acomulacion_volumen:brep_21
+    400062: y_raiz_x_demo:acomulacion_volumen:brep_22
+    400064: y_raiz_x_demo:acomulacion_volumen:brep_23
+    400066: y_raiz_x_demo:acomulacion_volumen:brep_24
+    400068: y_raiz_x_demo:acomulacion_volumen:brep_25
+    400070: y_raiz_x_demo:acomulacion_volumen:brep_26
+    400072: y_raiz_x_demo:acomulacion_volumen:brep_27
+    400074: y_raiz_x_demo:acomulacion_volumen:brep_28
+    400076: y_raiz_x_demo:acomulacion_volumen:brep_29
+    400078: y_raiz_x_demo:acomulacion_volumen:brep_3
+    400080: y_raiz_x_demo:acomulacion_volumen:brep_30
+    400082: y_raiz_x_demo:acomulacion_volumen:brep_31
+    400084: y_raiz_x_demo:acomulacion_volumen:brep_32
+    400086: y_raiz_x_demo:acomulacion_volumen:brep_4
+    400088: y_raiz_x_demo:acomulacion_volumen:brep_5
+    400090: y_raiz_x_demo:acomulacion_volumen:brep_6
+    400092: y_raiz_x_demo:acomulacion_volumen:brep_7
+    400094: y_raiz_x_demo:acomulacion_volumen:brep_8
+    400096: y_raiz_x_demo:acomulacion_volumen:brep_9
+    2300000: polySurface16
+    2300002: polySurface9
+    2300004: Trim_Char_d_5_1
+    2300006: Trim_Char_d_6_1
+    2300008: Trim_Char_f_4_1
+    2300010: Trim_Char_p_2_2
+    2300012: Trim_Char_V_1_1
+    2300014: Trim_Char_x_11_1
+    2300016: Trim_Char_x_14_1
+    2300018: Trim_Char_x_15_1
+    2300020: Trim_Char_x_3_3
+    2300022: Trim_Char_x_3_4
+    2300024: Trim_Char_x_4_3
+    2300026: Trim_Char_x_4_4
+    2300028: Trim_Char_x_8_1
+    2300030: y_raiz_x_demo:acomulacion_volumen:brep_1
+    2300032: y_raiz_x_demo:acomulacion_volumen:brep_10
+    2300034: y_raiz_x_demo:acomulacion_volumen:brep_11
+    2300036: y_raiz_x_demo:acomulacion_volumen:brep_12
+    2300038: y_raiz_x_demo:acomulacion_volumen:brep_13
+    2300040: y_raiz_x_demo:acomulacion_volumen:brep_14
+    2300042: y_raiz_x_demo:acomulacion_volumen:brep_15
+    2300044: y_raiz_x_demo:acomulacion_volumen:brep_16
+    2300046: y_raiz_x_demo:acomulacion_volumen:brep_17
+    2300048: y_raiz_x_demo:acomulacion_volumen:brep_18
+    2300050: y_raiz_x_demo:acomulacion_volumen:brep_19
+    2300052: y_raiz_x_demo:acomulacion_volumen:brep_2
+    2300054: y_raiz_x_demo:acomulacion_volumen:brep_20
+    2300056: y_raiz_x_demo:acomulacion_volumen:brep_21
+    2300058: y_raiz_x_demo:acomulacion_volumen:brep_22
+    2300060: y_raiz_x_demo:acomulacion_volumen:brep_23
+    2300062: y_raiz_x_demo:acomulacion_volumen:brep_24
+    2300064: y_raiz_x_demo:acomulacion_volumen:brep_25
+    2300066: y_raiz_x_demo:acomulacion_volumen:brep_26
+    2300068: y_raiz_x_demo:acomulacion_volumen:brep_27
+    2300070: y_raiz_x_demo:acomulacion_volumen:brep_28
+    2300072: y_raiz_x_demo:acomulacion_volumen:brep_29
+    2300074: y_raiz_x_demo:acomulacion_volumen:brep_3
+    2300076: y_raiz_x_demo:acomulacion_volumen:brep_30
+    2300078: y_raiz_x_demo:acomulacion_volumen:brep_31
+    2300080: y_raiz_x_demo:acomulacion_volumen:brep_32
+    2300082: y_raiz_x_demo:acomulacion_volumen:brep_4
+    2300084: y_raiz_x_demo:acomulacion_volumen:brep_5
+    2300086: y_raiz_x_demo:acomulacion_volumen:brep_6
+    2300088: y_raiz_x_demo:acomulacion_volumen:brep_7
+    2300090: y_raiz_x_demo:acomulacion_volumen:brep_8
+    2300092: y_raiz_x_demo:acomulacion_volumen:brep_9
+    3300000: polySurface16
+    3300002: polySurface9
+    3300004: Trim_Char_d_5_1
+    3300006: Trim_Char_d_6_1
+    3300008: Trim_Char_f_4_1
+    3300010: Trim_Char_p_2_2
+    3300012: Trim_Char_V_1_1
+    3300014: Trim_Char_x_11_1
+    3300016: Trim_Char_x_14_1
+    3300018: Trim_Char_x_15_1
+    3300020: Trim_Char_x_3_3
+    3300022: Trim_Char_x_3_4
+    3300024: Trim_Char_x_4_3
+    3300026: Trim_Char_x_4_4
+    3300028: Trim_Char_x_8_1
+    3300030: y_raiz_x_demo:acomulacion_volumen:brep_1
+    3300032: y_raiz_x_demo:acomulacion_volumen:brep_10
+    3300034: y_raiz_x_demo:acomulacion_volumen:brep_11
+    3300036: y_raiz_x_demo:acomulacion_volumen:brep_12
+    3300038: y_raiz_x_demo:acomulacion_volumen:brep_13
+    3300040: y_raiz_x_demo:acomulacion_volumen:brep_14
+    3300042: y_raiz_x_demo:acomulacion_volumen:brep_15
+    3300044: y_raiz_x_demo:acomulacion_volumen:brep_16
+    3300046: y_raiz_x_demo:acomulacion_volumen:brep_17
+    3300048: y_raiz_x_demo:acomulacion_volumen:brep_18
+    3300050: y_raiz_x_demo:acomulacion_volumen:brep_19
+    3300052: y_raiz_x_demo:acomulacion_volumen:brep_2
+    3300054: y_raiz_x_demo:acomulacion_volumen:brep_20
+    3300056: y_raiz_x_demo:acomulacion_volumen:brep_21
+    3300058: y_raiz_x_demo:acomulacion_volumen:brep_22
+    3300060: y_raiz_x_demo:acomulacion_volumen:brep_23
+    3300062: y_raiz_x_demo:acomulacion_volumen:brep_24
+    3300064: y_raiz_x_demo:acomulacion_volumen:brep_25
+    3300066: y_raiz_x_demo:acomulacion_volumen:brep_26
+    3300068: y_raiz_x_demo:acomulacion_volumen:brep_27
+    3300070: y_raiz_x_demo:acomulacion_volumen:brep_28
+    3300072: y_raiz_x_demo:acomulacion_volumen:brep_29
+    3300074: y_raiz_x_demo:acomulacion_volumen:brep_3
+    3300076: y_raiz_x_demo:acomulacion_volumen:brep_30
+    3300078: y_raiz_x_demo:acomulacion_volumen:brep_31
+    3300080: y_raiz_x_demo:acomulacion_volumen:brep_32
+    3300082: y_raiz_x_demo:acomulacion_volumen:brep_4
+    3300084: y_raiz_x_demo:acomulacion_volumen:brep_5
+    3300086: y_raiz_x_demo:acomulacion_volumen:brep_6
+    3300088: y_raiz_x_demo:acomulacion_volumen:brep_7
+    3300090: y_raiz_x_demo:acomulacion_volumen:brep_8
+    3300092: y_raiz_x_demo:acomulacion_volumen:brep_9
+    4300000: y_raiz_x_demo:acomulacion_volumen:brep_1
+    4300002: y_raiz_x_demo:acomulacion_volumen:brep_2
+    4300004: y_raiz_x_demo:acomulacion_volumen:brep_3
+    4300006: y_raiz_x_demo:acomulacion_volumen:brep_4
+    4300008: y_raiz_x_demo:acomulacion_volumen:brep_5
+    4300010: y_raiz_x_demo:acomulacion_volumen:brep_6
+    4300012: y_raiz_x_demo:acomulacion_volumen:brep_7
+    4300014: y_raiz_x_demo:acomulacion_volumen:brep_8
+    4300016: y_raiz_x_demo:acomulacion_volumen:brep_9
+    4300018: y_raiz_x_demo:acomulacion_volumen:brep_10
+    4300020: y_raiz_x_demo:acomulacion_volumen:brep_11
+    4300022: y_raiz_x_demo:acomulacion_volumen:brep_12
+    4300024: y_raiz_x_demo:acomulacion_volumen:brep_13
+    4300026: y_raiz_x_demo:acomulacion_volumen:brep_14
+    4300028: y_raiz_x_demo:acomulacion_volumen:brep_15
+    4300030: y_raiz_x_demo:acomulacion_volumen:brep_16
+    4300032: y_raiz_x_demo:acomulacion_volumen:brep_17
+    4300034: y_raiz_x_demo:acomulacion_volumen:brep_18
+    4300036: y_raiz_x_demo:acomulacion_volumen:brep_19
+    4300038: y_raiz_x_demo:acomulacion_volumen:brep_20
+    4300040: y_raiz_x_demo:acomulacion_volumen:brep_21
+    4300042: y_raiz_x_demo:acomulacion_volumen:brep_22
+    4300044: y_raiz_x_demo:acomulacion_volumen:brep_23
+    4300046: y_raiz_x_demo:acomulacion_volumen:brep_24
+    4300048: y_raiz_x_demo:acomulacion_volumen:brep_25
+    4300050: y_raiz_x_demo:acomulacion_volumen:brep_26
+    4300052: y_raiz_x_demo:acomulacion_volumen:brep_27
+    4300054: y_raiz_x_demo:acomulacion_volumen:brep_28
+    4300056: y_raiz_x_demo:acomulacion_volumen:brep_29
+    4300058: y_raiz_x_demo:acomulacion_volumen:brep_30
+    4300060: y_raiz_x_demo:acomulacion_volumen:brep_31
+    4300062: y_raiz_x_demo:acomulacion_volumen:brep_32
+    4300064: Trim_Char_p_2_2
+    4300066: polySurface9
+    4300068: Trim_Char_x_3_3
+    4300070: Trim_Char_x_3_4
+    4300072: Trim_Char_x_4_3
+    4300074: Trim_Char_x_4_4
+    4300076: Trim_Char_f_4_1
+    4300078: Trim_Char_x_11_1
+    4300080: Trim_Char_x_14_1
+    4300082: Trim_Char_d_6_1
+    4300084: Trim_Char_x_15_1
+    4300086: Trim_Char_d_5_1
+    4300088: Trim_Char_x_8_1
+    4300090: Trim_Char_V_1_1
+    4300092: polySurface16
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: Trim_Char_d_5_1
+        weight: 1
+      - path: Trim_Char_p_2_2
+        weight: 1
+      - path: Trim_Char_V_1_1
+        weight: 1
+      - path: Trim_Char_x_3_3
+        weight: 1
+      - path: Trim_Char_x_3_4
+        weight: 1
+      - path: Trim_Char_x_4_3
+        weight: 1
+      - path: Trim_Char_x_4_4
+        weight: 1
+      - path: Trim_Char_x_8_1
+        weight: 1
+      - path: Trim_Text_dvxxxxfxxxxxxxdx_1_1
+        weight: 1
+      - path: Trim_Text_dvxxxxfxxxxxxxdx_1_1/Trim_Char_d_6_1
+        weight: 1
+      - path: Trim_Text_dvxxxxfxxxxxxxdx_1_1/Trim_Char_f_4_1
+        weight: 1
+      - path: Trim_Text_dvxxxxfxxxxxxxdx_1_1/Trim_Char_x_11_1
+        weight: 1
+      - path: Trim_Text_dvxxxxfxxxxxxxdx_1_1/Trim_Char_x_14_1
+        weight: 1
+      - path: Trim_Text_dvxxxxfxxxxxxxdx_1_1/Trim_Char_x_15_1
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_1
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_2
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_3
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_4
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_5
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_6
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_7
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_8
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_9
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_10
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_11
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_12
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_13
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_14
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_15
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_16
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_17
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_18
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_19
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_20
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_21
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_22
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_23
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_24
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_25
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_26
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_27
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_28
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_29
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_30
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_31
+        weight: 1
+      - path: y_raiz_x_demo:acomulacion_volumen:brep_32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

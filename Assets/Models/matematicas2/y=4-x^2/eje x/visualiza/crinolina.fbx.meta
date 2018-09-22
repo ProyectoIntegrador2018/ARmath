@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 4fe8bd78222bd114aadcf9eafe3a149e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: crinolina10
+    100004: crinolina11
+    100006: crinolina12
+    100008: crinolina13
+    100010: crinolina14
+    100012: crinolina15
+    100014: crinolina16
+    100016: crinolina17
+    100018: crinolina18
+    100020: crinolina19
+    100022: crinolina2
+    100024: crinolina20
+    100026: crinolina21
+    100028: crinolina22
+    100030: crinolina23
+    100032: crinolina24
+    100034: crinolina25
+    100036: crinolina26
+    100038: crinolina27
+    100040: crinolina28
+    100042: crinolina29
+    100044: crinolina3
+    100046: crinolina30
+    100048: crinolina31
+    100050: crinolina32
+    100052: crinolina33
+    100054: crinolina4
+    100056: crinolina5
+    100058: crinolina6
+    100060: crinolina7
+    100062: crinolina8
+    100064: crinolina9
+    400000: //RootNode
+    400002: crinolina10
+    400004: crinolina11
+    400006: crinolina12
+    400008: crinolina13
+    400010: crinolina14
+    400012: crinolina15
+    400014: crinolina16
+    400016: crinolina17
+    400018: crinolina18
+    400020: crinolina19
+    400022: crinolina2
+    400024: crinolina20
+    400026: crinolina21
+    400028: crinolina22
+    400030: crinolina23
+    400032: crinolina24
+    400034: crinolina25
+    400036: crinolina26
+    400038: crinolina27
+    400040: crinolina28
+    400042: crinolina29
+    400044: crinolina3
+    400046: crinolina30
+    400048: crinolina31
+    400050: crinolina32
+    400052: crinolina33
+    400054: crinolina4
+    400056: crinolina5
+    400058: crinolina6
+    400060: crinolina7
+    400062: crinolina8
+    400064: crinolina9
+    2300000: crinolina10
+    2300002: crinolina11
+    2300004: crinolina12
+    2300006: crinolina13
+    2300008: crinolina14
+    2300010: crinolina15
+    2300012: crinolina16
+    2300014: crinolina17
+    2300016: crinolina18
+    2300018: crinolina19
+    2300020: crinolina2
+    2300022: crinolina20
+    2300024: crinolina21
+    2300026: crinolina22
+    2300028: crinolina23
+    2300030: crinolina24
+    2300032: crinolina25
+    2300034: crinolina26
+    2300036: crinolina27
+    2300038: crinolina28
+    2300040: crinolina29
+    2300042: crinolina3
+    2300044: crinolina30
+    2300046: crinolina31
+    2300048: crinolina32
+    2300050: crinolina33
+    2300052: crinolina4
+    2300054: crinolina5
+    2300056: crinolina6
+    2300058: crinolina7
+    2300060: crinolina8
+    2300062: crinolina9
+    3300000: crinolina10
+    3300002: crinolina11
+    3300004: crinolina12
+    3300006: crinolina13
+    3300008: crinolina14
+    3300010: crinolina15
+    3300012: crinolina16
+    3300014: crinolina17
+    3300016: crinolina18
+    3300018: crinolina19
+    3300020: crinolina2
+    3300022: crinolina20
+    3300024: crinolina21
+    3300026: crinolina22
+    3300028: crinolina23
+    3300030: crinolina24
+    3300032: crinolina25
+    3300034: crinolina26
+    3300036: crinolina27
+    3300038: crinolina28
+    3300040: crinolina29
+    3300042: crinolina3
+    3300044: crinolina30
+    3300046: crinolina31
+    3300048: crinolina32
+    3300050: crinolina33
+    3300052: crinolina4
+    3300054: crinolina5
+    3300056: crinolina6
+    3300058: crinolina7
+    3300060: crinolina8
+    3300062: crinolina9
+    4300000: crinolina2
+    4300002: crinolina3
+    4300004: crinolina4
+    4300006: crinolina5
+    4300008: crinolina6
+    4300010: crinolina7
+    4300012: crinolina8
+    4300014: crinolina9
+    4300016: crinolina10
+    4300018: crinolina11
+    4300020: crinolina12
+    4300022: crinolina13
+    4300024: crinolina14
+    4300026: crinolina15
+    4300028: crinolina16
+    4300030: crinolina17
+    4300032: crinolina18
+    4300034: crinolina19
+    4300036: crinolina20
+    4300038: crinolina21
+    4300040: crinolina22
+    4300042: crinolina23
+    4300044: crinolina24
+    4300046: crinolina25
+    4300048: crinolina26
+    4300050: crinolina27
+    4300052: crinolina28
+    4300054: crinolina29
+    4300056: crinolina30
+    4300058: crinolina31
+    4300060: crinolina32
+    4300062: crinolina33
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: crinolina2
+        weight: 1
+      - path: crinolina3
+        weight: 1
+      - path: crinolina4
+        weight: 1
+      - path: crinolina5
+        weight: 1
+      - path: crinolina6
+        weight: 1
+      - path: crinolina7
+        weight: 1
+      - path: crinolina8
+        weight: 1
+      - path: crinolina9
+        weight: 1
+      - path: crinolina10
+        weight: 1
+      - path: crinolina11
+        weight: 1
+      - path: crinolina12
+        weight: 1
+      - path: crinolina13
+        weight: 1
+      - path: crinolina14
+        weight: 1
+      - path: crinolina15
+        weight: 1
+      - path: crinolina16
+        weight: 1
+      - path: crinolina17
+        weight: 1
+      - path: crinolina18
+        weight: 1
+      - path: crinolina19
+        weight: 1
+      - path: crinolina20
+        weight: 1
+      - path: crinolina21
+        weight: 1
+      - path: crinolina22
+        weight: 1
+      - path: crinolina23
+        weight: 1
+      - path: crinolina24
+        weight: 1
+      - path: crinolina25
+        weight: 1
+      - path: crinolina26
+        weight: 1
+      - path: crinolina27
+        weight: 1
+      - path: crinolina28
+        weight: 1
+      - path: crinolina29
+        weight: 1
+      - path: crinolina30
+        weight: 1
+      - path: crinolina31
+        weight: 1
+      - path: crinolina32
+        weight: 1
+      - path: crinolina33
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARMAth/Scenes/GameScenes/Matematicas1/Circular/sqrt(1-x^2)+k.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 73fdf20fcb21b564b9e2b496fb82c5f6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: SENOIDAL
+    100002: //RootNode
+    100004: SENOIDAL1
+    100006: SENOIDAL10
+    100008: SENOIDAL11
+    100010: SENOIDAL12
+    100012: SENOIDAL13
+    100014: SENOIDAL14
+    100016: SENOIDAL15
+    100018: SENOIDAL16
+    100020: SENOIDAL17
+    100022: SENOIDAL18
+    100024: SENOIDAL19
+    100026: SENOIDAL2
+    100028: SENOIDAL20
+    100030: SENOIDAL21
+    100032: SENOIDAL22
+    100034: SENOIDAL23
+    100036: SENOIDAL24
+    100038: SENOIDAL25
+    100040: SENOIDAL26
+    100042: SENOIDAL27
+    100044: SENOIDAL28
+    100046: SENOIDAL29
+    100048: SENOIDAL3
+    100050: SENOIDAL30
+    100052: SENOIDAL31
+    100054: SENOIDAL32
+    100056: SENOIDAL33
+    100058: SENOIDAL34
+    100060: SENOIDAL35
+    100062: SENOIDAL36
+    100064: SENOIDAL37
+    100066: SENOIDAL38
+    100068: SENOIDAL39
+    100070: SENOIDAL4
+    100072: SENOIDAL40
+    100074: SENOIDAL41
+    100076: SENOIDAL42
+    100078: SENOIDAL43
+    100080: SENOIDAL44
+    100082: SENOIDAL45
+    100084: SENOIDAL46
+    100086: SENOIDAL47
+    100088: SENOIDAL48
+    100090: SENOIDAL49
+    100092: SENOIDAL5
+    100094: SENOIDAL50
+    100096: SENOIDAL51
+    100098: SENOIDAL52
+    100100: SENOIDAL53
+    100102: SENOIDAL6
+    100104: SENOIDAL7
+    100106: SENOIDAL8
+    100108: SENOIDAL9
+    400000: SENOIDAL
+    400002: //RootNode
+    400004: SENOIDAL1
+    400006: SENOIDAL10
+    400008: SENOIDAL11
+    400010: SENOIDAL12
+    400012: SENOIDAL13
+    400014: SENOIDAL14
+    400016: SENOIDAL15
+    400018: SENOIDAL16
+    400020: SENOIDAL17
+    400022: SENOIDAL18
+    400024: SENOIDAL19
+    400026: SENOIDAL2
+    400028: SENOIDAL20
+    400030: SENOIDAL21
+    400032: SENOIDAL22
+    400034: SENOIDAL23
+    400036: SENOIDAL24
+    400038: SENOIDAL25
+    400040: SENOIDAL26
+    400042: SENOIDAL27
+    400044: SENOIDAL28
+    400046: SENOIDAL29
+    400048: SENOIDAL3
+    400050: SENOIDAL30
+    400052: SENOIDAL31
+    400054: SENOIDAL32
+    400056: SENOIDAL33
+    400058: SENOIDAL34
+    400060: SENOIDAL35
+    400062: SENOIDAL36
+    400064: SENOIDAL37
+    400066: SENOIDAL38
+    400068: SENOIDAL39
+    400070: SENOIDAL4
+    400072: SENOIDAL40
+    400074: SENOIDAL41
+    400076: SENOIDAL42
+    400078: SENOIDAL43
+    400080: SENOIDAL44
+    400082: SENOIDAL45
+    400084: SENOIDAL46
+    400086: SENOIDAL47
+    400088: SENOIDAL48
+    400090: SENOIDAL49
+    400092: SENOIDAL5
+    400094: SENOIDAL50
+    400096: SENOIDAL51
+    400098: SENOIDAL52
+    400100: SENOIDAL53
+    400102: SENOIDAL6
+    400104: SENOIDAL7
+    400106: SENOIDAL8
+    400108: SENOIDAL9
+    2300000: SENOIDAL
+    2300002: SENOIDAL1
+    2300004: SENOIDAL10
+    2300006: SENOIDAL11
+    2300008: SENOIDAL12
+    2300010: SENOIDAL13
+    2300012: SENOIDAL14
+    2300014: SENOIDAL15
+    2300016: SENOIDAL16
+    2300018: SENOIDAL17
+    2300020: SENOIDAL18
+    2300022: SENOIDAL19
+    2300024: SENOIDAL2
+    2300026: SENOIDAL20
+    2300028: SENOIDAL21
+    2300030: SENOIDAL22
+    2300032: SENOIDAL23
+    2300034: SENOIDAL24
+    2300036: SENOIDAL25
+    2300038: SENOIDAL26
+    2300040: SENOIDAL27
+    2300042: SENOIDAL28
+    2300044: SENOIDAL29
+    2300046: SENOIDAL3
+    2300048: SENOIDAL30
+    2300050: SENOIDAL31
+    2300052: SENOIDAL32
+    2300054: SENOIDAL33
+    2300056: SENOIDAL34
+    2300058: SENOIDAL35
+    2300060: SENOIDAL36
+    2300062: SENOIDAL37
+    2300064: SENOIDAL38
+    2300066: SENOIDAL39
+    2300068: SENOIDAL4
+    2300070: SENOIDAL40
+    2300072: SENOIDAL41
+    2300074: SENOIDAL42
+    2300076: SENOIDAL43
+    2300078: SENOIDAL44
+    2300080: SENOIDAL45
+    2300082: SENOIDAL46
+    2300084: SENOIDAL47
+    2300086: SENOIDAL48
+    2300088: SENOIDAL49
+    2300090: SENOIDAL5
+    2300092: SENOIDAL50
+    2300094: SENOIDAL51
+    2300096: SENOIDAL52
+    2300098: SENOIDAL53
+    2300100: SENOIDAL6
+    2300102: SENOIDAL7
+    2300104: SENOIDAL8
+    2300106: SENOIDAL9
+    3300000: SENOIDAL
+    3300002: SENOIDAL1
+    3300004: SENOIDAL10
+    3300006: SENOIDAL11
+    3300008: SENOIDAL12
+    3300010: SENOIDAL13
+    3300012: SENOIDAL14
+    3300014: SENOIDAL15
+    3300016: SENOIDAL16
+    3300018: SENOIDAL17
+    3300020: SENOIDAL18
+    3300022: SENOIDAL19
+    3300024: SENOIDAL2
+    3300026: SENOIDAL20
+    3300028: SENOIDAL21
+    3300030: SENOIDAL22
+    3300032: SENOIDAL23
+    3300034: SENOIDAL24
+    3300036: SENOIDAL25
+    3300038: SENOIDAL26
+    3300040: SENOIDAL27
+    3300042: SENOIDAL28
+    3300044: SENOIDAL29
+    3300046: SENOIDAL3
+    3300048: SENOIDAL30
+    3300050: SENOIDAL31
+    3300052: SENOIDAL32
+    3300054: SENOIDAL33
+    3300056: SENOIDAL34
+    3300058: SENOIDAL35
+    3300060: SENOIDAL36
+    3300062: SENOIDAL37
+    3300064: SENOIDAL38
+    3300066: SENOIDAL39
+    3300068: SENOIDAL4
+    3300070: SENOIDAL40
+    3300072: SENOIDAL41
+    3300074: SENOIDAL42
+    3300076: SENOIDAL43
+    3300078: SENOIDAL44
+    3300080: SENOIDAL45
+    3300082: SENOIDAL46
+    3300084: SENOIDAL47
+    3300086: SENOIDAL48
+    3300088: SENOIDAL49
+    3300090: SENOIDAL5
+    3300092: SENOIDAL50
+    3300094: SENOIDAL51
+    3300096: SENOIDAL52
+    3300098: SENOIDAL53
+    3300100: SENOIDAL6
+    3300102: SENOIDAL7
+    3300104: SENOIDAL8
+    3300106: SENOIDAL9
+    4300000: SENOIDAL
+    4300002: SENOIDAL1
+    4300004: SENOIDAL2
+    4300006: SENOIDAL3
+    4300008: SENOIDAL4
+    4300010: SENOIDAL5
+    4300012: SENOIDAL6
+    4300014: SENOIDAL7
+    4300016: SENOIDAL8
+    4300018: SENOIDAL9
+    4300020: SENOIDAL10
+    4300022: SENOIDAL11
+    4300024: SENOIDAL12
+    4300026: SENOIDAL13
+    4300028: SENOIDAL14
+    4300030: SENOIDAL15
+    4300032: SENOIDAL16
+    4300034: SENOIDAL17
+    4300036: SENOIDAL18
+    4300038: SENOIDAL19
+    4300040: SENOIDAL20
+    4300042: SENOIDAL21
+    4300044: SENOIDAL22
+    4300046: SENOIDAL23
+    4300048: SENOIDAL24
+    4300050: SENOIDAL25
+    4300052: SENOIDAL26
+    4300054: SENOIDAL27
+    4300056: SENOIDAL28
+    4300058: SENOIDAL29
+    4300060: SENOIDAL30
+    4300062: SENOIDAL31
+    4300064: SENOIDAL32
+    4300066: SENOIDAL33
+    4300068: SENOIDAL34
+    4300070: SENOIDAL35
+    4300072: SENOIDAL36
+    4300074: SENOIDAL37
+    4300076: SENOIDAL38
+    4300078: SENOIDAL39
+    4300080: SENOIDAL40
+    4300082: SENOIDAL41
+    4300084: SENOIDAL42
+    4300086: SENOIDAL43
+    4300088: SENOIDAL44
+    4300090: SENOIDAL45
+    4300092: SENOIDAL46
+    4300094: SENOIDAL47
+    4300096: SENOIDAL48
+    4300098: SENOIDAL49
+    4300100: SENOIDAL50
+    4300102: SENOIDAL51
+    4300104: SENOIDAL52
+    4300106: SENOIDAL53
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SENOIDAL
+        weight: 1
+      - path: SENOIDAL1
+        weight: 1
+      - path: SENOIDAL2
+        weight: 1
+      - path: SENOIDAL3
+        weight: 1
+      - path: SENOIDAL4
+        weight: 1
+      - path: SENOIDAL5
+        weight: 1
+      - path: SENOIDAL6
+        weight: 1
+      - path: SENOIDAL7
+        weight: 1
+      - path: SENOIDAL8
+        weight: 1
+      - path: SENOIDAL9
+        weight: 1
+      - path: SENOIDAL10
+        weight: 1
+      - path: SENOIDAL11
+        weight: 1
+      - path: SENOIDAL12
+        weight: 1
+      - path: SENOIDAL13
+        weight: 1
+      - path: SENOIDAL14
+        weight: 1
+      - path: SENOIDAL15
+        weight: 1
+      - path: SENOIDAL16
+        weight: 1
+      - path: SENOIDAL17
+        weight: 1
+      - path: SENOIDAL18
+        weight: 1
+      - path: SENOIDAL19
+        weight: 1
+      - path: SENOIDAL20
+        weight: 1
+      - path: SENOIDAL21
+        weight: 1
+      - path: SENOIDAL22
+        weight: 1
+      - path: SENOIDAL23
+        weight: 1
+      - path: SENOIDAL24
+        weight: 1
+      - path: SENOIDAL25
+        weight: 1
+      - path: SENOIDAL26
+        weight: 1
+      - path: SENOIDAL27
+        weight: 1
+      - path: SENOIDAL28
+        weight: 1
+      - path: SENOIDAL29
+        weight: 1
+      - path: SENOIDAL30
+        weight: 1
+      - path: SENOIDAL31
+        weight: 1
+      - path: SENOIDAL32
+        weight: 1
+      - path: SENOIDAL33
+        weight: 1
+      - path: SENOIDAL34
+        weight: 1
+      - path: SENOIDAL35
+        weight: 1
+      - path: SENOIDAL36
+        weight: 1
+      - path: SENOIDAL37
+        weight: 1
+      - path: SENOIDAL38
+        weight: 1
+      - path: SENOIDAL39
+        weight: 1
+      - path: SENOIDAL40
+        weight: 1
+      - path: SENOIDAL41
+        weight: 1
+      - path: SENOIDAL42
+        weight: 1
+      - path: SENOIDAL43
+        weight: 1
+      - path: SENOIDAL44
+        weight: 1
+      - path: SENOIDAL45
+        weight: 1
+      - path: SENOIDAL46
+        weight: 1
+      - path: SENOIDAL47
+        weight: 1
+      - path: SENOIDAL48
+        weight: 1
+      - path: SENOIDAL49
+        weight: 1
+      - path: SENOIDAL50
+        weight: 1
+      - path: SENOIDAL51
+        weight: 1
+      - path: SENOIDAL52
+        weight: 1
+      - path: SENOIDAL53
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

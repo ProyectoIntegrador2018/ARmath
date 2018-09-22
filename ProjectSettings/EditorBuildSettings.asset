@@ -6,15 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HomeScene.unity
+    path: Assets/ARMAth/Scenes/Menu/MainMenu.unity
+    guid: dbfa1fdc19c9b46edba015a0d8dd8dfb
+  - enabled: 1
+    path: Assets/ARMAth/Scenes/MainScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Scenes/AboutScene.unity
-    guid: c99588bffcbd54c6688e29577bb52c52
-  - enabled: 1
-    path: Assets/Scenes/ARCamera.unity
-    guid: c2748c8b0de5b4639a1ed9ae267e561e
-  - enabled: 1
-    path: Assets/Scenes/GraphOptions.unity
-    guid: 2842bef63f3134bd8a17cc4c1ae213c2
   m_configObjects: {}
