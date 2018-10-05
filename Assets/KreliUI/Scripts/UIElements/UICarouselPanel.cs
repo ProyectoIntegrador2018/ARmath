@@ -68,13 +68,6 @@ namespace KreliStudio {
         private List<Transform> _items = new List<Transform>();
         private List<Image> _icons = new List<Image>();
 
-
-
-        void Start()
-        {
-            Init();
-        }
-
         //------------------------------------------------------------------------
         public void Init()
         {

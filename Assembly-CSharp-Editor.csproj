@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{8E46926A-514E-4ED5-CC3A-27B03B70FB6B}</ProjectGuid>
+    <ProjectGuid>{00CC93EC-9C31-DCF5-F652-509F4A7FD5EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -81,16 +81,16 @@
     <None Include="Assets\Editor\Vuforia\ForPrint\ModelTarget\readme_3dprint.txt" />
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -398,7 +398,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{F0DF2015-6898-9AAA-82F9-D91EAAC0B869}</Project>
+      <Project>{15817E87-F721-4F11-8D1C-D4689A4FB1F1}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

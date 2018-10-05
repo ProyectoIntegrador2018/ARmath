@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{F0DF2015-6898-9AAA-82F9-D91EAAC0B869}</ProjectGuid>
+    <ProjectGuid>{15817E87-F721-4F11-8D1C-D4689A4FB1F1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,9 +63,16 @@
   <ItemGroup>
     <Compile Include="Assets\ARMAth\Scripts\AnimationPlayback.cs" />
     <Compile Include="Assets\ARMAth\Scripts\CullingPlaneMovement.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\DataModel\MainTopic.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\DataModel\Topic.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\DataModel\TopicList.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\ModelManager.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\SceneTransition.cs" />
     <Compile Include="Assets\ARMAth\Scripts\StreamVideo.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\TopicManager.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffectss\ListPool.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffectss\ObjectPool.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffectss\Shadow.cs" />
     <Compile Include="Assets\ARMAth\Scripts\VideoResize.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\PositionController.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\RotationController.cs" />
@@ -99,6 +106,12 @@
     <Compile Include="Assets\KreliUI\Scripts\UIElements\UISceneManager.cs" />
     <Compile Include="Assets\KreliUI\Scripts\UIElements\UIScreen.cs" />
     <Compile Include="Assets\KreliUI\Scripts\UIElements\UISidePanel.cs" />
+    <Compile Include="Assets\Scripts\SetDirty.cs" />
+    <Compile Include="Assets\Scripts\UICornersGradient.cs" />
+    <Compile Include="Assets\Scripts\UIGradient.cs" />
+    <Compile Include="Assets\Scripts\UIGradientUtils.cs" />
+    <Compile Include="Assets\Scripts\UITextCornersGradient.cs" />
+    <Compile Include="Assets\Scripts\UITextGradient.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
@@ -123,16 +136,16 @@
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMathV2.0/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/ruben/Documents/Ago-Dic 2018/Proyecto Integrador/ARMath/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

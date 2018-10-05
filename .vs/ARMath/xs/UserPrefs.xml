@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{15817E87-F721-4F11-8D1C-D4689A4FB1F1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ARMAth/Scripts/MenuManagers/MainMenuLoader.cs">
+    <Files>
+      <File FileName="Assets/ARMAth/Scripts/MenuManagers/MainMenuLoader.cs" Line="13" Column="9" />
+      <File FileName="Assets/KreliUI/Scripts/UIElements/UICarouselPanel.cs" Line="70" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
