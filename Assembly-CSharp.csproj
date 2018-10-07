@@ -67,9 +67,11 @@
     <Compile Include="Assets\ARMAth\Scripts\DataModel\Topic.cs" />
     <Compile Include="Assets\ARMAth\Scripts\DataModel\TopicList.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuLoader.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\ScreenLoader.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\SubMenuLoader.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicManager.cs" />
     <Compile Include="Assets\ARMAth\Scripts\ModelManager.cs" />
     <Compile Include="Assets\ARMAth\Scripts\StreamVideo.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\TopicManager.cs" />
     <Compile Include="Assets\ARMAth\Scripts\UIEffectss\ListPool.cs" />
     <Compile Include="Assets\ARMAth\Scripts\UIEffectss\ObjectPool.cs" />
     <Compile Include="Assets\ARMAth\Scripts\UIEffectss\Shadow.cs" />

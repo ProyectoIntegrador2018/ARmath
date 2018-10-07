@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 614cae979af6646e796fd3d57edf9d71, type: 3}
   m_Name: Parabola
   m_EditorClassIdentifier: 
-  listName: Parabola
+  listName: "Parab\xF3lica"
   topics:
   - {fileID: 11400000, guid: 6dcaa3a9a28fd4673a34fdd4adfe5fb3, type: 2}

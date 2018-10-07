@@ -27,20 +27,22 @@ namespace KreliStudio
 
             for (int i = 0; i < numberOfElements; i++)
             {
-                /*
-               
+                //Screen to move to
+               GameObject screenToMove = GameObject.Find("UIScreensGroup").GetComponent<ScreenLoader>().getGameScreenAt(i);
+
+                //Actions setup
                 Actions buttonActions = new Actions();
                 buttonActions.isUIScreen = true;
-
                 buttonActions.uiScreenIndex = 0;
                 buttonActions.uiScreen = screenToMove.GetComponent<UIScreen>();
-                */
 
+
+                //Instance of button
                 GameObject clone = Instantiate(buttonPrefab, this.transform);
                 clone.transform.parent = this.transform;
 
-                //clone.GetComponent<UIButton>().actionsOnClick = buttonActions;
-
+                //Setting up button configuration
+                clone.GetComponent<UIButton>().actionsOnClick = buttonActions;
                 RectTransform rectTranform = clone.GetComponent<RectTransform>();
                 Text cloneText = clone.GetComponentInChildren<Text>();
                 cloneText.text = topicMananger.GetComponent<TopicManager>().topics[i].topicName;
