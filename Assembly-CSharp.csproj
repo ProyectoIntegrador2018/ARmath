@@ -66,6 +66,7 @@
     <Compile Include="Assets\ARMAth\Scripts\DataModel\MainTopic.cs" />
     <Compile Include="Assets\ARMAth\Scripts\DataModel\Topic.cs" />
     <Compile Include="Assets\ARMAth\Scripts\DataModel\TopicList.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\DynamicGrid.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\ScreenLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\SubMenuLoader.cs" />

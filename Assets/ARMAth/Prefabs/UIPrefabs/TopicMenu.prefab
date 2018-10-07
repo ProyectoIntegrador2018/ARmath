@@ -179,8 +179,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   carouselPanel: {fileID: 1805015368596178}
-  buttonPrefab: {fileID: 1834970342868320, guid: c7c14211f71924852bd367569b431299,
+  buttonPrefab: {fileID: 1745055493116056, guid: c7c14211f71924852bd367569b431299,
     type: 2}
+  subMenuButtonPrefab: {fileID: 1267128241167096, guid: a80723202b6ef421ab517d2faea35153,
+    type: 2}
+  screenToMove: {fileID: 0}
 --- !u!114 &114397953164731222
 MonoBehaviour:
   m_ObjectHideFlags: 1

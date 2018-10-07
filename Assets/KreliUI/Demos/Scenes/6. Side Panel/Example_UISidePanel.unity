@@ -23588,7 +23588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a6fe784f8ab3f642bb44ec5196ba01a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startScene: 0
+  startScene: -1
   previousScene:
     scene: {fileID: 0}
     buildIndex: 0
@@ -23624,7 +23624,7 @@ MonoBehaviour:
         PublicKeyToken=null
   sceneProperties:
   - scene: {fileID: 102900000, guid: fec4aa2e8b110d340ad40e7dd9af1dfd, type: 3}
-    buildIndex: 0
+    buildIndex: -1
     isLoadingScreen: 1
     loadingScreenIndex: 0
     loadSceneMode: 0
