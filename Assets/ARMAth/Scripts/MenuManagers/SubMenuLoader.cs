@@ -40,9 +40,12 @@ public class SubMenuLoader : MonoBehaviour {
 
     private void LoadButtons(GameObject clone, TopicList topicList){
 
-        foreach(Topic topic in topicList.topics){
+        GameObject container = clone.transform.Find("ButtonPanel").gameObject;
+        container.GetComponent<DynamicGrid>().setNumberOfButtons(topicList.topics.Count);
+
+        foreach (Topic topic in topicList.topics){
             GameObject buttonClone = Instantiate(subMenuButtonPrefab, this.transform);
-            GameObject container = clone.transform.Find("ButtonPanel").gameObject;
+
             buttonClone.transform.parent = container.transform;
 
             Text cloneText = buttonClone.GetComponentInChildren<Text>();
@@ -56,6 +59,8 @@ public class SubMenuLoader : MonoBehaviour {
             buttonActions.uiScreen = screenToMove.GetComponent<UIScreen>();
             buttonClone.GetComponent<UIButton>().actionsOnClick = buttonActions;
 
+            buttonClone.GetComponent<TopicButtonSettings>().SetSelectedTopic(topic);
+            buttonClone.GetComponent<TopicButtonSettings>().SetActions();
         }
 
 

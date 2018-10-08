@@ -11,6 +11,11 @@ public class DynamicGrid : MonoBehaviour {
 
     void Update()
     {
+
+        if(numberOfButtons < 3){
+            numberOfButtons = 3;
+        }
+
         float width = this.GetComponent<RectTransform>().rect.width;
         float height = this.GetComponent<RectTransform>().rect.height;
         Vector2 newSize = new Vector2(width - width * 0.05f, (height/numberOfButtons) - (height / numberOfButtons) * 0.05F);

@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 222385124009840264}
   - component: {fileID: 114375661401834694}
   - component: {fileID: 114660182477542778}
+  - component: {fileID: 114570091492070720}
   m_Layer: 5
   m_Name: TopicButton
   m_TagString: Untagged
@@ -106,6 +107,17 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: UI Button
+--- !u!114 &114570091492070720
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1267128241167096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6158499417c450fb97aab746ebad2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114660182477542778
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -150,14 +162,14 @@ MonoBehaviour:
   actionsOnClick:
     parent: {fileID: 0}
     isOpen: 1
-    isEventOpen: 0
+    isEventOpen: 1
     isUIScreenOpen: 1
     isSceneLoaderOpen: 0
     startPoint: {x: -0, y: 0, z: 0}
     endPoint: {x: -2, y: 2, z: 0}
     startTangent: {x: 0, y: 0, z: 0}
     endTangent: {x: 0, y: 0, z: 0}
-    isEvent: 0
+    isEvent: 1
     unityEvent:
       m_PersistentCalls:
         m_Calls: []
@@ -343,6 +355,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 56.322845, y: -50}
+  m_AnchoredPosition: {x: 50.161034, y: -50}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}

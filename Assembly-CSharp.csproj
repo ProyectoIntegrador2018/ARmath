@@ -61,22 +61,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ARMAth\Scripts\AnimationPlayback.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\CullingPlaneMovement.cs" />
     <Compile Include="Assets\ARMAth\Scripts\DataModel\MainTopic.cs" />
     <Compile Include="Assets\ARMAth\Scripts\DataModel\Topic.cs" />
     <Compile Include="Assets\ARMAth\Scripts\DataModel\TopicList.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\DynamicGrid.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\LayoutManager.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuDynamicGrid.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\ScreenLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\SubMenuLoader.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicButtonSettings.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicManager.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\ModelManager.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\StreamVideo.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\UIEffectss\ListPool.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\UIEffectss\ObjectPool.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\UIEffectss\Shadow.cs" />
-    <Compile Include="Assets\ARMAth\Scripts\VideoResize.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelEventHandler.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelManager.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\StreamVideo.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\VideoResize.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffects\ListPool.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffects\ObjectPool.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffects\Shadow.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\PositionController.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\RotationController.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\SliderValueToText.cs" />
