@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e77384fa63e24249918220f1d94937e, type: 3}
+  m_Name: y=sqrt(k^2-x^2)
+  m_EditorClassIdentifier: 
+  topicName: y=sqrt(k^2-x^2)
+  layoutType: 0
+  videoClip: {fileID: 32900000, guid: 6c4e0b8d99bc84c3793ea5f976c315ab, type: 3}
+  grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
+  models:
+  - {fileID: 1336391086092486, guid: 7f1cd42cec6ad4006a57ab06c1cf41d0, type: 2}
+  - {fileID: 1577007174965226, guid: ba79aa3cf05e3410eac1ae946c9a32e4, type: 2}
+  - {fileID: 1815052276968070, guid: bea945925888f4229bcfeec513278f0a, type: 2}
+  - {fileID: 1556393269751962, guid: b6f97e946720446c7a96e4c1d28e69a4, type: 2}
+  overridesGrid: 00000000
+  buttonText:
+  - k<1
+  - 3D
+  - k<1
+  - 3D

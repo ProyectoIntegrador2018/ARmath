@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614cae979af6646e796fd3d57edf9d71, type: 3}
+  m_Name: Parabola
+  m_EditorClassIdentifier: 
+  listName: "Parab\xF3lica"
+  topics:
+  - {fileID: 11400000, guid: 6dcaa3a9a28fd4673a34fdd4adfe5fb3, type: 2}
+  - {fileID: 11400000, guid: 61c2216324ed1404d8997f6c18f7afce, type: 2}
+  - {fileID: 11400000, guid: ecb6c2ade0a464aa5a6115b5f29ca290, type: 2}

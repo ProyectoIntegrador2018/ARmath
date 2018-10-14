@@ -9,6 +9,26 @@ public class StreamVideo : MonoBehaviour
 
     public RawImage rawImage;
     public VideoPlayer videoPlayer;
+    public GameObject image;
+
+    private bool firstPlayback = true;
+
+
+
+    public void ResetState(){
+        firstPlayback = true;
+        rawImage.texture = null;
+        rawImage.color = new Color(0, 0, 0,1);
+        image.SetActive(true);
+    }
+
+
+    private void PlayState(){
+        firstPlayback = false;
+        rawImage.color = new Color(1, 1, 1,1);
+        image.SetActive(false);
+    }
+
 
 
     IEnumerator StartVideoPlayback(){
@@ -21,15 +41,11 @@ public class StreamVideo : MonoBehaviour
             break;
         }
         rawImage.texture = videoPlayer.texture;
+        PlayState();
         videoPlayer.Play();
 
 
     }
-
-    public void EndStreaming(){
-        videoPlayer.Stop();
-    }
-   
 
    public void ToggleVideoState()
     {
@@ -39,6 +55,7 @@ public class StreamVideo : MonoBehaviour
 
         }else{
             videoPlayer.Pause();
+            image.SetActive(true);
         }
      
       

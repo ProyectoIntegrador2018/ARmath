@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e77384fa63e24249918220f1d94937e, type: 3}
+  m_Name: y=sen(x)+k
+  m_EditorClassIdentifier: 
+  topicName: y = sen(x)+k
+  layoutType: 0
+  videoClip: {fileID: 32900000, guid: 89cfeccf51ee0439dbcc26fa7763acc3, type: 3}
+  grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
+  models:
+  - {fileID: 1418358669746842, guid: 6e0e5a34a020a43caad9f7bfb1b0a4bc, type: 2}
+  - {fileID: 1837961958700554, guid: a6c61d577ca284f638c0683c735831aa, type: 2}
+  - {fileID: 1317629276121172, guid: 3982fc7353b8d4e5197e44cbe63364a7, type: 2}
+  - {fileID: 1054917827273678, guid: 0f92a41e2882840a8a04d34c18414bca, type: 2}
+  overridesGrid: 00000000
+  buttonText:
+  - k<0
+  - 3D
+  - k>0
+  - 3D

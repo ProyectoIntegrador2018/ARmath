@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614cae979af6646e796fd3d57edf9d71, type: 3}
+  m_Name: Senoidal
+  m_EditorClassIdentifier: 
+  listName: Senoidal
+  topics:
+  - {fileID: 11400000, guid: bc17739eb37db4a34bc6b27b94eae754, type: 2}
+  - {fileID: 11400000, guid: 8a55ca7d166574174834a025d8dcce0e, type: 2}
+  - {fileID: 11400000, guid: 7b4d196e6ea0f477b8cdc5cc2fcb9f03, type: 2}
+  - {fileID: 11400000, guid: e7f4d2c3c7d1c4a38a78f972c14debab, type: 2}

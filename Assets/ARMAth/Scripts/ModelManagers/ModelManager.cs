@@ -56,6 +56,7 @@ public class ModelManager : MonoBehaviour{
         videoPlayer.Stop();
         layouts[currentTopic.layoutType].SetActive(false);
         GameObject.Find("TopicManager").GetComponent<TopicManager>().SetCurrentTopic(null);
+        this.GetComponent<StreamVideo>().ResetState();
 
     }
 
