@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614cae979af6646e796fd3d57edf9d71, type: 3}
+  m_Name: CAArribaC
+  m_EditorClassIdentifier: 
+  listName: "C\xF3ncava Arriba Creciente"
+  topics:
+  - {fileID: 11400000, guid: bee60d457c1364cb3a7a654631300026, type: 2}

@@ -74,6 +74,7 @@
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicManager.cs" />
     <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelEventHandler.cs" />
     <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelManager.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\ShowModelStep.cs" />
     <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\StreamVideo.cs" />
     <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\VideoResize.cs" />
     <Compile Include="Assets\ARMAth\Scripts\UIEffects\ListPool.cs" />

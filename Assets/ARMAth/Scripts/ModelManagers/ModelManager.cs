@@ -38,6 +38,10 @@ public class ModelManager : MonoBehaviour{
     }
 
     private void SetLayout(){
+        foreach (GameObject layout in layouts) {
+            layout.SetActive(false);
+        }
+
         layouts[currentTopic.layoutType].SetActive(true);
     }
 

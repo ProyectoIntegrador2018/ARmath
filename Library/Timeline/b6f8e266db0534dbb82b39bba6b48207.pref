@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 0
+  timeAreaShownRange: {x: -0.12576662, y: 11.947829}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 0
+  verticalScroll: 0
+  m_Keys:
+  - {fileID: 114065664729592680, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114572076304637036, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114252109266753228, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114900908860144638, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114612936949804144, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114990893849750300, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114119817112425516, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114433406096157548, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114793176283964962, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114595428190048350, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114888663388412714, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114465562930254112, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  - {fileID: 114187857645327756, guid: b6f8e266db0534dbb82b39bba6b48207, type: 2}
+  m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100

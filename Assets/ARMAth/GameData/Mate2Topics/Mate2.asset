@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 322d3c2ab44c14df1954e431a295d9ac, type: 3}
+  m_Name: Mate2
+  m_EditorClassIdentifier: 
+  topicName: "S\xF3lidos de Revoluci\xF3n"
+  mainTopics:
+  - {fileID: 11400000, guid: 5dbb87ff0c4b545279bb3573e22e47d4, type: 2}
+  - {fileID: 11400000, guid: fe1d0c46dd98c4b9f83f5fa5a60be1d5, type: 2}
