@@ -1,6 +1,9 @@
 # AR Math App
 
-A mobile AR application to help learn math
+The purpose of this project is to facilitate mathematical learning, using graphic models projected by augmented reality so that students have the ability to visualize interactive content in the form of three-dimensional objects accompanied by videos and explanatory content on the subjects of:
+Plane to space (Mathematics 1)
+Solids of revolution (Mathematics 2)
+Surfaces in space (Mathematics 3)
 
 ## Table of contents
 
