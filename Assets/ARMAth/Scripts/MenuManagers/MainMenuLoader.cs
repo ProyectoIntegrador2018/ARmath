@@ -18,6 +18,7 @@ namespace KreliStudio
         {
             LoadMenu();
             carouselPanel.GetComponent<UICarouselPanel>().Init();
+            //LoadShadows();
         }
 
         private void LoadMenu()
@@ -42,12 +43,25 @@ namespace KreliStudio
                 clone.transform.parent = this.transform;
 
                 //Setting up button configuration
-                clone.GetComponent<UIButton>().actionsOnClick = buttonActions;
-                RectTransform rectTranform = clone.GetComponent<RectTransform>();
+                clone.GetComponentInChildren<UIButton>().actionsOnClick = buttonActions;
+
+
                 Text cloneText = clone.GetComponentInChildren<Text>();
                 cloneText.text = topicMananger.GetComponent<TopicManager>().topics[i].topicName;
 
              }
+
+
+        }
+
+        private void LoadShadows(){
+
+            foreach (Transform child in transform)
+            {
+                GameObject childGameObject = child.gameObject;
+                GameObject shadow = childGameObject.GetComponent<AdjustableSoftShadow>().CreateShadow();
+                shadow.transform.SetParent(this.transform.root);
+            }
 
 
         }
