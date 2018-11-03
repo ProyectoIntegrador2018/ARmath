@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -13,7 +14,32 @@ public class StreamVideo : MonoBehaviour
 
     private bool firstPlayback = true;
 
+    private void Update()
+    {
+        HasPlaybackFinished();
+    }
 
+    private void HasPlaybackFinished(){
+
+        long playerCurrentFrame = videoPlayer.frame;
+        long playerFrameCount = Convert.ToInt64(videoPlayer.frameCount);
+
+        if (playerCurrentFrame < playerFrameCount)
+        {
+            print("VIDEO IS PLAYING");
+        }
+        else
+        {
+            videoPlayer.Pause();
+            image.SetActive(true);
+            firstPlayback = true;
+            rawImage.color = new Color(0, 0, 0, 1);
+            image.SetActive(true);
+
+        }
+
+
+    }
 
     public void ResetState(){
         firstPlayback = true;
@@ -30,7 +56,6 @@ public class StreamVideo : MonoBehaviour
     }
 
 
-
     IEnumerator StartVideoPlayback(){
 
         videoPlayer.Prepare();
@@ -43,13 +68,10 @@ public class StreamVideo : MonoBehaviour
         rawImage.texture = videoPlayer.texture;
         PlayState();
         videoPlayer.Play();
-
-
     }
 
    public void ToggleVideoState()
     {
-
         if(!videoPlayer.isPlaying){
             StartCoroutine(StartVideoPlayback());
 
@@ -57,7 +79,6 @@ public class StreamVideo : MonoBehaviour
             videoPlayer.Pause();
             image.SetActive(true);
         }
-     
-      
+
     }
 }

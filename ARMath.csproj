@@ -306,6 +306,7 @@
     <Compile Include="Assets\ARMAth\Scripts\DataModel\TopicList.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\DynamicGrid.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\LayoutManager.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\LinkImage.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuDynamicGrid.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\ScreenLoader.cs" />
@@ -320,6 +321,7 @@
     <Compile Include="Assets\ARMAth\Scripts\UIEffects\ListPool.cs" />
     <Compile Include="Assets\ARMAth\Scripts\UIEffects\ObjectPool.cs" />
     <Compile Include="Assets\ARMAth\Scripts\UIEffects\Shadow.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\UIEffects\UIColorManager.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\PositionController.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\RotationController.cs" />
     <Compile Include="Assets\Cross Section Shader\Examples\Scripts\SliderValueToText.cs" />

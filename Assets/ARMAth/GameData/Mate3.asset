@@ -13,3 +13,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   topicName: Superficies en el Espacio
   mainTopics: []
+  imageSprite: {fileID: 21300000, guid: abdfe8f119b794454b6ca1fd8050bf51, type: 3}

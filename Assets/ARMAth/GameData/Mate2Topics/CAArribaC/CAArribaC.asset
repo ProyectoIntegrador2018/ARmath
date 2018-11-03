@@ -14,3 +14,5 @@ MonoBehaviour:
   listName: "C\xF3ncava Arriba Creciente"
   topics:
   - {fileID: 11400000, guid: bee60d457c1364cb3a7a654631300026, type: 2}
+  imageSpriteSubTopic: {fileID: 21300012, guid: 6e2f161565b087745bb4abd76c590906,
+    type: 3}

@@ -16,3 +16,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 998b58881f8e24fcd83ad4133699a4f8, type: 2}
   - {fileID: 11400000, guid: da494a98537c64949a8ddaf65a320321, type: 2}
   - {fileID: 11400000, guid: 537f11d291d2b4599b22ffd90c4e2f85, type: 2}
+  imageSprite: {fileID: 21300000, guid: 32af2ba072bdd41568729f192c380bad, type: 3}

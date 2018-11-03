@@ -9,5 +9,6 @@ public class TopicList : ScriptableObject
 
     public string listName;
     public List<Topic> topics;
+    public Sprite imageSpriteSubTopic;
 
 }

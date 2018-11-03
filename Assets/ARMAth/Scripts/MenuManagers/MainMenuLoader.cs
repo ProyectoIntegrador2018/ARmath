@@ -11,14 +11,11 @@ namespace KreliStudio
         public GameObject carouselPanel;
         public GameObject buttonPrefab;
 
-
-
         // Use this for initialization
         void Start()
         {
             LoadMenu();
-            carouselPanel.GetComponent<UICarouselPanel>().Init();
-            //LoadShadows();
+            carouselPanel.GetComponent<UICarouselPanel>().Init();           
         }
 
         private void LoadMenu()
@@ -42,9 +39,11 @@ namespace KreliStudio
                 GameObject clone = Instantiate(buttonPrefab, this.transform);
                 clone.transform.parent = this.transform;
 
+
+
                 //Setting up button configuration
                 clone.GetComponentInChildren<UIButton>().actionsOnClick = buttonActions;
-
+                clone.transform.Find("ButtonImage").gameObject.GetComponent<Image>().sprite = topicMananger.GetComponent<TopicManager>().topics[i].imageSprite;
 
                 Text cloneText = clone.GetComponentInChildren<Text>();
                 cloneText.text = topicMananger.GetComponent<TopicManager>().topics[i].topicName;
@@ -54,17 +53,6 @@ namespace KreliStudio
 
         }
 
-        private void LoadShadows(){
-
-            foreach (Transform child in transform)
-            {
-                GameObject childGameObject = child.gameObject;
-                GameObject shadow = childGameObject.GetComponent<AdjustableSoftShadow>().CreateShadow();
-                shadow.transform.SetParent(this.transform.root);
-            }
-
-
-        }
 
     }
 }

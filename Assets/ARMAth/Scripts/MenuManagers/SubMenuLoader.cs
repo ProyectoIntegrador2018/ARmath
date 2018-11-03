@@ -28,6 +28,9 @@ public class SubMenuLoader : MonoBehaviour {
             GameObject clone = Instantiate(buttonPrefab, this.transform);
             clone.transform.parent = this.transform;
 
+            clone.transform.Find("SubTopicImage").gameObject.GetComponent<Image>().sprite = topicList.imageSpriteSubTopic;
+
+
             Text cloneText = clone.GetComponentInChildren<Text>();
 
             cloneText.text = topicList.listName;
@@ -50,7 +53,6 @@ public class SubMenuLoader : MonoBehaviour {
 
             Text cloneText = buttonClone.GetComponentInChildren<Text>();
             cloneText.text = topic.topicName;
-
 
             Actions buttonActions = new Actions();
             buttonActions.isUIScreen = true;
