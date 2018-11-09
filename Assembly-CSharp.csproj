@@ -69,6 +69,7 @@
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\LinkImage.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuDynamicGrid.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\MainMenuLoader.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\MenuManagers\RotateImage.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\ScreenLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\SubMenuLoader.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicButtonSettings.cs" />

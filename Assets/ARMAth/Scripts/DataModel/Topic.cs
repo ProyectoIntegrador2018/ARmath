@@ -15,6 +15,8 @@ public class Topic : ScriptableObject {
     public List<GameObject> models;
     public List<bool> overridesGrid;
     public List<string> buttonText;
+    public Sprite buttonImage;
+    public bool hasButtonImage = false;
 
 
 }

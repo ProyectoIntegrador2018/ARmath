@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e77384fa63e24249918220f1d94937e, type: 3}
+  m_Name: EjeY
+  m_EditorClassIdentifier: 
+  topicName: Eje Y
+  layoutType: 1
+  videoClip: {fileID: 32900000, guid: 42c4cb468c93b4460a84bba79dc950e4, type: 3}
+  grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
+  models:
+  - {fileID: 1101902691366754, guid: 518290edc5aa441e89254599f8a44ca5, type: 2}
+  - {fileID: 1669815196780326, guid: 68cedecf9e4674467aff8769867d5e8e, type: 2}
+  - {fileID: 1194812489537952, guid: a79c3e83495aa48bfa8e0c58dc42c01e, type: 2}
+  overridesGrid: 010101
+  buttonText:
+  - Visualiza
+  - Discos
+  - Cortezas
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0

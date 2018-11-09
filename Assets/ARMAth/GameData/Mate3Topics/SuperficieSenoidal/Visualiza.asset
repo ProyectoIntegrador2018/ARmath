@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e77384fa63e24249918220f1d94937e, type: 3}
+  m_Name: Visualiza
+  m_EditorClassIdentifier: 
+  topicName: Visualiza
+  layoutType: 3
+  videoClip: {fileID: 32900000, guid: 5b9145964161c4252b0dcae623a3e474, type: 3}
+  grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
+  models:
+  - {fileID: 1635060062367326, guid: 615fac87cba624a30b45b03398311932, type: 2}
+  - {fileID: 1019209387153694, guid: 99f9338f579154be78a7460a8a4136dc, type: 2}
+  overridesGrid: 0101
+  buttonText:
+  - 3D
+  - 2D-3D
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0

@@ -549,7 +549,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   carouselPanel: {fileID: 1805015368596178}
-  buttonPrefab: {fileID: 1396762832521930, guid: 670ecf9aa9e2545f1b05138c164ffb26,
+  buttonPrefab: {fileID: 1918222555779722, guid: 670ecf9aa9e2545f1b05138c164ffb26,
     type: 2}
   subMenuButtonPrefab: {fileID: 1223293903339280, guid: edc49fc0369044b8cbd4ef89657b1d27,
     type: 2}

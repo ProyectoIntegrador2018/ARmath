@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e77384fa63e24249918220f1d94937e, type: 3}
+  m_Name: EjeX
+  m_EditorClassIdentifier: 
+  topicName: Eje X
+  layoutType: 1
+  videoClip: {fileID: 32900000, guid: 17bb519b8e4724a37927b5b09da5ea22, type: 3}
+  grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
+  models:
+  - {fileID: 1966786789416384, guid: 791359d03e17b4619955825f2fbe3b5e, type: 2}
+  - {fileID: 1511826349679848, guid: bc85196b00a1c4acf88042857e0e7235, type: 2}
+  - {fileID: 1994506385330664, guid: 1b49b0dca852648b1a68acf048d39910, type: 2}
+  overridesGrid: 010101
+  buttonText:
+  - Visualiza
+  - Discos
+  - Cortezas
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0

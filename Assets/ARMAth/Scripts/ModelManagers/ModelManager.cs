@@ -26,6 +26,9 @@ public class ModelManager : MonoBehaviour{
         SetButtons();
     }
 
+
+
+
     private void RetrieveTopic(){
 
         currentTopic = GameObject.Find("TopicManager").GetComponent<TopicManager>().GetCurrentTopic();
@@ -151,6 +154,11 @@ public class ModelManager : MonoBehaviour{
 
 
     private void PlayAnimation(){
+
+        if (currentModel.GetComponent<PlayableDirector>() == null){
+            return;
+        }
+
         currentModel.GetComponent<PlayableDirector>().Play();
     }
 

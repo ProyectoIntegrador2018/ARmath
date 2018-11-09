@@ -16,11 +16,13 @@ MonoBehaviour:
   videoClip: {fileID: 32900000, guid: 6f30bdf615ab04b2c8fa0ab92b272e88, type: 3}
   grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
   models:
-  - {fileID: 1795420251904590, guid: 34a31405db0434c1b82b65809021b009, type: 2}
-  - {fileID: 1013130864197548, guid: 0485762604ddd420f950361d3161fdd6, type: 2}
-  - {fileID: 1598303122277778, guid: 1980f32ee2b8d4d249492637f59811da, type: 2}
-  overridesGrid: 000001
+  - {fileID: 1931996069391562, guid: 34a31405db0434c1b82b65809021b009, type: 2}
+  - {fileID: 1501767755407318, guid: 0485762604ddd420f950361d3161fdd6, type: 2}
+  - {fileID: 1193675167995808, guid: 1980f32ee2b8d4d249492637f59811da, type: 2}
+  overridesGrid: 010101
   buttonText:
   - Visualiza
   - Discos
   - Cortezas
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0

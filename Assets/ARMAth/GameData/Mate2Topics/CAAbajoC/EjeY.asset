@@ -19,8 +19,10 @@ MonoBehaviour:
   - {fileID: 1507925796225314, guid: fb783ef70fab5470785ed2845da0e15b, type: 2}
   - {fileID: 1500919919046178, guid: a8eb8af6b27c64c91ad74e967d56decd, type: 2}
   - {fileID: 1603075173035188, guid: d4d6d514807d44759a8563c1b311b4cf, type: 2}
-  overridesGrid: 000000
+  overridesGrid: 010101
   buttonText:
   - Visualiza
   - Discos
   - Cortezas
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0

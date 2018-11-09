@@ -52,7 +52,16 @@ public class SubMenuLoader : MonoBehaviour {
             buttonClone.transform.parent = container.transform;
 
             Text cloneText = buttonClone.GetComponentInChildren<Text>();
-            cloneText.text = topic.topicName;
+            if (topic.hasButtonImage){
+                GameObject buttonImage = buttonClone.transform.Find("ButtonImage").gameObject;
+                buttonImage.SetActive(true);
+                cloneText.enabled = !cloneText.enabled;
+                buttonImage.GetComponent<Image>().sprite = topic.buttonImage;
+            }else{
+               
+                cloneText.text = topic.topicName;
+
+            }
 
             Actions buttonActions = new Actions();
             buttonActions.isUIScreen = true;

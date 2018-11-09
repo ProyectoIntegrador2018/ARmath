@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e77384fa63e24249918220f1d94937e, type: 3}
+  m_Name: ParaboloideHiper-Trazas
+  m_EditorClassIdentifier: 
+  topicName: Trazas
+  layoutType: 2
+  videoClip: {fileID: 32900000, guid: 1387195e158eb4bb3bc7719109a89165, type: 3}
+  grid: {fileID: 1322031937732190, guid: ef5ccdd4150184a4b8908029d7daab0a, type: 2}
+  models:
+  - {fileID: 1215658171495494, guid: 2be0dc488c0634ac291bcecb0cb4cc01, type: 2}
+  - {fileID: 1825355400623986, guid: 5d230e3716e7e47c3adcbaa48d6e82f6, type: 2}
+  - {fileID: 1599209230962264, guid: 7f914817e8f19421b9ac238a6a93b0d9, type: 2}
+  overridesGrid: 010101
+  buttonText:
+  - XZ
+  - YZ
+  - XY
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0

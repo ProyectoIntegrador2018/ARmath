@@ -16,5 +16,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6dcaa3a9a28fd4673a34fdd4adfe5fb3, type: 2}
   - {fileID: 11400000, guid: 61c2216324ed1404d8997f6c18f7afce, type: 2}
   - {fileID: 11400000, guid: ecb6c2ade0a464aa5a6115b5f29ca290, type: 2}
-  imageSpriteSubTopic: {fileID: 21300012, guid: 6e2f161565b087745bb4abd76c590906,
+  imageSpriteSubTopic: {fileID: 21300000, guid: cbc5730cbe6c74e76a887a963668478a,
     type: 3}

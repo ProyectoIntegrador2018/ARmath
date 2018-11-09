@@ -26,3 +26,5 @@ MonoBehaviour:
   - 3D
   - k>0
   - 3D
+  buttonImage: {fileID: 21300000, guid: 70ed4b31183d84e0584c16cce75f5aa4, type: 3}
+  hasButtonImage: 1
