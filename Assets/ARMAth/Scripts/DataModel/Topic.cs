@@ -17,6 +17,7 @@ public class Topic : ScriptableObject {
     public List<string> buttonText;
     public Sprite buttonImage;
     public bool hasButtonImage = false;
+    public Sprite topicSprite;
 
 
 }

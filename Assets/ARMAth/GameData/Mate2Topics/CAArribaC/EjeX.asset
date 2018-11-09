@@ -24,3 +24,6 @@ MonoBehaviour:
   - Visualiza
   - Discos
   - Cortezas
+  buttonImage: {fileID: 0}
+  hasButtonImage: 0
+  topicSprite: {fileID: 21300000, guid: 40a56fa3f8a0e4b03aa7029c3d80524f, type: 3}

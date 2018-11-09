@@ -28,3 +28,4 @@ MonoBehaviour:
   - 3D
   buttonImage: {fileID: 21300000, guid: 70ed4b31183d84e0584c16cce75f5aa4, type: 3}
   hasButtonImage: 1
+  topicSprite: {fileID: 21300000, guid: 0999a15b465194e08b39a42eaf53181d, type: 3}

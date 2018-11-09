@@ -26,3 +26,4 @@ MonoBehaviour:
   - XY
   buttonImage: {fileID: 0}
   hasButtonImage: 0
+  topicSprite: {fileID: 21300000, guid: 6ff1411a1fc7b47f7b72c6883e6422fc, type: 3}

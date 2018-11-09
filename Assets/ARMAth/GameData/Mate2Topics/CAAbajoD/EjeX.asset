@@ -26,3 +26,4 @@ MonoBehaviour:
   - Cortezas
   buttonImage: {fileID: 0}
   hasButtonImage: 0
+  topicSprite: {fileID: 21300000, guid: 7c1ee493fe16b4029b73faa8057cc7c3, type: 3}

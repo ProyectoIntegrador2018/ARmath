@@ -24,10 +24,14 @@ public class ModelManager : MonoBehaviour{
         SetVideoPlayer();
         SetLayout();
         SetButtons();
+        SetTopicSprite();
     }
 
 
-
+    private void SetTopicSprite(){
+        SpriteRenderer spriteRenderer = GameObject.Find("TopicSprite").GetComponent<SpriteRenderer>();
+        spriteRenderer.sprite = currentTopic.topicSprite;
+    }
 
     private void RetrieveTopic(){
 
@@ -64,6 +68,8 @@ public class ModelManager : MonoBehaviour{
         layouts[currentTopic.layoutType].SetActive(false);
         GameObject.Find("TopicManager").GetComponent<TopicManager>().SetCurrentTopic(null);
         this.GetComponent<StreamVideo>().ResetState();
+
+        GameObject.Find("TopicSprite").GetComponent<SpriteRenderer>().sprite = null;
 
     }
 
