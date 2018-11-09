@@ -74,6 +74,7 @@
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicButtonSettings.cs" />
     <Compile Include="Assets\ARMAth\Scripts\MenuManagers\TopicManager.cs" />
     <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelEventHandler.cs" />
+    <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelFade.cs" />
     <Compile Include="Assets\ARMAth\Scripts\ModelManagers\ModelManager.cs" />
     <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\ShowModelStep.cs" />
     <Compile Include="Assets\ARMAth\Scripts\PlaybackManagers\StreamVideo.cs" />
@@ -120,6 +121,7 @@
     <Compile Include="Assets\Scripts\UIGradientUtils.cs" />
     <Compile Include="Assets\Scripts\UITextCornersGradient.cs" />
     <Compile Include="Assets\Scripts\UITextGradient.cs" />
+    <Compile Include="Assets\SimpleGridShader\DistanceScaling.cs" />
     <Compile Include="Assets\SoftShadowUI\Script\AdjustableSoftShadow.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
@@ -140,6 +142,8 @@
     <None Include="Assets\KreliUI\Shaders\Hidden.shader" />
     <None Include="Assets\Cross Section Shader\Shaders\StincelledUnlitTexture.shader" />
     <None Include="Assets\Cross Section Shader\Shaders\StandardDoubleFace.shader" />
+    <None Include="Assets\SimpleGridShader\README.txt" />
+    <None Include="Assets\SimpleGridShader\GridShader.shader" />
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />

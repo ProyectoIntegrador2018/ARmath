@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: b75887fa74baf412ca30b81ac5e7182a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cuchilla_1
+    100002: cuchilla_2
+    100004: cuchilla_3
+    100006: cuchilla_4
+    100008: cuchilla_5
+    100010: cuchilla_6
+    100012: cuchilla_7
+    100014: cuchilla_8
+    100016: cuchilla_9
+    100018: curva1
+    100020: curva10
+    100022: curva2
+    100024: curva3
+    100026: curva4
+    100028: curva5
+    100030: curva6
+    100032: curva7
+    100034: curva8
+    100036: curva9
+    100038: hiperboloide_eje_x:object_15
+    100040: //RootNode
+    100042: surface_1
+    100044: surface_2
+    100046: surface_3
+    100048: surface_4
+    100050: surface_5
+    100052: surface_6
+    100054: surface_7
+    100056: surface_8
+    100058: surface_9
+    400000: cuchilla_1
+    400002: cuchilla_2
+    400004: cuchilla_3
+    400006: cuchilla_4
+    400008: cuchilla_5
+    400010: cuchilla_6
+    400012: cuchilla_7
+    400014: cuchilla_8
+    400016: cuchilla_9
+    400018: curva1
+    400020: curva10
+    400022: curva2
+    400024: curva3
+    400026: curva4
+    400028: curva5
+    400030: curva6
+    400032: curva7
+    400034: curva8
+    400036: curva9
+    400038: hiperboloide_eje_x:object_15
+    400040: //RootNode
+    400042: surface_1
+    400044: surface_2
+    400046: surface_3
+    400048: surface_4
+    400050: surface_5
+    400052: surface_6
+    400054: surface_7
+    400056: surface_8
+    400058: surface_9
+    2100000: yellow
+    2100002: superficie
+    2100004: curva
+    2300000: cuchilla_1
+    2300002: cuchilla_2
+    2300004: cuchilla_3
+    2300006: cuchilla_4
+    2300008: cuchilla_5
+    2300010: cuchilla_6
+    2300012: cuchilla_7
+    2300014: cuchilla_8
+    2300016: cuchilla_9
+    2300018: curva1
+    2300020: curva10
+    2300022: curva2
+    2300024: curva3
+    2300026: curva4
+    2300028: curva5
+    2300030: curva6
+    2300032: curva7
+    2300034: curva8
+    2300036: curva9
+    2300038: hiperboloide_eje_x:object_15
+    2300040: surface_1
+    2300042: surface_2
+    2300044: surface_3
+    2300046: surface_4
+    2300048: surface_5
+    2300050: surface_6
+    2300052: surface_7
+    2300054: surface_8
+    2300056: surface_9
+    3300000: cuchilla_1
+    3300002: cuchilla_2
+    3300004: cuchilla_3
+    3300006: cuchilla_4
+    3300008: cuchilla_5
+    3300010: cuchilla_6
+    3300012: cuchilla_7
+    3300014: cuchilla_8
+    3300016: cuchilla_9
+    3300018: curva1
+    3300020: curva10
+    3300022: curva2
+    3300024: curva3
+    3300026: curva4
+    3300028: curva5
+    3300030: curva6
+    3300032: curva7
+    3300034: curva8
+    3300036: curva9
+    3300038: hiperboloide_eje_x:object_15
+    3300040: surface_1
+    3300042: surface_2
+    3300044: surface_3
+    3300046: surface_4
+    3300048: surface_5
+    3300050: surface_6
+    3300052: surface_7
+    3300054: surface_8
+    3300056: surface_9
+    4300000: cuchilla_1
+    4300002: cuchilla_2
+    4300004: cuchilla_3
+    4300006: cuchilla_4
+    4300008: cuchilla_5
+    4300010: cuchilla_6
+    4300012: cuchilla_7
+    4300014: cuchilla_8
+    4300016: cuchilla_9
+    4300018: surface_3
+    4300020: surface_8
+    4300022: surface_4
+    4300024: surface_9
+    4300026: hiperboloide_eje_x:object_15
+    4300028: surface_7
+    4300030: surface_6
+    4300032: surface_5
+    4300034: surface_2
+    4300036: surface_1
+    4300038: curva10
+    4300040: curva9
+    4300042: curva8
+    4300044: curva7
+    4300046: curva6
+    4300048: curva5
+    4300050: curva4
+    4300052: curva3
+    4300054: curva2
+    4300056: curva1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curva
+    second: {fileID: 2100000, guid: 9fe392bf2ee54514da81dceb58f00a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: superficie
+    second: {fileID: 2100000, guid: 091650e0765eac149be74611a402dc0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow
+    second: {fileID: 2100000, guid: b278e819a1beecb478d3c95384130345, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
