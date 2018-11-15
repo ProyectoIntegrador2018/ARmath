@@ -132,7 +132,6 @@
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
-    <None Include="Assets\StreamingAssets\Vuforia\ARMathDatabase.xml" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
     <None Include="Assets\Cross Section Shader\Shaders\ThreeAAPlanesBSP.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
@@ -140,6 +139,7 @@
     <None Include="Assets\Cross Section Shader\Shaders\DoubleFaceUnlit.shader" />
     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
+    <None Include="Assets\StreamingAssets\Vuforia\ARMathDatabase.xml" />
     <None Include="Assets\KreliUI\Shaders\Hidden.shader" />
     <None Include="Assets\Cross Section Shader\Shaders\StincelledUnlitTexture.shader" />
     <None Include="Assets\Cross Section Shader\Shaders\StandardDoubleFace.shader" />

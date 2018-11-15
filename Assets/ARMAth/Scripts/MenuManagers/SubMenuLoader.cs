@@ -25,6 +25,11 @@ public class SubMenuLoader : MonoBehaviour {
 
         foreach(TopicList topicList in mainTopics){
 
+
+            if (topicList == null){
+                Debug.Log("I'm a null object");
+            }
+
             GameObject clone = Instantiate(buttonPrefab, this.transform);
             clone.transform.parent = this.transform;
 
