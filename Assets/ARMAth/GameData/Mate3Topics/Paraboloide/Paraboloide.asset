@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 614cae979af6646e796fd3d57edf9d71, type: 3}
   m_Name: Paraboloide
   m_EditorClassIdentifier: 
-  listName: "Paraboloide HiperB\xF3lico"
+  listName: Paraboloide
   topics:
   - {fileID: 11400000, guid: 743c92704b7964af09c99bf06106a827, type: 2}
   - {fileID: 11400000, guid: ed1cdfc215bd14cd4b38142e72280bc1, type: 2}
