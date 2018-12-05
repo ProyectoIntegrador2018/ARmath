@@ -1,5 +1,7 @@
 # AR Math App
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/39d77f20374f33c81217/maintainability)](https://codeclimate.com/github/ProyectoIntegrador2018/ARmath/maintainability)
+
 The purpose of this project is to facilitate mathematical learning, using graphic models projected by augmented reality so that students have the ability to visualize interactive content in the form of three-dimensional objects accompanied by videos and explanatory content on the subjects of:
 Plane to space (Mathematics 1)
 Solids of revolution (Mathematics 2)
